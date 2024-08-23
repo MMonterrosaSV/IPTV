@@ -4,26 +4,17 @@
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="SPAIN" tvg-name="La 1",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="SPAIN" tvg-name="La 1",La 1
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
-
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="SPAIN" tvg-name="La 2",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="SPAIN" tvg-name="La 2",La 2
-https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LoVxGji.png" group-title="El Salvador",El Camino
+#EXTINF:-1 group-title="El Salvador",El Camino
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LoVxGji.png" group-title="El Salvador",CANAL 4 (1)
-http://45.5.116.178:8000/play/a00g/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LoVxGji.png" group-title="El Salvador",CANAL 4 (2)
+#EXTINF:-1 group-title="El Salvador",CANAL 4
 https://telecorporacion-es.cdn.vustreams.com/live/9c79f472-bb4d-4ab8-848f-eb613f3b1f96/live.isml/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LoVxGji.png" group-title="El Salvador",CANAL 4 (3)
-http://45.5.116.178:8000/play/a03p/index.m3u8
+#EXTINF:-1  group-title="El Salvador",TCS+
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LoVxGji.png" group-title="USA",A&E
 https://v4.thetvapp.to/hls/AEEast/tracks-v2a1/mono.m3u8?token=aG1tQXAxbTVQWm82QUE5NG9nbjJ4THg5S2hLOEdjVWdZU0piMHo1RA==
@@ -31,25 +22,25 @@ https://v4.thetvapp.to/hls/AEEast/tracks-v2a1/mono.m3u8?token=aG1tQXAxbTVQWm82QU
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central 2018.svg.png" group-title="USA",Comedy Central
 https://v5.thetvapp.to/hls/ComedyCentralEast/tracks-v2a1/mono.m3u8?token=T3JnSkNkSHpXaFRSYVFUbW9hc2F0cm5HZGhpZXJOZUV3NlB2M3FnZA==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LoVxGji.png" group-title="SPORTS", SKY SPORTS LALIGA
+#EXTINF:-1 group-title="SPORTS", SKY SPORTS LALIGA
 https://raw.githubusercontent.com/MMonterrosaSV/LaLiga/main/laliga.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LoVxGji.png" group-title="SPORTS", SKY SPORTS LALIGA 1
+#EXTINF:-1  group-title="SPORTS", SKY SPORTS LALIGA 1
 https://181.78.105.146:2000/play/a08m/index.m3u8?Marcosdos
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LoVxGji.png" group-title="SPORTS", SKY SPORTS LALIGA 2
+#EXTINF:-1  group-title="SPORTS", SKY SPORTS LALIGA 2
 https://181.78.109.49:8000/play/a06r/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LoVxGji.png" group-title="SPORTS", SKY SPORTS LALIGA 3
+#EXTINF:-1 group-title="SPORTS", SKY SPORTS LALIGA 3
 https://45.5.117.182:8000/play/jnl0/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LoVxGji.png" group-title="SPORTS", SKY SPORTS LALIGA 4
+#EXTINF:-1 group-title="SPORTS", SKY SPORTS LALIGA 4
 http://181.78.105.146:2000/play/a08m/index.m3u8?CMCD=cid%3D%2208ef6a1a2ead%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2233d89c81-be71-489e-9455-d605f6b8e6ed%22%2Csu
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LoVxGji.png" group-title="SPORTS", M+ LALIGA HD 🇪🇸
+#EXTINF:-1  group-title="SPORTS", M+ LALIGA HD 🇪🇸
 https://m12.buz-sport.site/hls/0/stream.m3u8
 
-#EXTINF:-1,group-title="SPORTS", SKY SPORTS LALIGA 🇲🇽
-http://190.185.121.102:58092/play/a00t
+#EXTINF:-1  group-title="SPORTS", TNT SPORT 1 🇬🇧
+http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4449&extension=m3u8
 
 
