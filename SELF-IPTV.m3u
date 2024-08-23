@@ -22,11 +22,11 @@ https://v4.thetvapp.to/hls/AEEast/tracks-v2a1/mono.m3u8?token=aG1tQXAxbTVQWm82QU
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central 2018.svg.png" group-title="USA",Comedy Central
 https://v5.thetvapp.to/hls/ComedyCentralEast/tracks-v2a1/mono.m3u8?token=T3JnSkNkSHpXaFRSYVFUbW9hc2F0cm5HZGhpZXJOZUV3NlB2M3FnZA==
 
-#EXTINF:-1 group-title="SPORTS", SUPERSPORT LaLiga
-https://bong.ink/zone-1.m3u8
+#EXTINF:-1 group-title="SPORTS", ESPN
+https://hzt.mizhls.ru/hzt/eplayerespn_usa/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="SPORTS", M+ LALIGA HD 🇪🇸
-https://www.oha.to/play/2428779244/index.m3u8
+#EXTINF:-1 group-title="SPORTS", ESPN
+https://topembed.pw/channel/ESPN2[USA]
 
 #EXTINF:-1  group-title="SPORTS", TNT SPORT 1 🇬🇧
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4449&extension=m3u8
