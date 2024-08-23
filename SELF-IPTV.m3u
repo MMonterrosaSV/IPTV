@@ -5,16 +5,25 @@
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="SPAIN" tvg-name="La 1",La 1
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="SPAIN" tvg-name="La 2",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="SPAIN" tvg-name="La 2",La 2
-https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
+https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LoVxGji.png" group-title="El Salvador",El Camino
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LoVxGji.png" group-title="El Salvador",CANAL 4 (1)
+http://45.5.116.178:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LoVxGji.png" group-title="El Salvador",CANAL 4 (2)
+https://telecorporacion-es.cdn.vustreams.com/live/9c79f472-bb4d-4ab8-848f-eb613f3b1f96/live.isml/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LoVxGji.png" group-title="El Salvador",CANAL 4 (3)
+http://45.5.116.178:8000/play/a03p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LoVxGji.png" group-title="USA",A&E
 https://v4.thetvapp.to/hls/AEEast/tracks-v2a1/mono.m3u8?token=aG1tQXAxbTVQWm82QUE5NG9nbjJ4THg5S2hLOEdjVWdZU0piMHo1RA==
