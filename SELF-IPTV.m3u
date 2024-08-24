@@ -25,39 +25,5 @@ https://v5.thetvapp.to/hls/ComedyCentralEast/tracks-v2a1/mono.m3u8?token=T3JnSkN
 #EXTINF:-1 group-title="SPORTS", La Liga Bar
 https://wattambor-nolie.ifiesta.net:8080/live/TV-1537977832/167065212064/1398.m3u8
 
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 
-https://linear-489.frequency.stream/mt/studio/489/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 
-https://linear-490.frequency.stream/mt/studio/490/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 
-https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 
-https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 01
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-
-#EXTINF:-1 tvg-name="ES: DAZN LALIGA 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="ES DEPORTES",ES: DAZN LALIGA 2 HD
-http://437993873136320779.ofe0229.xyz:80/play/mkel55/776/320779.ts
-
-#EXTINF:-1 tvg-name="ES: DAZN LALIGA 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="ES DEPORTES",ES: DAZN LALIGA 2 FHD
-http://437993873136320780.ofe0229.xyz:80/play/mkel55/776/320780.ts
-
-#EXTINF:-1 tvg-name="ES: DAZN LALIGA HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="ES DEPORTES",ES: DAZN LALIGA HD
-http://437993873136320781.ofe0229.xyz:80/play/mkel55/776/320781.ts
-
-#EXTINF:-1 tvg-name="ES: DAZN LALIGA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="ES DEPORTES",ES: DAZN LALIGA FHD
-http://437993873136320782.ofe0229.xyz:80/play/mkel55/776/320782.ts
-
-#EXTINF:-1 tvg-name="ES:DAZN LALIGA SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="ES DEPORTES",ES:DAZN LALIGA SD
-http://437993873136320792.ofe0229.xyz:80/play/mkel55/776/320792.ts
-
-#EXTINF:-1 tvg-name="ES: DAZN LALIGA 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="ES DEPORTES",ES: DAZN LALIGA 3 HD
-http://437993873136501466.ofe0229.xyz:80/play/mkel55/776/501466.ts
-
-#EXTINF:-1 tvg-name="ES: DAZN LALIGA 3 SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="ES DEPORTES",ES: DAZN LALIGA 3 SD
-http://437993873136501467.ofe0229.xyz:80/play/mkel55/776/501467.ts
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LoVxGji.png" group-title="USA",A&E 2
+http://167.250.135.246:81/play/a054/index.m3u8
