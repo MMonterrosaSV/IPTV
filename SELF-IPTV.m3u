@@ -28,5 +28,5 @@ https://wattambor-nolie.ifiesta.net:8080/live/TV-1537977832/167065212064/1398.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LoVxGji.png" group-title="USA",A&E 2
 http://167.250.135.246:81/play/a054/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="SPORTS", Movistar+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="SPORTS", Movistar+
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
