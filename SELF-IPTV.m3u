@@ -23,10 +23,25 @@ https://v4.thetvapp.to/hls/AEEast/tracks-v2a1/mono.m3u8?token=aG1tQXAxbTVQWm82QU
 https://v5.thetvapp.to/hls/ComedyCentralEast/tracks-v2a1/mono.m3u8?token=T3JnSkNkSHpXaFRSYVFUbW9hc2F0cm5HZGhpZXJOZUV3NlB2M3FnZA==
 
 #EXTINF:-1 group-title="SPORTS", La Liga Bar
-https://wattambor-nolie.ifiesta.net:8080/live/TV-1537977832/167065212064/1398.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LoVxGji.png" group-title="USA",A&E 2
-http://167.250.135.246:81/play/a054/index.m3u8
+https://wattambor-nolie.ifiesta.net:8080/TV-1537977832/167065212064/1398.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="SPORTS",Movistar+
 https://www.youtube.com/watch?v=3w_7XCAfMxY
+
+#EXTINF:-1 group-title="SPORTS", La Liga Bar
+https://wattambor-nolie.ifiesta.net:8080/live/TV-1537977832/167065212064/1398.m3u8
+
+#EXTINF:-1 group-title="SPORTS", BEIN SPORTS 1 PREMIUM 
+http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/m3u8/hls_m3u8_Bein-Prem-1-HEVC.m3u8
+
+#EXTINF:-1 group-title="SPORTS",,BEIN SPORTS 2 PREMIUM 
+http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/m3u8/hls_m3u8_Bein-Prem-2-HEVC.m3u8
+
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 1 PREMIUM 
+http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
+
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 2 PREMIUM 
+http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
+
+#EXTINF:-1 group-title="SPORTS", BEIN SPORTS 3 PREMIUM 
+http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
