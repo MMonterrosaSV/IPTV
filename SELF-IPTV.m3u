@@ -34,7 +34,7 @@ https://wattambor-nolie.ifiesta.net:8080/live/TV-1537977832/167065212064/1398.m3
 #EXTINF:-1 group-title="SPORTS", BEIN SPORTS 1 PREMIUM 
 http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/m3u8/hls_m3u8_Bein-Prem-1-HEVC.m3u8
 
-#EXTINF:-1 group-title="SPORTS",,BEIN SPORTS 2 PREMIUM 
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 2 PREMIUM 
 http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/m3u8/hls_m3u8_Bein-Prem-2-HEVC.m3u8
 
 #EXTINF:-1 group-title="SPORTS",BEIN SPORTS 1 PREMIUM 
