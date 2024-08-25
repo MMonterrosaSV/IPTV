@@ -25,13 +25,17 @@ https://v4.thetvapp.to/hls/AEEast/tracks-v2a1/mono.m3u8?token=aG1tQXAxbTVQWm82QU
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central 2018.svg.png" group-title="USA",Comedy Central
 https://v5.thetvapp.to/hls/ComedyCentralEast/tracks-v2a1/mono.m3u8?token=T3JnSkNkSHpXaFRSYVFUbW9hc2F0cm5HZGhpZXJOZUV3NlB2M3FnZA==
 
-#EXTINF:-1 group-title="USA", BLOOMBERG TV
-https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
-
 #EXTINF:-1 group-title="USA", CBS NEWS
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
 
-#EXTINF:-1 group-title="SPORTS", La Liga Bar
-https://wattambor-nolie.ifiesta.net:8080/TV-1537977832/167065212064/1398.m3u8
+#EXTINF:-1 group-title="SPORTS", Bein Sports 1 France 🇫🇷
+http://51.178.65.238/BeinSport/mono.m3u8
 
+#EXTINF:-1 group-title="SPORTS", PERSIANA SPORT 🇮🇷 
+https://cdn.footballii.ir/hls2/persianas.m3u8
 
+#EXTINF:-1 group-title="SPORTS",SKY SPORTS LALIGA 🇲🇽
+http://181.78.109.49:8000/play/a06r/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS",SKY SPORTS LALIGA 🇲🇽
+http://45.5.117.182:8000/play/jnl0/index.m3u8
