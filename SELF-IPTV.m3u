@@ -39,3 +39,6 @@ http://181.78.109.49:8000/play/a06r/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS",SKY SPORTS LALIGA 🇲🇽
 http://45.5.117.182:8000/play/jnl0/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS", Bein Sports 1 France 🇫🇷
+http://51.178.65.238/BeinSport/mono.m3u8
