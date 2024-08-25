@@ -42,3 +42,12 @@ http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
 
 #EXTINF:-1 group-title="SPORTS", BEIN SPORTS 3 PREMIUM 
 http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
+
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/152px-FOX_Deportes_logo.svg.png" , FOX DEPORTES
+#EXTVLCOPT:network-caching=1000#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true#
+KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=411a4423a6da462988884c13be14c336:2188c18bdeb20d713619da0dec98d5c9
+https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(72189-FXDEPHD)/manifest.mpd
