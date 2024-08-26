@@ -174,53 +174,34 @@ http://watchindia.net:8880/live/22453/32498/2590.m3u8
 http://watchindia.net:8880/live/22453/32498/2591.m3u8
 #EXTINF:-1 tvg-id="nbcwnbc.us" tvg-name="NBC (New York)" tvg-logo="https://watchindia.net/images/channels/usa/NBC.png" group-title="USA",NBC (New York)
 http://watchindia.net:8880/live/22453/32498/2537.m3u8
-
-#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="Eurosport 1" tvg-logo="https://watchindia.net/images/channels/sports/E1.png" group-title="SPORTS",Eurosport 1
-http://watchindia.net:8880/live/22453/32498/2633.m3u8
-#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="Eurosport 2" tvg-logo="https://watchindia.net/images/channels/sports/E2.png" group-title="SPORTS",Eurosport 2
-http://watchindia.net:8880/live/22453/32498/2634.m3u8
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star SPORTS 1 HD 1" tvg-logo="https://watchindia.net/images/channels/sports/Star_SPORTS_1_HD.png" group-title="SPORTS",Star SPORTS 1 HD 1
-http://watchindia.net:8880/live/22453/32498/2232.m3u8
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star SPORTS 1 HD 2" tvg-logo="https://watchindia.net/images/channels/sports/Star_SPORTS_1_HD.png" group-title="SPORTS",Star SPORTS 1 HD 2
-http://watchindia.net:8880/live/22453/32498/2456.m3u8
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="Star SPORTS 2 HD 1" tvg-logo="https://watchindia.net/images/channels/sports/Star_SPORTS_2_HD.png" group-title="SPORTS",Star SPORTS 2 HD 1
-http://watchindia.net:8880/live/22453/32498/1069.m3u8
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="Star SPORTS 2 HD 2" tvg-logo="https://watchindia.net/images/channels/sports/Star_SPORTS_2_HD.png" group-title="SPORTS",Star SPORTS 2 HD 2
-http://watchindia.net:8880/live/22453/32498/2163.m3u8
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star SPORTS Select 1 HD 1" tvg-logo="https://watchindia.net/images/channels/sports/Star_SPORTS_Select_1_HD.png" group-title="SPORTS",Star SPORTS Select 1 HD 1
-http://watchindia.net:8880/live/22453/32498/1070.m3u8
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star SPORTS Select 1 HD 2" tvg-logo="https://watchindia.net/images/channels/sports/Star_SPORTS_Select_1_HD.png" group-title="SPORTS",Star SPORTS Select 1 HD 2
-http://watchindia.net:8880/live/22453/32498/2292.m3u8
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star SPORTS Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_SPORTS_Select_2_HD.png" group-title="SPORTS",Star SPORTS Select 2 HD
-http://watchindia.net:8880/live/22453/32498/1071.m3u8
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky SPORTS Main Event" tvg-logo="https://watchindia.net/images/channels/sports/Sky_SPORTS_Main_Event.png" group-title="SPORTS",Sky SPORTS Main Event
-http://watchindia.net:8880/live/22453/32498/2091.m3u8
-#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="Sky SPORTS Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_SPORTS_Premier_League.png" group-title="SPORTS",Sky SPORTS Premier League
-http://watchindia.net:8880/live/22453/32498/2092.m3u8
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="Sky SPORTS F1" tvg-logo="https://watchindia.net/images/channels/sports/Sky_SPORTS_F1.png" group-title="SPORTS",Sky SPORTS F1
-http://watchindia.net:8880/live/22453/32498/2094.m3u8
-#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="Sky SPORTS Arena" tvg-logo="https://watchindia.net/images/channels/sports/Sky_SPORTS_Arena.png" group-title="SPORTS",Sky SPORTS Arena
-http://watchindia.net:8880/live/22453/32498/2095.m3u8
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="Fox SPORTS 1" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="SPORTS",Fox SPORTS 1
-http://watchindia.net:8880/live/22453/32498/2421.m3u8
-
-
 #EXTINF:-1 group-title="USA", CBS NEWS
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
 
-#EXTINF:-1 group-title="SPORTS", DAZN LA LIGA HD (1)
-http://ossie.top:8080/71708413233140/6ab20ceed440/25125
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/us/hbo.png" group-title="MOVIES ENGLISH",USA: VIP HBO
+http://ossie.top:8080/71708413233140/6ab20ceed440/50509
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/us/hbocomedy.png" group-title="MOVIES ENGLISH",USA: VIP HBO COMEDY
+http://ossie.top:8080/71708413233140/6ab20ceed440/50491
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/us/hbofamily.png" group-title="MOVIES ENGLISH",USA: VIP HBO FAMILY
+http://ossie.top:8080/71708413233140/6ab20ceed440/50490
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/us/hbosignature.png" group-title="MOVIES ENGLISH",USA: VIP HBO SIGNATURE
+http://ossie.top:8080/71708413233140/6ab20ceed440/50489
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/us/hbozone.png" group-title="MOVIES ENGLISH",USA: VIP HBO ZONE
+http://ossie.top:8080/71708413233140/6ab20ceed440/50482
 
-#EXTINF:-1 group-title="SPORTS", DAZN LA LIGA HD (2)
-http://ossie.top:8080/71708413233140/6ab20ceed440/57344
-
-#EXTINF:-1 group-title="SPORTS", DAZN LA LIGA FHD (1)
-http://ossie.top:8080/71708413233140/6ab20ceed440/54668
-
-#EXTINF:-1 group-title="SPORTS", DAZN LA LIGA FHD (2)
-http://ossie.top:8080/71708413233140/6ab20ceed440/57359
-
-
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/E1.png" group-title="SPORTS",Eurosport 1
+http://watchindia.net:8880/live/22453/32498/2633.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/E2.png" group-title="SPORTS",Eurosport 2
+http://watchindia.net:8880/live/22453/32498/2634.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Sky_SPORTS_Main_Event.png" group-title="SPORTS",Sky SPORTS Main Event
+http://watchindia.net:8880/live/22453/32498/2091.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Sky_SPORTS_Premier_League.png" group-title="SPORTS",Sky SPORTS Premier League
+http://watchindia.net:8880/live/22453/32498/2092.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Sky_SPORTS_F1.png" group-title="SPORTS",Sky SPORTS F1
+http://watchindia.net:8880/live/22453/32498/2094.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Sky_SPORTS_Arena.png" group-title="SPORTS",Sky SPORTS Arena
+http://watchindia.net:8880/live/22453/32498/2095.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="SPORTS",Fox SPORTS 1
+http://watchindia.net:8880/live/22453/32498/2421.m3u8
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/DAZN_LaLiga.png" group-title="SPORTS",ES: (HD) DAZN LALIGA
 http://ossie.top:8080/71708413233140/6ab20ceed440/25125
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/DAZN_LaLiga.png" group-title="SPORTS",ES: (HD) DAZN LALIGA
@@ -229,87 +210,64 @@ http://ossie.top:8080/71708413233140/6ab20ceed440/57344
 http://ossie.top:8080/71708413233140/6ab20ceed440/54668
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/DAZN_LaLiga.png" group-title="SPORTS",ES: (FHD) DAZN LALIGA
 http://ossie.top:8080/71708413233140/6ab20ceed440/57359
-#EXTINF:-1 tvg-id="DAZN LaLiga 2" tvg-name="ES: DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/DAZN_LaLiga_2.png" group-title="SPORTS",ES: DAZN LALIGA 2
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/DAZN_LaLiga_2.png" group-title="SPORTS",ES: DAZN LALIGA 2
 http://ossie.top:8080/71708413233140/6ab20ceed440/57476
-#EXTINF:-1 tvg-id="M+ LaLigaTV" tvg-name="ES: (HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/LALIGA.png" group-title="SPORTS",ES: (HD) M+ LALIGA
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/LALIGA.png" group-title="SPORTS",ES: (HD) M+ LALIGA
 http://ossie.top:8080/71708413233140/6ab20ceed440/5758
-#EXTINF:-1 tvg-id="M+ LaLigaTV" tvg-name="ES: (HD repuesto) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/LALIGA.png" group-title="SPORTS",ES: (HD repuesto) M+ LALIGA
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/LALIGA.png" group-title="SPORTS",ES: (HD) M+ LALIGA
 http://ossie.top:8080/71708413233140/6ab20ceed440/54535
-#EXTINF:-1 tvg-id="M+ LaLigaTV" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/LALIGA.png" group-title="SPORTS",ES: (FHD) M+ LALIGA
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/LALIGA.png" group-title="SPORTS",ES: (FHD) M+ LALIGA
 http://ossie.top:8080/71708413233140/6ab20ceed440/54532
-#EXTINF:-1 tvg-id="M+ LaLigaTV" tvg-name="ES: (FHD repuesto) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/LALIGA.png" group-title="SPORTS",ES: (FHD repuesto) M+ LALIGA
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/LALIGA.png" group-title="SPORTS",ES: (FHD) M+ LALIGA
 http://ossie.top:8080/71708413233140/6ab20ceed440/57362
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (HD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/dazn-f1-es.png" group-title="SPORTS",ES: (HD) DAZN F1
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/dazn-f1-es.png" group-title="SPORTS",ES: (HD) DAZN F1
 http://ossie.top:8080/71708413233140/6ab20ceed440/57485
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (HD repuesto) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/dazn-f1-es.png" group-title="SPORTS",ES: (HD repuesto) DAZN F1
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/dazn-f1-es.png" group-title="SPORTS",ES: (HD) DAZN F1
 http://ossie.top:8080/71708413233140/6ab20ceed440/57484
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (FHD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/dazn-f1-es.png" group-title="SPORTS",ES: (FHD) DAZN F1
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/dazn-f1-es.png" group-title="SPORTS",ES: (FHD) DAZN F1
 http://ossie.top:8080/71708413233140/6ab20ceed440/57486
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (FHD repuesto) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/dazn-f1-es.png" group-title="SPORTS",ES: (FHD repuesto) DAZN F1
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/dazn-f1-es.png" group-title="SPORTS",ES: (FH) DAZN F1
 http://ossie.top:8080/71708413233140/6ab20ceed440/57483
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="ES: (HD repuesto) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones.png" group-title="SPORTS",ES: (HD repuesto) M+ LIGA DE CAMPEONES
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones.png" group-title="SPORTS",ES: (HD) M+ LIGA DE CAMPEONES
 http://ossie.top:8080/71708413233140/6ab20ceed440/57356
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones.png" group-title="SPORTS",ES: (FHD) M+ LIGA DE CAMPEONES
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones.png" group-title="SPORTS",ES: (FHD) M+ LIGA DE CAMPEONES
 http://ossie.top:8080/71708413233140/6ab20ceed440/54531
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="ES: (FHD repuesto) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones.png" group-title="SPORTS",ES: (FHD repuesto) M+ LIGA DE CAMPEONES
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones.png" group-title="SPORTS",ES: (FHD) M+ LIGA DE CAMPEONES
 http://ossie.top:8080/71708413233140/6ab20ceed440/57363
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="ES: (SD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones.png" group-title="SPORTS",ES: (SD) M+ LIGA DE CAMPEONES
-http://ossie.top:8080/71708413233140/6ab20ceed440/57367
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="ES: DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/dazn-1-es.png" group-title="SPORTS",ES: DAZN 1
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/dazn-1-es.png" group-title="SPORTS",ES: DAZN 1
 http://ossie.top:8080/71708413233140/6ab20ceed440/5589
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="ES: DAZN 1 SD" tvg-logo="https://docdog.top/logo/countries/spain/dazn-1-es.png" group-title="SPORTS",ES: DAZN 1 SD
-http://ossie.top:8080/71708413233140/6ab20ceed440/57475
-#EXTINF:-1 tvg-id="DAZN 2" tvg-name="ES: DAZN 2" tvg-logo="https://docdog.top/logo/countries/spain/dazn-2-es.png" group-title="SPORTS",ES: DAZN 2
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/dazn-2-es.png" group-title="SPORTS",ES: DAZN 2
 http://ossie.top:8080/71708413233140/6ab20ceed440/5590
-#EXTINF:-1 tvg-id="DAZN 3" tvg-name="ES: DAZN 3" tvg-logo="https://docdog.top/logo/countries/spain/dazn-3-es.png" group-title="SPORTS",ES: DAZN 3
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/dazn-3-es.png" group-title="SPORTS",ES: DAZN 3
 http://ossie.top:8080/71708413233140/6ab20ceed440/5591
-#EXTINF:-1 tvg-id="DAZN 4" tvg-name="ES: DAZN 4" tvg-logo="https://docdog.top/logo/countries/spain/dazn-4-es.png" group-title="SPORTS",ES: DAZN 4
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/dazn-4-es.png" group-title="SPORTS",ES: DAZN 4
 http://ossie.top:8080/71708413233140/6ab20ceed440/5592
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: M+ LALIGA TV BAR" tvg-logo="https://docdog.top/logo/countries/spain/LaLigaTVBAR.png" group-title="SPORTS",ES: M+ LALIGA TV BAR
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/LaLigaTVBAR.png" group-title="SPORTS",ES: M+ LALIGA TV BAR
 http://ossie.top:8080/71708413233140/6ab20ceed440/5661
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="ES: LALIGA TV HYPERMOTION" tvg-logo="https://docdog.top/logo/countries/spain/LALIGA_TV_HYPERMOTION.png" group-title="SPORTS",ES: LALIGA TV HYPERMOTION
-http://ossie.top:8080/71708413233140/6ab20ceed440/25128
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="ES: LALIGA TV HYPERMOTION（line2）" tvg-logo="https://docdog.top/logo/countries/spain/LALIGA_TV_HYPERMOTION.png" group-title="SPORTS",ES: LALIGA TV HYPERMOTION（line2）
-http://ossie.top:8080/71708413233140/6ab20ceed440/56087
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV 2" tvg-name="ES: LALIGA TV HYPERMOTION 2" tvg-logo="https://docdog.top/logo/countries/spain/LALIGA_TV_HYPERMOTION.png" group-title="SPORTS",ES: LALIGA TV HYPERMOTION 2
-http://ossie.top:8080/71708413233140/6ab20ceed440/25953
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV 3" tvg-name="ES: LALIGA TV HYPERMOTION 3" tvg-logo="https://docdog.top/logo/countries/spain/LALIGA_TV_HYPERMOTION.png" group-title="SPORTS",ES: LALIGA TV HYPERMOTION 3
-http://ossie.top:8080/71708413233140/6ab20ceed440/25954
-#EXTINF:-1 tvg-id="M+ LaLigaTV 3" tvg-name="ES: M+ Supercopa (LALIGA 3)" tvg-logo="https://docdog.top/logo/countries/spain/Supercopa.png" group-title="SPORTS",ES: M+ Supercopa (LALIGA 3)
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Supercopa.png" group-title="SPORTS",ES: M+ Supercopa (LALIGA 3)
 http://ossie.top:8080/71708413233140/6ab20ceed440/5652
-#EXTINF:-1 tvg-id="M+ LaLigaTV 2" tvg-name="ES: M+ LALIGA 2 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/spain/LALIGA_TV_2.png" group-title="SPORTS",ES: M+ LALIGA 2 (MATCH TIME)
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/LALIGA_TV_2.png" group-title="SPORTS",ES: M+ LALIGA 2 (MATCH TIME)
 http://ossie.top:8080/71708413233140/6ab20ceed440/5651
-#EXTINF:-1 tvg-id="M LaLigaTV 4" tvg-name="ES: M+ LALIGA 4 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/spain/LALIGA_TV_4.png" group-title="SPORTS",ES: M+ LALIGA 4 (MATCH TIME)
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/LALIGA_TV_4.png" group-title="SPORTS",ES: M+ LALIGA 4 (MATCH TIME)
 http://ossie.top:8080/71708413233140/6ab20ceed440/57248
-#EXTINF:-1 tvg-id="M LaLigaTV 5" tvg-name="ES: M+ LALIGA 5 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-5-es.png" group-title="SPORTS",ES: M+ LALIGA 5 (MATCH TIME)
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-5-es.png" group-title="SPORTS",ES: M+ LALIGA 5 (MATCH TIME)
 http://ossie.top:8080/71708413233140/6ab20ceed440/57246
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="ES: M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_2.png" group-title="SPORTS",ES: M+ LIGA DE CAMPEONES 2
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_2.png" group-title="SPORTS",ES: M+ LIGA DE CAMPEONES 2
 http://ossie.top:8080/71708413233140/6ab20ceed440/5663
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="ES: M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_3.png" group-title="SPORTS",ES: M+ LIGA DE CAMPEONES 3
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_3.png" group-title="SPORTS",ES: M+ LIGA DE CAMPEONES 3
 http://ossie.top:8080/71708413233140/6ab20ceed440/5664
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="ES: M+ LIGA DE CAMPEONES 4" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_4.png" group-title="SPORTS",ES: M+ LIGA DE CAMPEONES 4
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_4.png" group-title="SPORTS",ES: M+ LIGA DE CAMPEONES 4
 http://ossie.top:8080/71708413233140/6ab20ceed440/5665
-#EXTINF:-1 tvg-id="M+ Deportes" tvg-name="ES: M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-es.png" group-title="SPORTS",ES: M+ DEPORTES
-http://ossie.top:8080/71708413233140/6ab20ceed440/5643
-#EXTINF:-1 tvg-id="M+ Deportes" tvg-name="ES: M+ DEPORTES HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-es.png" group-title="SPORTS",ES: M+ DEPORTES HD
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-es.png" group-title="SPORTS",ES: M+ DEPORTES HD
 http://ossie.top:8080/71708413233140/6ab20ceed440/57481
-#EXTINF:-1 tvg-id="M+ Deportes 2" tvg-name="ES: M+ DEPORTES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-2-es.png" group-title="SPORTS",ES: M+ DEPORTES 2
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-2-es.png" group-title="SPORTS",ES: M+ DEPORTES 2
 http://ossie.top:8080/71708413233140/6ab20ceed440/5639
-#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="ES: M+ DEPORTES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-3-es.png" group-title="SPORTS",ES: M+ DEPORTES 3
-http://ossie.top:8080/71708413233140/6ab20ceed440/5640
-#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="ES: M+ DEPORTES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-4-es.png" group-title="SPORTS",ES: M+ DEPORTES 4
-http://ossie.top:8080/71708413233140/6ab20ceed440/5641
-#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="ES: M+ DEPORTES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-5-es.png" group-title="SPORTS",ES: M+ DEPORTES 5
-http://ossie.top:8080/71708413233140/6ab20ceed440/5681
-#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="ES: M+ DEPORTES 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-6-es.png" group-title="SPORTS",ES: M+ DEPORTES 6
-http://ossie.top:8080/71708413233140/6ab20ceed440/5682
-#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="ES: M+ DEPORTES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-7-es.png" group-title="SPORTS",ES: M+ DEPORTES 7
-http://ossie.top:8080/71708413233140/6ab20ceed440/5683
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="ES: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/spain/eurosport-1-es.png" group-title="SPORTS",ES: EUROSPORT 1
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/eurosport-1-es.png" group-title="SPORTS",ES: EUROSPORT 1
 http://ossie.top:8080/71708413233140/6ab20ceed440/5607
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="ES: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/spain/eurosport-2-es.png" group-title="SPORTS",ES: EUROSPORT 2
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/eurosport-2-es.png" group-title="SPORTS",ES: EUROSPORT 2
 http://ossie.top:8080/71708413233140/6ab20ceed440/5608
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="ES: EUROSPORT 1(line 2)" tvg-logo="https://docdog.top/logo/countries/spain/eurosport-1-es.png" group-title="SPORTS",ES: EUROSPORT 1(line 2)
-http://ossie.top:8080/71708413233140/6ab20ceed440/57460
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="ES: EUROSPORT 2(line 2)" tvg-logo="https://docdog.top/logo/countries/spain/eurosport-2-es.png" group-title="SPORTS",ES: EUROSPORT 2(line 2)
-http://ossie.top:8080/71708413233140/6ab20ceed440/57461
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/foodnetwork.png" group-title="LATINOAMERICA", MEX: FOOD NETWORK
+http://ossie.top:8080/71708413233140/6ab20ceed440/52528
+
+
