@@ -182,8 +182,6 @@ http://watchindia.net:8880/live/22453/32498/1071.m3u8
 http://watchindia.net:8880/live/22453/32498/2091.m3u8
 #EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="Sky SPORTS Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_SPORTS_Premier_League.png" group-title="SPORTS",Sky SPORTS Premier League
 http://watchindia.net:8880/live/22453/32498/2092.m3u8
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky SPORTS Cricket" tvg-logo="https://watchindia.net/images/channels/sports/Sky_SPORTS_Cricket.png" group-title="SPORTS",Sky SPORTS Cricket
-http://watchindia.net:8880/live/22453/32498/2090.m3u8
 #EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="Sky SPORTS F1" tvg-logo="https://watchindia.net/images/channels/sports/Sky_SPORTS_F1.png" group-title="SPORTS",Sky SPORTS F1
 http://watchindia.net:8880/live/22453/32498/2094.m3u8
 #EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="Sky SPORTS Arena" tvg-logo="https://watchindia.net/images/channels/sports/Sky_SPORTS_Arena.png" group-title="SPORTS",Sky SPORTS Arena
@@ -206,12 +204,6 @@ http://watchindia.net:8880/live/22453/32498/2423.m3u8
 http://watchindia.net:8880/live/22453/32498/2421.m3u8
 #EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD SPORTS" tvg-logo="https://watchindia.net/images/channels/sports/DD_SPORTS.png" group-title="SPORTS",DD SPORTS
 http://watchindia.net:8880/live/22453/32498/2380.m3u8
-#EXTINF:-1 tvg-id="willowcricket.us" tvg-name="Willow HD 1" tvg-logo="https://watchindia.net/images/channels/sports/Willow_HD.png" group-title="SPORTS",Willow HD 1
-http://watchindia.net:8880/live/22453/32498/1067.m3u8
-#EXTINF:-1 tvg-id="willowcricket.us" tvg-name="Willow HD 2" tvg-logo="https://watchindia.net/images/channels/sports/Willow_HD.png" group-title="SPORTS",Willow HD 2
-http://watchindia.net:8880/live/22453/32498/2145.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket" tvg-logo="https://watchindia.net/images/channels/sports/Astro_Cricket.png" group-title="SPORTS",Astro Cricket
-http://watchindia.net:8880/live/22453/32498/2174.m3u8
 
 #EXTINF:-1 group-title="USA", CBS NEWS
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
