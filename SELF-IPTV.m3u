@@ -180,6 +180,23 @@ http://watchindia.net:8880/live/22453/32498/2537.m3u8
 #EXTINF:-1 group-title="USA", CBS NEWS
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
 
+
+#EXTINF:-1 group-title="SPORTS", ES: M+ LaLiga 1
+http://ktv.im:8080/live/1234512345/1234512345/299003.m3u8
+#EXTINF:-1 group-title="SPORTS", ES: M+ LALIGA 2
+http://ktv.im:8080/live/1234512345/1234512345/299005.m3u8
+#EXTINF:-1 group-title="SPORTS", ES: M+ LaLiga 3
+http://ktv.im:8080/live/1234512345/1234512345/299058.m3u8
+#EXTINF:-1 group-title="SPORTS", ES: M+ LALIGA 4
+http://ktv.im:8080/live/1234512345/1234512345/299006.m3u8
+#EXTINF:-1 group-title="SPORTS", ES: M+ Liga de Campeones 5
+http://ktv.im:8080/live/1234512345/1234512345/299059.m3u8
+#EXTINF:-1 group-title="SPORTS", ES: M+ Liga de Campeones 6
+http://ktv.im:8080/live/1234512345/1234512345/299060.m3u8
+#EXTINF:-1 group-title="SPORTS", ES: M+ Liga de Campeones 7
+http://ktv.im:8080/live/1234512345/1234512345/299061.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/E1.png" group-title="SPORTS",Eurosport 1
 http://watchindia.net:8880/live/22453/32498/2633.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/E2.png" group-title="SPORTS",Eurosport 2
