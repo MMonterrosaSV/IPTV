@@ -11,12 +11,6 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="SPAIN" tvg-name="El País",El País
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="SPAIN" , AMC
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/512px-Be_Mad_TV.svg.png" group-title="SPAIN" , Be Mad
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="SPAIN" , Sexta
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
 
 
 
@@ -191,6 +185,10 @@ http://ktv.im:8080/live/1234512345/1234512345/299005.m3u8
 http://ktv.im:8080/live/1234512345/1234512345/299058.m3u8
 #EXTINF:-1 group-title="SPORTS", ES: M+ LALIGA 4
 http://ktv.im:8080/live/1234512345/1234512345/299006.m3u8
+#EXTINF:-1 group-title="SPORTS", ES: DAZN LaLiga B1
+http://ktv.im:8080/live/1234512345/1234512345/298992.m3u8
+#EXTINF:-1 group-title="SPORTS", ES: DAZN LaLiga 2
+http://ktv.im:8080/live/1234512345/1234512345/299057.m3u8
 #EXTINF:-1 group-title="SPORTS", ES: M+ Liga de Campeones 5
 http://ktv.im:8080/live/1234512345/1234512345/299059.m3u8
 #EXTINF:-1 group-title="SPORTS", ES: M+ Liga de Campeones 6
