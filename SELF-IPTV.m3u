@@ -31,8 +31,6 @@ https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92
 #EXTINF:-1  group-title="El Salvador",TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 
-#EXTINF:-1  group-title="USA", Bloomberg Live
-https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/340a7432-b6e6-4155-85ca-894a730e3a0e:BRU/master.m3u8
 #EXTINF:-1 tvg-id="aande.us" tvg-name="A&E Network" tvg-logo="http://watchindia.net/images/channels/usa/A&E.png" group-title="USA",A&E Network
 http://watchindia.net:8880/live/22453/32498/2044.m3u8
 #EXTINF:-1 tvg-id="abcnewslive.us" tvg-name="ABC News" tvg-logo="https://watchindia.net/images/channels/usa/ABC.png" group-title="USA",ABC News
