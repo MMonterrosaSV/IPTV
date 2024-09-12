@@ -214,3 +214,23 @@ http://watchindia.net:8880/live/22453/32498/2095.m3u8
 http://watchindia.net:8880/live/22453/32498/2421.m3u8
 
 
+
+#EXTINF:-1 group-title="Prueba", ESPN 1 (México)
+http://dnslivetv.online:80/live/12581/12581/591695.ts
+#EXTINF:-1 group-title="Prueba", ESPN 2 (México)
+http://dnslivetv.online:80/live/12581/12581/591698.ts
+#EXTINF:-1 group-title="Prueba", ESPN 3 (México)
+http://dnslivetv.online:80/live/12581/12581/591701.ts
+#EXTINF:-1 group-title="Prueba", ESPN 4 (México)
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173357.ts
+
+#EXTINF:-1 group-title="Prueba", Espn Deportes
+http://rhsbjv7k.tvclub.xyz/iptv/YF8M7CWF2TZSDU/30063/index.m3u8
+#EXTINF:-1 group-title="Prueba", Espn Deportes
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0js3edDuHorQuAKLlon4CKsNtwvVDd0yUP93Ip1x5_xGG/ts
+#EXTINF:-1 group-title="Prueba", Espn
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0js3edDuHorQuAKLlon4CKsPsiEhUlS1TF1qXugAR5f3E/ts
+#EXTINF:-1 group-title="Prueba", Espn 2
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXF6GpkkZHf8xxUcasUCSGaM/ts
+#EXTINF:-1 group-title="Prueba", Espn 3
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXH-R5ZefYdIAzUdfaF8Zixj/ts
