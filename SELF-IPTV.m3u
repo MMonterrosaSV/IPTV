@@ -1,8 +1,12 @@
 #EXTM3U 
-#EXTM3U url-tvg="http://m3u4u.com/epg/782dyqkvvjt1eqvqy4zp"
+#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
+##EXTM3U url-tvg="http://m3u4u.com/epg/782dyqkvvjt1eqvqy4zp"
 
-#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="SPAIN",La 1
+#EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="SPAIN",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
+EXTINF:-1 tvg-id="La1.TV" tvg-name="La 1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas",La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
 #EXTINF:-1 tvg-id="La2.es" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="SPAIN",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-name="24h" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="SPAIN",24h
@@ -55,7 +59,7 @@ http://188.93.236.142:8080//live/891707728003002/6562c94533b5/52524.m3u8?token=Q
 http://188.93.236.142:8080//live/891707728003002/6562c94533b5/52522.m3u8?token=Q0FaWEpZFFsXVVJTUFMCAVYABVFRVgoDAQUDVQRXAlEOBwBYAAMDA1AVGEZGFUdTUl9qWwIVAlRQBgJWGENHQ10RbVBdEwxDAwcCXQBVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxR2YRceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
 #EXTINF:-1 group-title="Prueba", ESPN 3
 http://188.93.236.142:8080//live/891707728003002/6562c94533b5/52523.m3u8?token=Q0FaWEpZFFsXVQ0CDFcHAwUCBQcHVAtRUgpUVQZSCgEABgNaD1UGU1cVGEZGFUdTUl9qWwIVAlRQBgJXGENHQ10RbVBdEwxDAwcCXQBVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxR2YRceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
-#EXTINF:-1 group-title="Prueba", other
+#EXTINF:-1 group-title="Prueba", ESPN 4
 http://188.93.236.142:8080//live/891707728003002/6562c94533b5/52525.m3u8?token=Q0FaWEpZFFsXAFFVVwUDVwpXBVBWBg5SUAAGUVVSCgdcAgEMDlUCUQMVGEZGFUdTUl9qWwIVAlRQBgJQGENHQ10RbVBdEwxDAwcCXQBVFxoRRlxfAxUCUU4RQA1QQwgSCloKCQgTGkNQT0ABRw9UWmxWUEQPVF1DWF1FCFhNEF9WPFZcVFBYBRcNFlUXTRdfQEIXCAhCVA1OEVINQBNTRF1BCBsLBQVZFxsWB1oUW0JBSxcIRHJrQ04RVRxABFxDUQxcGwMTW1JADxZIFwhGaUFXRkYUUlkMB0ESXhZREBwaDlNBZlJZD1tSVxBcDltFEQgXA0QbGgwNXVkQWxNtQFEHEAMbAw9ZBgYWGQ==
 
 
