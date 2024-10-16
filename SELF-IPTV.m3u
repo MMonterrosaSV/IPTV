@@ -30,35 +30,10 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 
 #EXTINF:-1 group-title="SPORTS", La LIGA
 https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
-#EXTINF:-1 group-title="SPORTS", Dazn LaLiga HD
-https://wattambor-nolie.ifiesta.net/live/TV-1537977832/167065212064/1376.m3u8
-#EXTINF:-1 group-title="SPORTS", Dazn LaLiga FHD
-https://wattambor-nolie.ifiesta.net/live/TV-1537977832/167065212064/1375.m3u8
-#EXTINF:-1 group-title="SPORTS", Dazn LaLiga 2 HD
-https://wattambor-nolie.ifiesta.net/live/TV-1537977832/167065212064/1379.m3u8
-#EXTINF:-1 group-title="SPORTS", Dazn LaLiga 2 FHD
-https://wattambor-nolie.ifiesta.net/live/TV-1537977832/167065212064/1380.m3u8
-#EXTINF:-1 group-title="SPORTS", LaLiga TV BAR HD
-https://wattambor-nolie.ifiesta.net/live/TV-1537977832/167065212064/1398.m3u8
-#EXTINF:-1 tvg-id="MovistarLaLiga1.es" group-title="SPORTS", M+ LaLiga TV HD
-https://wattambor-nolie.ifiesta.net/live/TV-1537977832/167065212064/12529.m3u8
-#EXTINF:-1 tvg-id="MovistarLaLiga1.es" group-title="SPORTS", M+ LaLiga TV FHD
-https://wattambor-nolie.ifiesta.net/live/TV-1537977832/167065212064/12528.m3u8
-#EXTINF:-1 group-title="SPORTS", M+ LaLiga TV2 HD
-https://wattambor-nolie.ifiesta.net/live/TV-1537977832/167065212064/1385.m3u8
-#EXTINF:-1 group-title="SPORTS", M+ LaLiga TV2 FHD
-https://wattambor-nolie.ifiesta.net:8080/live/TV-1537977832/167065212064/1386.m3u8
-
-
-
-#EXTINF:-1 group-title="Bics DEPORTES", US: ESPN 2
+#EXTINF:-1 group-title="SPORTS", US: ESPN 2
 http://fl5.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 01
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 11
+#EXTINF:-1 group-title="SPORTS", La LIGA 2
 http://51.178.65.238/BeinSport/mono.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", IDK
-https://xcdn.bong.ink/hls/bong2.m3u8
 
 #EXTINF:-1 group-title="Champions League", 1
 http://93.155.227.38:555/m3u8/arenasport1.m3u8
