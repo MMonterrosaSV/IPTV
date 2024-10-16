@@ -49,3 +49,43 @@ https://wattambor-nolie.ifiesta.net/live/TV-1537977832/167065212064/1385.m3u8
 #EXTINF:-1 group-title="SPORTS", M+ LaLiga TV2 FHD
 https://wattambor-nolie.ifiesta.net:8080/live/TV-1537977832/167065212064/1386.m3u8
 
+#EXTINF:-1 group-title="Bics DEPORTES", SKY LA LIGA
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", TV BAR 🇪🇸
+https://www.oha.to/play/1980907224/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", TV BAR 🇪🇸
+http://91.246.45.126:8080/live/501713267546155/6768e43df355/5661.m3u8?token=Q0FaWEpZFFsXB1BUBwMHB1EBU1AEUQ8HUVZRUFUEV1MAVVNcWAYFAAIVGEZGFUdTUl9qWwIVAlRUBQFIFhRBVUo8W10bCxRXAAcCVwBDGRRHW1hXRA0ITUBDWQAWWxACCFIHChsdFARNQ1EWWwBZaVdXQ1sFUhpbDEZcCBhDXV5nB1dUWF9SQw8VBUYZQ1xFQxAPXBNbVE1AUVkQRgBGVRpZEA0LAwBDGRVXC0APQURKEA8QI2QaTUBWSBBRD0FZVw0QAxtcBRQNFRhGXBJqRFZBQUADVlUEEBEKRgRDHhJVAkpmWl5YD1BUQA1aD0YUCRAEEEoVVQ4MWkQLRj5CWVxBCBsIBQNQBhVJ
+#EXTINF:-1 group-title="Bics DEPORTES", S LALIGA 🇿🇦
+https://sportnext.online/hls/M2.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: ESPN 2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: ESPN 2
+http://fl5.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 01
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 02
+https://1.goalglory.org/n-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 03
+http://190.185.121.102:58092/play/a00t
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 04
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 05
+http://181.78.109.49:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 06
+http://45.5.117.182:8000/play/jnl0/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 07
+http://181.78.105.146:8800/play/a07h
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 08
+https://www.oha.to/play/2428779244/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 09
+http://604262224137165392.ofre802.xyz:80/play/tello3/23122023/165392.ts
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 10
+http://604262224137320781.ofre802.xyz:80/play/tello3/23122023/320781.ts
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 11
+http://51.178.65.238/BeinSport/mono.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 12
+http://145.239.5.177:8080/520/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 13
+http://145.239.5.177:8080/516/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 14
+http://145.239.5.177:8080/521/index.m3u8
