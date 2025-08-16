@@ -34,6 +34,11 @@ https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/ind
 http://fl5.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1 group-title="SPORTS", La LIGA 2
 http://51.178.65.238/BeinSport/mono.m3u8
+#EXTINF:-1 group-title="SPORTS", La LIGA 1 NEW
+https://mut100.myluck1.top:8088/live/ligaes1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS", La LIGA 1 NEW LONG
+https://mut100.myluck1.top:8088/live/ligaes1/playlist.m3u8?vidictid=203168624396&id=122583&pk=c91045572a21f27075dd4e8249371d26c80ce15837eec02f5ad558c273eb47932920cdde233e3f03c057fb27f42c188e18b1908a4e74722b15a8a03da8ccfcdd
+
 
 
 
