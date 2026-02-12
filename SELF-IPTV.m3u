@@ -7,39 +7,16 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-name="24h" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="SPAIN",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="Euronews.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="SPAIN" tvg-name="Euronews",Euronews
-https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
-#EXTINF:-1 tvg-id="ElPaís.TV" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="SPAIN" tvg-name="El País",El País
-https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
+http://zh2-5-hls-live.zahs.tv/DE_tele5-live-1500-14D1E1FC67907FD7-5568685CC01CE0D0.m3u8?csid=14D1E1FC67907FD7-5568685CC01CE0D0&encryption=0&maxrate=1500&sig=03462ac59eef4c75ea7b898b541b44b8
+#EXTINF:-1 group-title="SPAIN", Telecinco
+http://zh2-5-hls-live.zahs.tv/DE_tele5-live-900-14D1E1FC67907FD7-5568685CC01CE0D0.m3u8?csid=14D1E1FC67907FD7-5568685CC01CE0D0&encryption=0&maxrate=1500&sig=1182a920277cb5049c333d9886cd24a1
+#EXTINF:-1 group-title="SPAIN", Telecinco 2
+http://zh2-5-hls-live.zahs.tv/DE_tele5-live-600-14D1E1FC67907FD7-5568685CC01CE0D0.m3u8?csid=14D1E1FC67907FD7-5568685CC01CE0D0&encryption=0&maxrate=1500&sig=6cc2e44edfcc05e9ec477a26d6c9c179
 
 
 #EXTINF:-1 group-title="El Salvador",El Camino
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
-#EXTINF:-1 group-title="El Salvador", Canal 19
-https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
-#EXTINF:-1 group-title="El Salvador", Canal 21
-https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
-#EXTINF:-1 group-title="El Salvador",CANAL 2
-https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
-#EXTINF:-1 group-title="El Salvador",CANAL 4
-https://telecorporacion-es.cdn.vustreams.com/live/9c79f472-bb4d-4ab8-848f-eb613f3b1f96/live.isml/live.m3u8
-#EXTINF:-1 group-title="El Salvador",CANAL 6
-https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
-#EXTINF:-1  group-title="El Salvador",TCS+
-https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
-
-#EXTINF:-1 group-title="SPORTS", La LIGA
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
-#EXTINF:-1 group-title="SPORTS", US: ESPN 2
-http://fl5.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 group-title="SPORTS", La LIGA 2
-http://51.178.65.238/BeinSport/mono.m3u8
-#EXTINF:-1 group-title="SPORTS", La LIGA 1 NEW
-https://mut100.myluck1.top:8088/live/ligaes1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS", La LIGA 1 NEW LONG
-https://mut100.myluck1.top:8088/live/ligaes1/playlist.m3u8?vidictid=203168624396&id=122583&pk=c91045572a21f27075dd4e8249371d26c80ce15837eec02f5ad558c273eb47932920cdde233e3f03c057fb27f42c188e18b1908a4e74722b15a8a03da8ccfcdd
-#EXTINF:-1 group-title="SPORTS", 365streamtv
-https://z4.boomgr.site/uk-tntsport1.m3u8?auth_key=1761374720-8a0bd659d06844f91c85401c345d2c03-00000000000000000000000000000000-0652f4f40edf5c0143ee254b9efded07
-
 
 https://tvpass.org/playlist/m3u
