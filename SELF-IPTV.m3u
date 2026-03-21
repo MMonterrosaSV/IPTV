@@ -7,7 +7,20 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-name="24h" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="SPAIN",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-
+#EXTINF:-1 group-title="SPAIN",Sexta 1
+https://list.iptvcat.com/my_list/s/d37fcff4691b7799fb4d8385b37edaf0.m3u8
+#EXTINF:-1 group-title="SPAIN",Sexta 2
+https://list.iptvcat.com/my_list/s/92b37c652b1df6ab2b05792b3f314674.m3u8
+#EXTINF:-1 group-title="SPAIN",Sexta 2
+https://list.iptvcat.com/my_list/s/597246e904657b31441d39c815041128.m3u8
+#EXTINF:-1 group-title="SPAIN",Sexta 3 720
+https://list.iptvcat.com/my_list/s/53ea5a4324183a618515b9e4653dce82.m3u8
+#EXTINF:-1 group-title="SPAIN",	Telecinco 1
+https://list.iptvcat.com/my_list/s/6eb7503405ecbe8373179cb3aa8c273d.m3u8
+#EXTINF:-1 group-title="SPAIN",	Telecinco 2
+https://list.iptvcat.com/my_list/s/195daa8a92b5090c77a00f694d00368a.m3u8
+#EXTINF:-1 group-title="SPAIN",	Telecinco 3 720
+https://list.iptvcat.com/my_list/s/d7f9249587c91cfbcf37345be0f99a48.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS",Brighton vs Liverpool
