@@ -9,16 +9,10 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 group-title="SPAIN",	Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="SPAIN",	Telecinco 2
-https://live.mitele.es/hls/live/2004101/telecinco/master.m3u8
-#EXTINF:-1 group-title="SPAIN",	Telecinco 3
-https://linear01-i.akamaihd.net/hls/live/837810/telecinco/master.m3u8
-#EXTINF:-1 group-title="SPAIN",	Sexta 1
+#EXTINF:-1 group-title="SPAIN",	Telecinco
+http//176.65.146.2378401/play/a0af/index.m3u8
+#EXTINF:-1 group-title="SPAIN",	Sexta 
 https://atres-live.atresmedia.com/af294f0b45619a20cbacddc0638a1e89cae6312a_ES_1774102608_1774131348/hlsts/live/lasexta_usp/lasexta_usp.isml/lasexta_usp-audio_spa=128000-video=2700000.m3u8
-#EXTINF:-1 group-title="SPAIN",	Sexta 2
-https://atres-live.atresmedia.com/5a83810efbdf16d080a31065624b07d0664a3926_ES_1673439570_1673468310/h264/live/lasexta/master.m3u8
-#EXTINF:-1 group-title="SPAIN",	Sexta 3
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
 
 
