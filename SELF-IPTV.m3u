@@ -16,12 +16,10 @@ https://atres-live.atresmedia.com/af294f0b45619a20cbacddc0638a1e89cae6312a_ES_17
 
 
 
-#EXTINF:-1 group-title="SPORTS",Brighton vs Liverpool
-https://liveua.score806.cc/uk_bts1/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Brighton vs Liverpool 2
-https://liveua.cdnfly.click/uk_bts1/index.m3u8
-#EXTINF:-1 group-title="SPORTS",La Liga Movistar
-https://dlstreams.top/stream/stream-84.php
+#EXTINF:-1 group-title="SPORTS",Premier Sports
+https://liveua.cdnfly.click/sd/uk_premiersports2/index.m3u8
+#EXTINF:-1 group-title="SPORTS",Premier Sports HD FLV
+https://6mda1225.edgemaxcdn.org/live/uk_premiersports2.flv
 
 
 #EXTINF:-1 group-title="El Salvador",El Camino
