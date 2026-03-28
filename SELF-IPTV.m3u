@@ -32,11 +32,14 @@ https://tvpass.org/live/AEEast/sd
 
 #EXTINF:0,Peaky Blinders Test
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
-#EXTINF:-1,Peaky Blinders 1
+#EXTINF:0,Peaky Blinders 1
 https://vidsrc.me/embed/tt15574124
-#EXTINF:-1,Peaky Blinders 2
+#EXTINF:0,Peaky Blinders 2
 https://multiembed.mov/?video_id=tt15574124
-#EXTINF:-1,Peaky Blinders 3
+#EXTINF:0,Peaky Blinders 3
 https://multiembed.mov/directstream.php?video_id=tt15574124
+
+#EXTINF:-1, USA TV PASS
+https://raw.githubusercontent.com/MMonterrosaSV/IPTV/refs/heads/main/USA%20IPTV%20-%20TvPass.org.m3u
 
 
