@@ -28,11 +28,17 @@ https://liveua.cdnfly.click/sd/pt_sporttv1/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Sport TV PT HD 
 https://6mda1225.edgemaxcdn.org/live/pt_sporttv1.flv
 #EXTINF:-1 group-title="SPORTS",Sky Sports Premier League SD
-https://liveua.cdnfly.click/uk_ssepl/index.m3u8
+https://liveua.cdnfly.click/sd/uk_ssepl/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Sky Sports Premier League HD
 https://6mda1225.edgemaxcdn.org/live/uk_ssepl.flv
-#EXTINF:-1 group-title="SPORTS",Fox Sports 
-https://embed.timstreams.fit/embed/fox-sports-501
+#EXTINF:-1 group-title="SPORTS",Sky Sports Football SD
+https://liveua.cdnfly.click/sd/uk_ssfb/index.m3u8
+#EXTINF:-1 group-title="SPORTS",Sky Sports Football HD
+https://6mda1225.edgemaxcdn.org/live/uk_ssfb.flv
+#EXTINF:-1 group-title="SPORTS",Sky Sports Main SD
+https://liveua.cdnfly.click/sd/uk_ssmain/index.m3u8
+#EXTINF:-1 group-title="SPORTS",Sky Sports Main HD
+https://6mda1225.edgemaxcdn.org/live/uk_ssmain.flv
 
 
 #EXTINF:-1 group-title="El Salvador",El Camino
