@@ -10,6 +10,15 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 group-title="SPAIN",	Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
+#EXTINF:-1 group-title="El Salvador",El Camino
+https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed" group-title="USA",A&E US Eastern Feed
+https://tvpass.org/live/AEEast/HD
+#EXTINF:-1 group-title="USA",Bloomberg HD
+https://dai.google.com/linear/hls/pa/event/k-VHR5unRdusBDqoXAuB0Q/stream/c224946c-89e2-486f-b1e1-c129d9c0a99e:BRU/variant/fd3e9ee6e0c218e857d9c21e6e2189a0/bandwidth/3000000.m3u8
+
+
 #EXTINF:-1 group-title="SPORTS",US Fox Plus SD
 https://liveua.cdnfly.click/sd/us_foxsplus/index.m3u8
 #EXTINF:-1 group-title="SPORTS",US Fox Plus HD
@@ -42,20 +51,15 @@ https://6mda1225.edgemaxcdn.org/live/uk_ssfb.flv
 https://liveua.cdnfly.click/sd/uk_ssmain/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Sky Sports Main HD
 https://6mda1225.edgemaxcdn.org/live/uk_ssmain.flv
-#EXTINF:-1 group-title="EMBED STREAMS",TNT Sports 4 HD
+
+#EXTINF:-1 group-title="STREAMED pk",TNT Sports 4 HD
 https://lb2.strmd.top/secure/vOffDQpJmZMUyNozRECogTHJtqhLnPtP/echo/stream/fim-motocross-world-championship-season-game-288226/1/playlist.m3u8
-#EXTINF:-1 group-title="EMBED STREAMS",Fox Plus HD
+#EXTINF:-1 group-title="STREAMED pk",Fox Plus HD
 https://lb7.strmd.top/secure/MMAvjWXTjNfGwOCHIevMaytnxzTPSXjj/echo/stream/lithuania-vs-georgia-football-1502472/1/playlist.m3u8
 
+#EXTINF:-1 group-title="TIM STREAMS",FOX SPORTS 501 HD
+https://imgs-001.juno-api-noe.icu/secure/api/v1/fox-sports-501.m3u8?md5=7ef7f5496291a3fa58f784bcbe1493f6&exp=1774800190
 
-#EXTINF:-1 group-title="El Salvador",El Camino
-https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed" group-title="USA",A&E US Eastern Feed
-https://tvpass.org/live/AEEast/HD
-#EXTINF:-1 group-title="USA",Bloomberg HD
-https://dai.google.com/linear/hls/pa/event/k-VHR5unRdusBDqoXAuB0Q/stream/c224946c-89e2-486f-b1e1-c129d9c0a99e:BRU/variant/fd3e9ee6e0c218e857d9c21e6e2189a0/bandwidth/3000000.m3u8
 
 
 #EXTINF:0,Peaky Blinders
