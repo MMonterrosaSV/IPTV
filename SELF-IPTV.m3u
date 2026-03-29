@@ -19,10 +19,10 @@ https://6mda1225.edgemaxcdn.org/live/uk_premiersports2.flv
 #EXTINF:-1 group-title="SPORTS",Fox Deportes SD
 https://liveua.cdnfly.click/sd/us_foxdeport/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Fox Deportes HD
-https://liveua.cdnfly.click/us_foxdeport/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Sport TV HD PT
-https://liveua.cdnfly.click/pt_sporttv1/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Sport TV HD PT Test
+https://6mda1225.edgemaxcdn.org/live/us_foxdeport.flv
+#EXTINF:-1 group-title="SPORTS",Sport TV PT SD
+https://liveua.cdnfly.click/sd/pt_sporttv1/index.m3u8
+#EXTINF:-1 group-title="SPORTS",Sport TV PT HD 
 https://6mda1225.edgemaxcdn.org/live/pt_sporttv1.flv
 
 #EXTINF:-1 group-title="El Salvador",El Camino
