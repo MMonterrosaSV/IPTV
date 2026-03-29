@@ -66,7 +66,8 @@ https://imgs-001.juno-api-noe.icu/secure/api/v1/fox-sports-501.m3u8?md5=7ef7f549
 
 #EXTINF:-1 group-title="Streamsports99 tv",Movistar La Liga HD
 https://edge.cdn-live.ru/secure/api/v1/es-m-laliga/playlist.m3u8?token=cee36f47a78d8deced1c40d9c2e233acb1f75d7bb92e62554d943266ab7b274b.1774793657.b59e30571eb26bc1d247a74bf9c71433.9c1c9656df1012c57a1a76a1aecc468b.102e3c85a398b03e2fc97f6c13068056&signature=f2cfd475f421eb7c3fe8f463699ee33e73343a92d918bb931432366770babcc9
-
+#EXTINF:-1 group-title="Streamsports99 tv",Movistar La Liga 2 HD
+https://edge.cdn-google.ru/secure/api/v1/es-m-laliga/MjAyNi8wMy8yOS8xNC8xNC8zOS0xMDAwMA.ts?token=cee36f47a78d8deced1c40d9c2e233acb1f75d7bb92e62554d943266ab7b274b.1774793657.b59e30571eb26bc1d247a74bf9c71433.9c1c9656df1012c57a1a76a1aecc468b.102e3c85a398b03e2fc97f6c13068056&signature=f2cfd475f421eb7c3fe8f463699ee33e73343a92d918bb931432366770babcc9
 
 #EXTINF:0,Peaky Blinders
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
