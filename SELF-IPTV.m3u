@@ -59,21 +59,22 @@ https://lb7.strmd.top/secure/MMAvjWXTjNfGwOCHIevMaytnxzTPSXjj/echo/stream/lithua
 
 #EXTINF:-1 group-title="TIM STREAMS",TNT Sports 1 HD
 https://imgs-001.juno-api-noe.icu/secure/api/v1/tnt-sports-1.m3u8?md5=0d3fcdef730857203512a947dad77e11&exp=1774803161
-#EXTINF:-1 group-title="TIM STREAMS",TNT Sports test 1 HD
-https://imgs-001.juno-api-noe.icu/secure/api/v1/tnt-sports-1.m3u8?md5=0d3fcdef730857203512a947dad77e11&exp=1774803600
-#EXTINF:-1 group-title="TIM STREAMS",TNT Sports test 2 HD
-https://imgs-001.juno-api-noe.icu/secure/api/v1/byazin-f3e55051601e4b4d906e8d08434e9f7b.ts
+#EXTINF:-1 group-title="TIM STREAMS",TNT Sports 2 HD
+https://imgs-001.juno-api-noe.icu/secure/api/v1/tnt-sports-2.m3u8?md5=5c0bbc3c910f066294c58608f48ba4f0&exp=1774804336
 
 #EXTINF:-1 group-title="Streamsports99 tv",Movistar La Liga HD
 https://edge.cdn-live.ru/secure/api/v1/es-m-laliga/playlist.m3u8
 #EXTINF:-1 group-title="Streamsports99 tv",Movistar La Liga 2 HD
 https://edge.cdn-google.ru/secure/api/v1/es-m-laliga/MjAyNi8wMy8yOS8xNC8xNC8zOS0xMDAwMA.ts
 
-
+#EXTINF:-1 group-title="Hokey",Hockey HD
+https://lb3.strmd.top/m/Ev4tGNvQznjGDApdf9JQicmmnUpSE9C5csfcRazeQOY2d8WcClnoyRR4NdrL5rfWYvLVM4cPnaut0UCwBxtSQeR_Btr8yBcRHvYmfQ3pIQv0MC7XC1e_FEkPoDM9AvAJZuSxjW9F7xJXIh2UndjGJCkF9OungTnPTA-QzP_hr5g.ts
 
 
 #EXTINF:0,Peaky Blinders
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+#EXTINF:0,F1
+https://f19.megacdn.co:2228/v3-hls-playback/7c1543f8deaa4d4055bedcd3fbbef0e8faa9dfac9e94506d34b6bee840331cd1c7fda7eb058ff085e7e5f508ce082723a29e3e521ecb7f4bd387e2136bae51f89bf8016b84849b8d7032386b09c4ff4c9c5b41db56294e14eadbb70c004ae3733f5f8e4dc0729a4c9710fd7f040e184eae9505f95f1735c7cb4a3700762bf611796e164c79fa8c2374637e333a6cc68b0e687241279118296f2c6a3582807166332241e2a6d09d51d242161f76266333c8abde6ef3c511fa02d1619caa9f9592a93f3ee9148892b47074050ef80f0552/720/seg-11-v1-a1.ts
 
 
 
