@@ -11,10 +11,13 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 
-
-#EXTINF:-1 group-title="SPORTS",Premier Sports
+#EXTINF:-1 group-title="SPORTS",Premier Sports 1 SD
+https://liveua.cdnfly.click/sd/uk_premiersports1/index.m3u8
+#EXTINF:-1 group-title="SPORTS",Premier Sports 1 HD
+https://6mda1225.edgemaxcdn.org/live/uk_premiersports1.flv
+#EXTINF:-1 group-title="SPORTS",Premier Sports 2 SD
 https://liveua.cdnfly.click/sd/uk_premiersports2/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Premier Sports HD
+#EXTINF:-1 group-title="SPORTS",Premier Sports 2 HD
 https://6mda1225.edgemaxcdn.org/live/uk_premiersports2.flv
 #EXTINF:-1 group-title="SPORTS",Fox Deportes SD
 https://liveua.cdnfly.click/sd/us_foxdeport/index.m3u8
@@ -34,9 +37,11 @@ https://tvpass.org/live/AEEast/sd
 
 #EXTINF:0,Peaky Blinders 0
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
-#EXTINF:1,Peaky Blinders 1
+#EXTINF:0,Peaky Blinders 1
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
 
+#EXTINF:-1,USA
+https://raw.githubusercontent.com/MMonterrosaSV/IPTV/refs/heads/main/USA%20IPTV%20-%20TvPass.org.m3u
 
 
 
