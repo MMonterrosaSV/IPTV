@@ -54,6 +54,13 @@ https://6mda1225.edgemaxcdn.org/live/uk_ssplus.flv
 
 #EXTINF:-1 group-title="STREAMED pk",TNT Sports 4 HD
 https://lb2.strmd.top/secure/vOffDQpJmZMUyNozRECogTHJtqhLnPtP/echo/stream/fim-motocross-world-championship-season-game-288226/1/playlist.m3u8
+#EXTINF:-1 group-title="STREAMED pk",Movistar La Liga Hypermotion HD
+https://lb7.strmd.top/secure/jrsnERzRKivjcBKvhUlBWJYEFQhAygQA/echo/stream/almeria-vs-real-sociedad-ii-football-1392114/1/playlist.m3u8
+#EXTINF:-1 group-title="STREAMED pk",Movistar La Liga Hypermotion 2 HD
+https://lb8.strmd.top/secure/GSYSYbdgwjBTVBqcvrayWiMWOQDAcqwy/echo/stream/almeria-vs-real-sociedad-ii-football-1392114/1/playlist.m3u8
+#EXTINF:-1 group-title="STREAMED pk",Movistar La Liga Hypermotion 3 HD
+https://lb1.strmd.top/secure/GSYSYbdgwjBTVBqcvrayWiMWOQDAcqwy/echo/stream/almeria-vs-real-sociedad-ii-football-1392114/1/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Movies",Peaky Blinders
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
