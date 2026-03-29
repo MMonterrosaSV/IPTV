@@ -56,10 +56,17 @@ https://6mda1225.edgemaxcdn.org/live/uk_ssplus.flv
 https://lb2.strmd.top/secure/vOffDQpJmZMUyNozRECogTHJtqhLnPtP/echo/stream/fim-motocross-world-championship-season-game-288226/1/playlist.m3u8
 #EXTINF:-1 group-title="STREAMED pk",Movistar La Liga Hypermotion HD
 https://lb7.strmd.top/secure/jrsnERzRKivjcBKvhUlBWJYEFQhAygQA/echo/stream/almeria-vs-real-sociedad-ii-football-1392114/1/playlist.m3u8
-#EXTINF:-1 group-title="STREAMED pk",Movistar La Liga Hypermotion 2 HD
+#EXTINF:-1 group-title="STREAMED pk",Movistar La Liga Hypermotion HD
 https://lb8.strmd.top/secure/GSYSYbdgwjBTVBqcvrayWiMWOQDAcqwy/echo/stream/almeria-vs-real-sociedad-ii-football-1392114/1/playlist.m3u8
-#EXTINF:-1 group-title="STREAMED pk",Movistar La Liga Hypermotion 3 HD
-https://lb1.strmd.top/secure/GSYSYbdgwjBTVBqcvrayWiMWOQDAcqwy/echo/stream/almeria-vs-real-sociedad-ii-football-1392114/1/playlist.m3u8
+
+#EXTINF:-1 group-title="DD Live",Movistar La Liga  HD
+https://s3.dualstack.us-east-2.amazonaws.com/cam.edu//hls/480p/playlist.m3u8?token=m6cx4rncddc
+#EXTINF:-1 group-title="DD Live",Movistar La Liga  2 HD
+https://s3.dualstack.us-east-2.amazonaws.com/cam.edu//hls/1080p/segment_647.ts?token=jgad1epofa&ts=1774814738225
+#EXTINF:-1 group-title="DD Live",Movistar La Liga  3 HD
+https://s3.dualstack.us-east-2.amazonaws.com/cam.edu//hls/1080p/playlist.m3u8?token=smedi6gmvfr
+#EXTINF:-1 group-title="DD Live",Movistar La Liga  4 HD
+https://yuntracking.co/premiumtv/daddyhd.php?id=84
 
 
 #EXTINF:-1 group-title="Movies",Peaky Blinders
