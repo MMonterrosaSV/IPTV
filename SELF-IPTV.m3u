@@ -52,7 +52,16 @@ https://liveua.cdnfly.click/sd/uk_ssplus/index.m3u8
 https://6mda1225.edgemaxcdn.org/live/uk_ssplus.flv
 
 
-
+#EXTINF:-1 group-title="test",La Liga HD
+https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+#EXTINF:-1 group-title="test",La Liga 2 HD
+http://181.78.109.49:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="test",La Liga 3 HD
+http://vipketseyket.top:8080/VIP016871739205623335/b5126fd73df3/253
+#EXTINF:-1 group-title="test",La Liga 4 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115836
+#EXTINF:-1 group-title="test",La Liga 5 HD
+http://31.220.41.90:8081/live/es-laligatvbar.stream/playlist.m3u8
 
 
 
