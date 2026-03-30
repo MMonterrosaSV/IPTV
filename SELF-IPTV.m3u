@@ -50,6 +50,14 @@ https://6mda1225.edgemaxcdn.org/live/uk_ssmain.flv
 https://liveua.cdnfly.click/sd/uk_ssplus/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Sky Sports Plus HD
 https://6mda1225.edgemaxcdn.org/live/uk_ssplus.flv
+#EXTINF:-1 group-title="SPORTS",ESPN SD
+https://liveua.cdnfly.click/sd/espn/index.m3u8
+#EXTINF:-1 group-title="SPORTS",ESPN HD
+https://6mda1225.edgemaxcdn.org/live/espn6.flv
+#EXTINF:-1 group-title="SPORTS",ESPN 6 SD
+https://liveua.cdnfly.click/sd/espn/index.m3u8
+#EXTINF:-1 group-title="SPORTS",ESPN 6 HD
+https://6mda1225.edgemaxcdn.org/live/espn6.flv
 
 
 
