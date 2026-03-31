@@ -74,9 +74,9 @@ https://6mda1225.edgemaxcdn.org/live/uk_bbc2.flv
 https://liveua.cdnfly.click/sd/uk_bbc3/index.m3u8
 #EXTINF:-1 group-title="SPORTS",BBC 3 HD
 https://6mda1225.edgemaxcdn.org/live/uk_bbc3.flv
-#EXTINF:-1 group-title="SPORTS",CBS SPORTS SD
+#EXTINF:-1 group-title="SPORTS",ESPN DEPORTES SD
 https://liveua.cdnfly.click/sd/paramount1/index.m3u8
-#EXTINF:-1 group-title="SPORTS",CBS SPORTS HD
+#EXTINF:-1 group-title="SPORTS",ESPN DEPORTES HD
 https://6mda1225.edgemaxcdn.org/live/paramount1.flv
 #EXTINF:-1 group-title="SPORTS",UK ITV SD
 https://liveua.cdnfly.click/sd/uk_itv1/index.m3u8
@@ -98,9 +98,9 @@ https://6mda1225.edgemaxcdn.org/live/uk_itv4.flv
 https://liveua.cdnfly.click/sd/live03/index.m3u8
 #EXTINF:-1 group-title="SPORTS",LIVE 3 HD
 https://6mda1225.edgemaxcdn.org/live/live03.flv
-#EXTINF:-1 group-title="SPORTS",LIVE 5 (SKY SPORT 6) SD
+#EXTINF:-1 group-title="SPORTS",LIVE 5 SD
 https://liveua.cdnfly.click/sd/live05/index.m3u8
-#EXTINF:-1 group-title="SPORTS",LIVE 5 (SKY SPORT 6) HD
+#EXTINF:-1 group-title="SPORTS",LIVE 5 HD
 https://6mda1225.edgemaxcdn.org/live/live05.flv
 
 
