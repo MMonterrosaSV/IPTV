@@ -62,33 +62,42 @@ https://6mda1225.edgemaxcdn.org/live/uk_ssplus.flv
 https://liveua.cdnfly.click/sd/fubo/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Fubo HD
 https://6mda1225.edgemaxcdn.org/live/fubo.flv
-#EXTINF:-1 group-title="SPORTS",BBC TWO SD
+#EXTINF:-1 group-title="SPORTS",BBC SD
+https://liveua.cdnfly.click/sd/uk_bbc1/index.m3u8
+#EXTINF:-1 group-title="SPORTS",BBC HD
+https://6mda1225.edgemaxcdn.org/live/uk_bbc1.flv
+#EXTINF:-1 group-title="SPORTS",BBC 2 SD
 https://liveua.cdnfly.click/sd/uk_bbc2/index.m3u8
-#EXTINF:-1 group-title="SPORTS",BBC TWO HD
+#EXTINF:-1 group-title="SPORTS",BBC 2 HD
 https://6mda1225.edgemaxcdn.org/live/uk_bbc2.flv
 #EXTINF:-1 group-title="SPORTS",CBS SPORTS SD
 https://liveua.cdnfly.click/sd/paramount1/index.m3u8
 #EXTINF:-1 group-title="SPORTS",CBS SPORTS HD
 https://6mda1225.edgemaxcdn.org/live/paramount1.flv
+#EXTINF:-1 group-title="SPORTS",UK ITV SD
+https://liveua.cdnfly.click/sd/uk_itv1/index.m3u8
+#EXTINF:-1 group-title="SPORTS",UK ITV HD
+https://6mda1225.edgemaxcdn.org/live/uk_itv1.flv
+#EXTINF:-1 group-title="SPORTS",UK ITV 2 SD
+https://liveua.cdnfly.click/sd/uk_itv2/index.m3u8
+#EXTINF:-1 group-title="SPORTS",UK ITV 2 HD
+https://6mda1225.edgemaxcdn.org/live/uk_itv2.flv
+#EXTINF:-1 group-title="SPORTS",UK ITV 3 SD
+https://liveua.cdnfly.click/sd/uk_itv3/index.m3u8
+#EXTINF:-1 group-title="SPORTS",UK ITV 3 HD
+https://6mda1225.edgemaxcdn.org/live/uk_itv3.flv
+#EXTINF:-1 group-title="SPORTS",UK ITV 4 SD
+https://liveua.cdnfly.click/sd/uk_itv4/index.m3u8
+#EXTINF:-1 group-title="SPORTS",UK ITV 4 HD
+https://6mda1225.edgemaxcdn.org/live/uk_itv4.flv
 
 
 
-#EXTINF:-1 group-title="SPORTS",VIX TUDN SD ONLY
+#EXTINF:-1 group-title="SPORTS",VIX TUDN SD
 https://liveua.cdnfly.click/sd/event2/index.m3u8
-#EXTINF:-1 group-title="SPORTS",EVENT 1 SD ONLY
+#EXTINF:-1 group-title="SPORTS",EVENT 1 SD
 https://liveua.cdnfly.click/sd/event1/index.m3u8
 
 
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Movies",Peaky Blinders
-https://multiembed.mov/directstream.php?video_id=tt6791350
-#EXTINF:-1 group-title="Movies",Peaky Blinders 2
-https://multiembed.mov/?video_id=tt6791350
