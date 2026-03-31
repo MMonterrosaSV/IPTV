@@ -18,13 +18,10 @@ https://tvpass.org/live/AEEast/HD
 
 
 
-#EXTINF:-1 group-title="SPORTS",Premier Sports 1 SD
-https://liveua.cdnfly.click/sd/uk_premiersports1/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Premier Sports 1 HD
+
+#EXTINF:-1 tvg-logo="https://premiersportsireland.com/wp-content/uploads/2023/04/ps-one.svg" group-title="SPORTS",Premier Sports 1 HD
 https://6mda1225.edgemaxcdn.org/live/uk_premiersports1.flv
-#EXTINF:-1 group-title="SPORTS",Premier Sports 2 SD
-https://liveua.cdnfly.click/sd/uk_premiersports2/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Premier Sports 2 HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZXGgqMCKBg8/sddefault.jpg" group-title="SPORTS",Premier Sports 2 HD
 https://6mda1225.edgemaxcdn.org/live/uk_premiersports2.flv
 #EXTINF:-1 group-title="SPORTS",Fox Deportes SD
 https://liveua.cdnfly.click/sd/us_foxdeport/index.m3u8
@@ -116,17 +113,22 @@ https://liveua.cdnfly.click/sd/live05/index.m3u8
 https://6mda1225.edgemaxcdn.org/live/live05.flv
 
 
-#EXTINF:-1 group-title="SPORTS",EVENT 1 SD
+#EXTINF:-1 tvg-logo="https://premiersportsireland.com/wp-content/uploads/2023/04/ps-one.svg" group-title="SPORTS SD",Premier Sports 1 SD
+https://liveua.cdnfly.click/sd/uk_premiersports1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZXGgqMCKBg8/sddefault.jpg" group-title="SPORTS SD",Premier Sports 2 SD
+https://liveua.cdnfly.click/sd/uk_premiersports2/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS SD",EVENT 1 SD
 https://liveua.cdnfly.click/sd/event1/index.m3u8
-#EXTINF:-1 group-title="SPORTS",EVENT 2 VIX TUDN SD
+#EXTINF:-1 group-title="SPORTS SD",EVENT 2 VIX TUDN SD
 https://liveua.cdnfly.click/sd/event2/index.m3u8
-#EXTINF:-1 group-title="SPORTS",EVENT 3 SD
+#EXTINF:-1 group-title="SPORTS SD",EVENT 3 SD
 https://liveua.cdnfly.click/sd/event3/index.m3u8
-#EXTINF:-1 group-title="SPORTS",EVENT 4 SD
+#EXTINF:-1 group-title="SPORTS SD",EVENT 4 SD
 https://liveua.cdnfly.click/sd/event4/index.m3u8
-#EXTINF:-1 group-title="SPORTS",EVENT 5 SD
+#EXTINF:-1 group-title="SPORTS SD",EVENT 5 SD
 https://liveua.cdnfly.click/sd/event5/index.m3u8
-#EXTINF:-1 group-title="SPORTS",EVENT 6 SD
+#EXTINF:-1 group-title="SPORTS SD",EVENT 6 SD
 https://liveua.cdnfly.click/sd/event6/index.m3u8
 
 
