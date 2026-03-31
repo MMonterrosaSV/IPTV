@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="SPAIN",La 1
+#EXTINF:-1 tvg-logo="https://img.rtve.es/v/16585133/?w=1600.jpg" group-title="SPAIN",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="SPAIN",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
