@@ -34,6 +34,14 @@ https://6mda1225.edgemaxcdn.org/live/us_foxdeport.flv
 https://liveua.cdnfly.click/sd/us_foxsplus/index.m3u8
 #EXTINF:-1 group-title="SPORTS",US Fox Plus HD
 https://6mda1225.edgemaxcdn.org/live/us_foxsplus.flv
+#EXTINF:-1 group-title="SPORTS",Fox Sports 1 SD
+https://liveua.cdnfly.click/sd/us_fs1/index.m3u8
+#EXTINF:-1 group-title="SPORTS",Fox Sports 1 HD
+https://6mda1225.edgemaxcdn.org/live/us_fs1.flv
+#EXTINF:-1 group-title="SPORTS",Fox Sports 2 SD
+https://liveua.cdnfly.click/sd/us_fs2/index.m3u8
+#EXTINF:-1 group-title="SPORTS",Fox Sports 2 HD
+https://6mda1225.edgemaxcdn.org/live/us_fs2.flv
 #EXTINF:-1 group-title="SPORTS",Sky Sports Premier League SD
 https://liveua.cdnfly.click/sd/uk_ssepl/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Sky Sports Premier League HD
@@ -51,6 +59,9 @@ https://liveua.cdnfly.click/sd/uk_ssplus/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Sky Sports Plus HD
 https://6mda1225.edgemaxcdn.org/live/uk_ssplus.flv
 
+
+
+
 #EXTINF:-1 group-title="Quarantine",ESPN SD
 https://liveua.cdnfly.click/sd/us_espn/index.m3u8
 #EXTINF:-1 group-title="Quarantine",ESPN HD
@@ -59,14 +70,7 @@ https://6mda1225.edgemaxcdn.org/live/us_espn.flv
 https://liveua.cdnfly.click/sd/us_espn2/index.m3u8
 #EXTINF:-1 group-title="Quarantine",ESPN 2 HD
 https://6mda1225.edgemaxcdn.org/live/us_espn2.flv
-#EXTINF:-1 group-title="Quarantine",Fox Sports 1 SD
-https://liveua.cdnfly.click/sd/us_fs1/index.m3u8
-#EXTINF:-1 group-title="Quarantine",Fox Sports 1 HD
-https://6mda1225.edgemaxcdn.org/live/us_fs1.flv
-#EXTINF:-1 group-title="Quarantine",Fox Sports 2 SD
-https://liveua.cdnfly.click/sd/us_fs2/index.m3u8
-#EXTINF:-1 group-title="Quarantine",Fox Sports 2 HD
-https://6mda1225.edgemaxcdn.org/live/us_fs2.flv
+
 
 
 
