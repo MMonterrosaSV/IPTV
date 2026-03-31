@@ -58,6 +58,10 @@ https://6mda1225.edgemaxcdn.org/live/uk_ssmain.flv
 https://liveua.cdnfly.click/sd/uk_ssplus/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Sky Sports Plus HD
 https://6mda1225.edgemaxcdn.org/live/uk_ssplus.flv
+#EXTINF:-1 group-title="SPORTS",Fubo SD
+https://liveua.cdnfly.click/sd/fubo/index.m3u8
+#EXTINF:-1 group-title="SPORTS",Fubo HD
+https://6mda1225.edgemaxcdn.org/live/fubo.flv
 
 
 
@@ -75,12 +79,6 @@ https://liveua.score806.cc/us_espn2/index.m3u8
 #EXTINF:-1 group-title="Quarantine",ESPN 2 HD Test 1
 https://liveua.cdnfly.click/us_espn2/index.m3u8
 
-#EXTINF:-1 group-title="Tester",FS2 HD
-https://vmre6nax.12703830.net:8443/hls/6jr6f01p2.m3u8?s=mSqRzuCEyBRo8mQVjrCn1g&e=1774995044
-#EXTINF:-1 group-title="Tester",365streamtv FS2 HD
-https://z2.zamsport7.shop/usa-fs2.m3u8
-#EXTINF:-1 group-title="Tester",365streamtv FS2 HD 2
-https://cdn002.samsport.online/usa-fs2.m3u8
 
 
 
