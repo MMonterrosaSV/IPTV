@@ -62,7 +62,14 @@ https://6mda1225.edgemaxcdn.org/live/uk_ssplus.flv
 https://liveua.cdnfly.click/sd/fubo/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Fubo HD
 https://6mda1225.edgemaxcdn.org/live/fubo.flv
-
+#EXTINF:-1 group-title="SPORTS",VIX TUDN SD
+https://liveua.cdnfly.click/sd/event2/index.m3u8
+#EXTINF:-1 group-title="SPORTS",VIX TUDN HD
+https://6mda1225.edgemaxcdn.org/live/event2.flv
+#EXTINF:-1 group-title="SPORTS",EVENT 1 SD
+https://liveua.cdnfly.click/sd/event1/index.m3u8
+#EXTINF:-1 group-title="SPORTS",EVENT 1 HD
+https://6mda1225.edgemaxcdn.org/live/event1.flv
 
 
 
