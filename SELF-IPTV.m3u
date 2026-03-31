@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
 
-#EXTINF:-1 tvg-logo="https://img.rtve.es/v/16585133/?w=1600.jpg" group-title="SPAIN",La 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svhd04v8/w-1600.jpg" group-title="SPAIN",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="SPAIN",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
@@ -19,7 +19,7 @@ https://tvpass.org/live/AEEast/HD
 
 
 
-#EXTINF:-1 tvg-logo="https://premiersportsireland.com/wp-content/uploads/2023/04/ps-one.svg" group-title="SPORTS",Premier Sports 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svhd04v8/w-1600.jpg" group-title="SPORTS",Premier Sports 1 HD
 https://6mda1225.edgemaxcdn.org/live/uk_premiersports1.flv
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZXGgqMCKBg8/sddefault.jpg" group-title="SPORTS",Premier Sports 2 HD
 https://6mda1225.edgemaxcdn.org/live/uk_premiersports2.flv
