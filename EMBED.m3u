@@ -1,13 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="ESPAÑA",test
-https://daddylive.sx/embed/stream-31.php
+https://cdn-live.tv/api/v1/channels/player/?name=ESPN&code=us&user=cdnlivetv&plan=free parseUrl=2
 #EXTINF:-1 group-title="ESPAÑA",test 2
 https://daddylive.sx/embed/stream-31.php parseUrl=2
 
-#EXTINF:-1 group-title="ESPAÑA",test 3
-XmoUNb2=|CWMO1vd2DHRWiE4gFJ*0FWn?dNbaG{3Z7nk~E^ugYAaG%Fb7fU>Y&|j
-#EXTINF:-1 group-title="ESPAÑA",test 4
-XmoUNb2=|CWMO1vd2DHRWiE4gFJ*0FWn?dNbaG{3Z7nk~E^ugY
-#EXTINF:-1 group-title="ESPAÑA",test 5
-https://daddylive.sx/embed/stream-31.php parseUrl=2
