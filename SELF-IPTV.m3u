@@ -68,10 +68,14 @@ https://6mda1225.edgemaxcdn.org/live/pt_sporttv3.flv
 https://6mda1225.edgemaxcdn.org/live/live03.flv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tPxWW4c1/ezgif-57972411e9522b13.png" group-title="SPORTS",SKY SPORT 6 (LIVE 5) HD
 https://6mda1225.edgemaxcdn.org/live/live05.flv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",TNT SPORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GvmRc5Xq/images-q-tbn-ANd9-Gc-Rlr-S-9-La-O3-BGGcem-LVl-P5-QD4thj-WGCZ7lx-Lg-s.png" group-title="SPORTS",TNT SPORTS 1 HD
 https://6mda1225.edgemaxcdn.org/live/uk_bts1.flv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS SD",TNT SPORTS 1 SD
-https://liveua.cdnfly.click/sd/uk_bts1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k2RzQy8w/images-q-tbn-ANd9-Gc-TV1q193-DP4-UIJ-a6-Oks2h9-O-QS0-Mjf1-QB0b-Q-s.png" group-title="SPORTS",TNT SPORTS 2 HD
+https://6mda1225.edgemaxcdn.org/live/uk_bts2.flv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fK0j2Z1/5712-1690027954.png" group-title="SPORTS",TNT SPORTS 3 HD
+https://6mda1225.edgemaxcdn.org/live/uk_bts3.flv
+
+
 
 #EXTINF:-1 tvg-id="Premier Sports 1 HD.uk"  tvg-logo="https://i.ibb.co/xq22xMxR/images-q-tbn-ANd9-Gc-RM3qbs-Gq4y5-K9vmt3-KUQg-Dem7-Bd-Luxczr-SLA-s.png" group-title="SPORTS SD",Premier Sports 1 SD
 https://liveua.cdnfly.click/sd/uk_premiersports1/index.m3u8
@@ -121,6 +125,12 @@ https://liveua.cdnfly.click/sd/pt_sporttv3/index.m3u8
 https://liveua.cdnfly.click/sd/live03/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tPxWW4c1/ezgif-57972411e9522b13.png" group-title="SPORTS SD",SKY SPORT 6 (LIVE 5) SD
 https://liveua.cdnfly.click/sd/live05/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GvmRc5Xq/images-q-tbn-ANd9-Gc-Rlr-S-9-La-O3-BGGcem-LVl-P5-QD4thj-WGCZ7lx-Lg-s.png" group-title="SPORTS SD",TNT SPORTS 1 SD
+https://liveua.cdnfly.click/sd/uk_bts1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k2RzQy8w/images-q-tbn-ANd9-Gc-TV1q193-DP4-UIJ-a6-Oks2h9-O-QS0-Mjf1-QB0b-Q-s.png" group-title="SPORTS SD",TNT SPORTS 2 SD
+https://liveua.cdnfly.click/sd/uk_bts2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fK0j2Z1/5712-1690027954.png" group-title="SPORTS SD",TNT SPORTS 3 SD
+https://liveua.cdnfly.click/sd/uk_bts3/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS SD",EVENT 1 SD
 https://liveua.cdnfly.click/sd/event1/index.m3u8
