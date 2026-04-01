@@ -166,8 +166,8 @@ https://liveua.cdnfly.click/sd/event5/index.m3u8
 #EXTINF:-1 group-title="SPORTS SD",EVENT 6 SD
 https://liveua.cdnfly.click/sd/event6/index.m3u8
 
-
-
+#EXTINF:-1 group-title="TEST",TUDN
+https://pvtn5y.envivoslatam.org/tudn_usa/tracks-v1a1/mono.m3u8?ip=86.127.225.225&token=cdf00d7a61054da84d7c6db09a6707c18a5b7b98-af-1775109549-1775055549
 
 
 
