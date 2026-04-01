@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTM3U x-tvg-url="https://tvpass.org/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svhd04v8/w-1600.jpg" group-title="SPAIN",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
@@ -65,7 +65,7 @@ https://liveua.cdnfly.click/sd/uk_bbc1/index.m3u8
 https://6mda1225.edgemaxcdn.org/live/uk_bbc1.flv
 
 
-#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://i.ibb.co/CsspC3s9/images-q-tbn-ANd9-Gc-Rr9-AVfpn4cpr-Yv-O5-Urep-Vu5-RMr8s4-F2-N4-H8g-s.png" group-title="SPORTS",BBC 2 SD
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC TWO" tvg-logo="https://i.ibb.co/CsspC3s9/images-q-tbn-ANd9-Gc-Rr9-AVfpn4cpr-Yv-O5-Urep-Vu5-RMr8s4-F2-N4-H8g-s.png" group-title="SPORTS",BBC 2 SD
 https://liveua.cdnfly.click/sd/uk_bbc2/index.m3u8
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://i.ibb.co/CsspC3s9/images-q-tbn-ANd9-Gc-Rr9-AVfpn4cpr-Yv-O5-Urep-Vu5-RMr8s4-F2-N4-H8g-s.png" group-title="SPORTS",BBC 2 HD
 https://6mda1225.edgemaxcdn.org/live/uk_bbc2.flv
