@@ -23,18 +23,30 @@ Sports USA
 https://6mda1225.edgemaxcdn.org/live/us_foxdeport.flv
 #EXTINF:-1 tvg-id="Fox Deportes HD.us" tvg-logo="https://assets.goal.com/images/v3/blt393e39a6bc3bac32/FOX_Deportes_logo.jpg" group-title="SPORTS SD",Fox Deportes
 https://liveua.cdnfly.click/sd/us_foxdeport/index.m3u8
-#EXTINF:-1 tvg-id="FOX Soccer Plus HD.us" tvg-logo="https://i.ibb.co/fdYq8Msw/1280px-Fox-Soccer-Plus-logo-svg.png" group-title="SPORTS",US Fox Plus HD
+#EXTINF:-1 tvg-id="FOX Soccer Plus HD.us" tvg-logo="https://i.ibb.co/fdYq8Msw/1280px-Fox-Soccer-Plus-logo-svg.png" group-title="SPORTS",Fox Plus
 https://6mda1225.edgemaxcdn.org/live/us_foxsplus.flv
-#EXTINF:-1 tvg-id="Fox Sports 1 HD.us" tvg-logo="https://i.ibb.co/WW4KvKKR/1280px-2015-Fox-Sports-1-logo-svg.png" group-title="SPORTS",Fox Sports 1 HD
+#EXTINF:-1 tvg-id="FOX Soccer Plus HD.us" tvg-logo="https://i.ibb.co/fdYq8Msw/1280px-Fox-Soccer-Plus-logo-svg.png" group-title="SPORTS SD",Fox Plus
+https://liveua.cdnfly.click/sd/us_foxsplus/index.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 1 HD.us" tvg-logo="https://i.ibb.co/WW4KvKKR/1280px-2015-Fox-Sports-1-logo-svg.png" group-title="SPORTS",Fox Sports 1
 https://6mda1225.edgemaxcdn.org/live/us_fs1.flv
-#EXTINF:-1 tvg-id="Fox Sports 2 HD.us" tvg-logo="https://i.ibb.co/Q7vWjq6X/1280px-FS2-logo-2015-svg.png" group-title="SPORTS",Fox Sports 2 HD
+#EXTINF:-1 tvg-id="Fox Sports 1 HD.us" tvg-logo="https://i.ibb.co/WW4KvKKR/1280px-2015-Fox-Sports-1-logo-svg.png" group-title="SPORTS SD",Fox Sports 1
+https://liveua.cdnfly.click/sd/us_fs1/index.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 2 HD.us" tvg-logo="https://i.ibb.co/Q7vWjq6X/1280px-FS2-logo-2015-svg.png" group-title="SPORTS",Fox Sports 2
 https://6mda1225.edgemaxcdn.org/live/us_fs2.flv
-#EXTINF:-1 tvg-id="ESPN Deportes HD.us" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="SPORTS",ESPN DEPORTES HD
+#EXTINF:-1 tvg-id="Fox Sports 2 HD.us" tvg-logo="https://i.ibb.co/Q7vWjq6X/1280px-FS2-logo-2015-svg.png" group-title="SPORTS SD",Fox Sports 2
+https://liveua.cdnfly.click/sd/us_fs2/index.m3u8
+#EXTINF:-1 tvg-id="ESPN Deportes HD.us" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="SPORTS",ESPN DEPORTES
 https://6mda1225.edgemaxcdn.org/live/paramount1.flv
-#EXTINF:-1 tvg-id="CNN HD.us" tvg-logo="https://i.ibb.co/VY9996dc/250px-CNN-International-logo-svg.png" group-title="SPORTS",CNN HD
+#EXTINF:-1 tvg-id="ESPN Deportes HD.us" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="SPORTS SD",ESPN DEPORTES
+https://liveua.cdnfly.click/sd/paramount1/index.m3u8
+#EXTINF:-1 tvg-id="CNN HD.us" tvg-logo="https://i.ibb.co/VY9996dc/250px-CNN-International-logo-svg.png" group-title="SPORTS",CNN
 https://6mda1225.edgemaxcdn.org/live/us_cnn.flv
-#EXTINF:-1 tvg-id="CBS Sports Network USA HD.us" tvg-logo="https://i.ibb.co/Ps4LSsxH/MUwc-Ghb-Uv-GSPUB6-Eg6-Jh-CCd-UP-Dn-Aks9bkw-EBAnfaf-DK2h2ivxur-D4vvvi-TBSjz-CSBdf.png" group-title="SPORTS",CBS Sports Network HD
+#EXTINF:-1 tvg-id="CNN HD.us" tvg-logo="https://i.ibb.co/VY9996dc/250px-CNN-International-logo-svg.png" group-title="SPORTS SD",CNN
+https://liveua.cdnfly.click/sd/us_cnn/index.m3u8
+#EXTINF:-1 tvg-id="CBS Sports Network USA HD.us" tvg-logo="https://i.ibb.co/Ps4LSsxH/MUwc-Ghb-Uv-GSPUB6-Eg6-Jh-CCd-UP-Dn-Aks9bkw-EBAnfaf-DK2h2ivxur-D4vvvi-TBSjz-CSBdf.png" group-title="SPORTS",CBS Sports Network
 https://6mda1225.edgemaxcdn.org/live/us_cbssportsnetwork.flv
+#EXTINF:-1 tvg-id="CBS Sports Network USA HD.us" tvg-logo="https://i.ibb.co/Ps4LSsxH/MUwc-Ghb-Uv-GSPUB6-Eg6-Jh-CCd-UP-Dn-Aks9bkw-EBAnfaf-DK2h2ivxur-D4vvvi-TBSjz-CSBdf.png" group-title="SPORTS SD",CBS Sports Network
+https://liveua.cdnfly.click/sd/us_cbssportsnetwork/index.m3u8
 
 Sports Portugal
 #EXTINF:-1 tvg-id="DAZN 1.pt" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/xi3zu21773512748.png" group-title="SPORTS",DAZN 1 (Portugal) HD
@@ -101,12 +113,6 @@ https://6mda1225.edgemaxcdn.org/live/uk_bts4.flv
 https://liveua.cdnfly.click/sd/uk_premiersports1/index.m3u8
 #EXTINF:-1 tvg-id="Premier Sports 2 HD.uk"  tvg-logo="https://i.ytimg.com/vi/ZXGgqMCKBg8/sddefault.jpg" group-title="SPORTS SD",Premier Sports 2 SD
 https://liveua.cdnfly.click/sd/uk_premiersports2/index.m3u8
-#EXTINF:-1 tvg-id="FOX Soccer Plus HD.us" tvg-logo="https://i.ibb.co/fdYq8Msw/1280px-Fox-Soccer-Plus-logo-svg.png" group-title="SPORTS SD",US Fox Plus SD
-https://liveua.cdnfly.click/sd/us_foxsplus/index.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1 HD.us" tvg-logo="https://i.ibb.co/WW4KvKKR/1280px-2015-Fox-Sports-1-logo-svg.png" group-title="SPORTS SD",Fox Sports 1 SD
-https://liveua.cdnfly.click/sd/us_fs1/index.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 2 HD.us" tvg-logo="https://i.ibb.co/Q7vWjq6X/1280px-FS2-logo-2015-svg.png" group-title="SPORTS SD",Fox Sports 2 SD
-https://liveua.cdnfly.click/sd/us_fs2/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sports Premier League HD.uk" tvg-logo="https://i.ibb.co/4RhR4ghX/images-q-tbn-ANd9-Gc-RNXw53gn-UV1z-L1t-Do-AFLmf-HNOtp-MBx7go-FFg-s.png" group-title="SPORTS SD",Sky Sports Premier League SD
 https://liveua.cdnfly.click/sd/uk_ssepl/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sports Football HD.uk" tvg-logo="https://i.ibb.co/FkfZKqfR/images-q-tbn-ANd9-Gc-QO7htc-Dm1t-VOROz9e-Wd-WGveqch-7wuku-KEj-A-s.png" group-title="SPORTS SD",Sky Sports Football SD
@@ -123,8 +129,6 @@ https://liveua.cdnfly.click/sd/uk_bbc1/index.m3u8
 https://liveua.cdnfly.click/sd/uk_bbc2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p0b2y6mx.jpg" group-title="SPORTS SD",BBC 3 SD
 https://liveua.cdnfly.click/sd/uk_bbc3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="SPORTS SD",ESPN DEPORTES SD
-https://liveua.cdnfly.click/sd/paramount1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LzrYYzLL/1280px-ITV1-logo-2022-svg.png" group-title="SPORTS SD",UK ITV SD
 https://liveua.cdnfly.click/sd/uk_itv1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yc9nWsj3/1280px-ITV2-logo-2015-svg.png" group-title="SPORTS SD",UK ITV 2 SD
@@ -149,8 +153,6 @@ https://liveua.cdnfly.click/sd/uk_bts1/index.m3u8
 https://liveua.cdnfly.click/sd/uk_bts2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fK0j2Z1/5712-1690027954.png" group-title="SPORTS SD",TNT SPORTS 3 SD
 https://liveua.cdnfly.click/sd/uk_bts3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VY9996dc/250px-CNN-International-logo-svg.png" group-title="SPORTS SD",CNN SD
-https://liveua.cdnfly.click/sd/us_cnn/index.m3u8
 #EXTINF:-1 group-title="SPORTS SD",EVENT 1 SD
 https://liveua.cdnfly.click/sd/event1/index.m3u8
 #EXTINF:-1 group-title="SPORTS SD",EVENT 2 VIX TUDN SD
