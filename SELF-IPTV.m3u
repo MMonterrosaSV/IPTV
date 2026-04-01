@@ -64,21 +64,11 @@ https://6mda1225.edgemaxcdn.org/live/pt_sporttv1.flv
 https://6mda1225.edgemaxcdn.org/live/pt_sporttv2.flv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QFzJjbyP/ezgif-568d39439cfffb65.png" group-title="SPORTS",PT SPORT TV 3 HD
 https://6mda1225.edgemaxcdn.org/live/pt_sporttv3.flv
-
-
-
-tvg-id="" tvg-logo="" 
-
-
-
-#EXTINF:-1 group-title="SPORTS",LIVE 3 SKY SPORT 3 SD
-https://liveua.cdnfly.click/sd/live03/index.m3u8
-#EXTINF:-1 group-title="SPORTS",LIVE 3 SKY SPORT 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YTcDVCXB/Sky-Sports-3.png" group-title="SPORTS",SKY SPORT 3 (LIVE 3) HD
 https://6mda1225.edgemaxcdn.org/live/live03.flv
-#EXTINF:-1 group-title="SPORTS",LIVE 5 SKY SPORT 6 SD
-https://liveua.cdnfly.click/sd/live05/index.m3u8
-#EXTINF:-1 group-title="SPORTS",LIVE 5 SKY SPORT 6 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tPxWW4c1/ezgif-57972411e9522b13.png" group-title="SPORTS",SKY SPORT 6 (LIVE 5) HD
 https://6mda1225.edgemaxcdn.org/live/live05.flv
+
 
 
 #EXTINF:-1 tvg-id="Premier Sports 1 HD.uk"  tvg-logo="https://i.ibb.co/xq22xMxR/images-q-tbn-ANd9-Gc-RM3qbs-Gq4y5-K9vmt3-KUQg-Dem7-Bd-Luxczr-SLA-s.png" group-title="SPORTS SD",Premier Sports 1 SD
@@ -125,6 +115,10 @@ https://liveua.cdnfly.click/sd/pt_sporttv1/index.m3u8
 https://liveua.cdnfly.click/sd/pt_sporttv2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QFzJjbyP/ezgif-568d39439cfffb65.png" group-title="SPORTS SD",PT SPORT TV 3 SD
 https://liveua.cdnfly.click/sd/pt_sporttv3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YTcDVCXB/Sky-Sports-3.png" group-title="SPORTS SD",SKY SPORT 3 (LIVE 3) SD
+https://liveua.cdnfly.click/sd/live03/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tPxWW4c1/ezgif-57972411e9522b13.png" group-title="SPORTS SD",SKY SPORT 6 (LIVE 5) SD
+https://liveua.cdnfly.click/sd/live05/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS SD",EVENT 1 SD
 https://liveua.cdnfly.click/sd/event1/index.m3u8
