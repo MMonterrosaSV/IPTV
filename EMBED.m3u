@@ -8,3 +8,5 @@ https://cdn-live.tv/api/v1/channels/player/?name=ESPN&code=us&user=cdnlivetv&pla
 https://dlstreams.top/stream/stream-84.php parseUrl=2
 #EXTINF:-1 group-title="ESPAÑA",Movistar La Liga 1 (2)
 https://daddylive.sx/embed/stream-84.php parseUrl=2
+#EXTINF:-1 group-title="ESPAÑA",Movistar La Liga 1 (3)
+https://dlstreams.top/cast/stream-84.php parseUrl=2
