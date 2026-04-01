@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
+#EXTM3U x-tvg-url="https://tvpass.org/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svhd04v8/w-1600.jpg" group-title="SPAIN",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
@@ -19,7 +19,7 @@ https://tvpass.org/live/AEEast/HD
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/svhd04v8/w-1600.jpg" group-title="SPORTS",Premier Sports 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xq22xMxR/images-q-tbn-ANd9-Gc-RM3qbs-Gq4y5-K9vmt3-KUQg-Dem7-Bd-Luxczr-SLA-s.png" group-title="SPORTS",Premier Sports 1 HD
 https://6mda1225.edgemaxcdn.org/live/uk_premiersports1.flv
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZXGgqMCKBg8/sddefault.jpg" group-title="SPORTS",Premier Sports 2 HD
 https://6mda1225.edgemaxcdn.org/live/uk_premiersports2.flv
@@ -63,9 +63,11 @@ https://6mda1225.edgemaxcdn.org/live/fubo.flv
 https://liveua.cdnfly.click/sd/uk_bbc1/index.m3u8
 #EXTINF:-1 group-title="SPORTS",BBC HD
 https://6mda1225.edgemaxcdn.org/live/uk_bbc1.flv
-#EXTINF:-1 group-title="SPORTS",BBC 2 SD
+
+
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png" group-title="SPORTS",BBC 2 SD
 https://liveua.cdnfly.click/sd/uk_bbc2/index.m3u8
-#EXTINF:-1 group-title="SPORTS",BBC 2 HD
+#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png" group-title="SPORTS",BBC 2 HD
 https://6mda1225.edgemaxcdn.org/live/uk_bbc2.flv
 #EXTINF:-1 group-title="SPORTS",BBC 3 SD
 https://liveua.cdnfly.click/sd/uk_bbc3/index.m3u8
@@ -113,7 +115,7 @@ https://liveua.cdnfly.click/sd/live05/index.m3u8
 https://6mda1225.edgemaxcdn.org/live/live05.flv
 
 
-#EXTINF:-1 tvg-logo="https://premiersportsireland.com/wp-content/uploads/2023/04/ps-one.svg" group-title="SPORTS SD",Premier Sports 1 SD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xq22xMxR/images-q-tbn-ANd9-Gc-RM3qbs-Gq4y5-K9vmt3-KUQg-Dem7-Bd-Luxczr-SLA-s.png" group-title="SPORTS SD",Premier Sports 1 SD
 https://liveua.cdnfly.click/sd/uk_premiersports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZXGgqMCKBg8/sddefault.jpg" group-title="SPORTS SD",Premier Sports 2 SD
 https://liveua.cdnfly.click/sd/uk_premiersports2/index.m3u8
