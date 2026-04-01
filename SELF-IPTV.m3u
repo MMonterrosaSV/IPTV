@@ -35,18 +35,18 @@ https://6mda1225.edgemaxcdn.org/live/us_fs1.flv
 https://6mda1225.edgemaxcdn.org/live/us_fs2.flv
 #EXTINF:-1 tvg-id="Sky Sports Premier League HD.uk" tvg-logo="https://i.ibb.co/yFVgKVjz/1280px-Sky-Sports-Premier-League-Logo-2025-svg.png" group-title="SPORTS",Sky Sports Premier League HD
 https://6mda1225.edgemaxcdn.org/live/uk_ssepl.flv
-#EXTINF:-1 tvg-id="Sky Sports Football HD.uk" tvg-logo="https://i.ibb.co/5XG4P36j/G7z4-YBDXcrq58ak-IZ1f-Zl-Hi6wku-Dw-PUOJyv-O-g-Qco-Rg9y1-A825phd-Uu-TY7w-XIF2bzaj3w-G11-Wbc-s900-c-k-c0x.jpg" group-title="SPORTS",Sky Sports Football HD
+#EXTINF:-1 tvg-id="Sky Sports Football HD.uk" tvg-logo="https://i.ibb.co/FkfZKqfR/images-q-tbn-ANd9-Gc-QO7htc-Dm1t-VOROz9e-Wd-WGveqch-7wuku-KEj-A-s.png" group-title="SPORTS",Sky Sports Football HD
 https://6mda1225.edgemaxcdn.org/live/uk_ssfb.flv
-
-tvg-id="" tvg-logo=""
-
 #EXTINF:-1 tvg-id="Sky Sports Main Event HD.uk" tvg-logo="https://i.ibb.co/2704qbk5/sky-sports-main-event-1.jpg" group-title="SPORTS",Sky Sports Main HD
 https://6mda1225.edgemaxcdn.org/live/uk_ssmain.flv
 #EXTINF:-1 tvg-id="Sky Sports + HD.uk" tvg-logo="https://i.ibb.co/xKXjcK2p/960px-Sky-Sports-television-channel-svg.png" group-title="SPORTS",Sky Sports Plus HD
 https://6mda1225.edgemaxcdn.org/live/uk_ssplus.flv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5gpRGf4Z/vav-MBJSI7-EFl-At-Zi-FPOJA5sz-F4jp-PI9f2-LPt-D2c-Dp8-Gc-WM5kr-XCkio-E-lo-S5gr-Od-P6-Y.png" group-title="SPORTS",Fubo HD
 https://6mda1225.edgemaxcdn.org/live/fubo.flv
-#EXTINF:-1 group-title="SPORTS",BBC SD
+
+tvg-id="" tvg-logo=""
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",BBC SD
 https://liveua.cdnfly.click/sd/uk_bbc1/index.m3u8
 #EXTINF:-1 group-title="SPORTS",BBC HD
 https://6mda1225.edgemaxcdn.org/live/uk_bbc1.flv
@@ -112,9 +112,9 @@ https://liveua.cdnfly.click/sd/us_foxsplus/index.m3u8
 https://liveua.cdnfly.click/sd/us_fs1/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 2 HD.us" tvg-logo="https://i.ibb.co/Q7vWjq6X/1280px-FS2-logo-2015-svg.png" group-title="SPORTS SD",Fox Sports 2 SD
 https://liveua.cdnfly.click/sd/us_fs2/index.m3u8
-#EXTINF:-1 tvg-id="Sky Sports Premier League HD.uk" tvg-logo="https://i.ibb.co/yFVgKVjz/1280px-Sky-Sports-Premier-League-Logo-2025-svg.png" group-title="SPORTS SD",Sky Sports Premier League SD
+#EXTINF:-1 tvg-id="Sky Sports Premier League HD.uk" tvg-logo="https://i.ibb.co/4RhR4ghX/images-q-tbn-ANd9-Gc-RNXw53gn-UV1z-L1t-Do-AFLmf-HNOtp-MBx7go-FFg-s.png" group-title="SPORTS SD",Sky Sports Premier League SD
 https://liveua.cdnfly.click/sd/uk_ssepl/index.m3u8
-#EXTINF:-1 tvg-id="Sky Sports Football HD.uk" tvg-logo="https://i.ibb.co/5XG4P36j/G7z4-YBDXcrq58ak-IZ1f-Zl-Hi6wku-Dw-PUOJyv-O-g-Qco-Rg9y1-A825phd-Uu-TY7w-XIF2bzaj3w-G11-Wbc-s900-c-k-c0x.jpg" group-title="SPORTS SD",Sky Sports Football SD
+#EXTINF:-1 tvg-id="Sky Sports Football HD.uk" tvg-logo="https://i.ibb.co/FkfZKqfR/images-q-tbn-ANd9-Gc-QO7htc-Dm1t-VOROz9e-Wd-WGveqch-7wuku-KEj-A-s.png" group-title="SPORTS SD",Sky Sports Football SD
 https://liveua.cdnfly.click/sd/uk_ssfb/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sports Main Event HD.uk" tvg-logo="https://i.ibb.co/2704qbk5/sky-sports-main-event-1.jpg" group-title="SPORTS SD",Sky Sports Main SD
 https://liveua.cdnfly.click/sd/uk_ssmain/index.m3u8
