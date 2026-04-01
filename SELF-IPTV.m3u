@@ -31,6 +31,8 @@ https://6mda1225.edgemaxcdn.org/live/us_fs2.flv
 https://6mda1225.edgemaxcdn.org/live/paramount1.flv
 #EXTINF:-1 tvg-id="CNN HD.us" tvg-logo="https://i.ibb.co/VY9996dc/250px-CNN-International-logo-svg.png" group-title="SPORTS",CNN HD
 https://6mda1225.edgemaxcdn.org/live/us_cnn.flv
+#EXTINF:-1 tvg-id="CBS Sports Network USA HD.us" tvg-logo="https://i.ibb.co/Ps4LSsxH/MUwc-Ghb-Uv-GSPUB6-Eg6-Jh-CCd-UP-Dn-Aks9bkw-EBAnfaf-DK2h2ivxur-D4vvvi-TBSjz-CSBdf.png" group-title="SPORTS",CBS Sports Network HD
+https://6mda1225.edgemaxcdn.org/live/us_cbssportsnetwork.flv
 
 Sports Portugal
 #EXTINF:-1 tvg-id="DAZN 1.pt" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/xi3zu21773512748.png" group-title="SPORTS",DAZN 1 (Portugal) HD
