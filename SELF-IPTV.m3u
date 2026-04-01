@@ -12,18 +12,12 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="real madrid tv.es" tvg-logo="https://pbs.twimg.com/media/GyIXeuoWoAAUO30.jpg" group-title="SPAIN",	Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
-
+El Salvador
 #EXTINF:-1 tvg-logo="https://iglesiadelcamino.org/wp-content/uploads/2022/11/logo-iglesiadelcamino.png" group-title="El Salvador",El Camino
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 
 
-
-
-
-#EXTINF:-1 tvg-id="Premier Sports 1 HD.uk" tvg-logo="https://i.ibb.co/xq22xMxR/images-q-tbn-ANd9-Gc-RM3qbs-Gq4y5-K9vmt3-KUQg-Dem7-Bd-Luxczr-SLA-s.png" group-title="SPORTS",Premier Sports 1 HD
-https://6mda1225.edgemaxcdn.org/live/uk_premiersports1.flv
-#EXTINF:-1 tvg-id="Premier Sports 2 HD.uk" tvg-logo="https://i.ytimg.com/vi/ZXGgqMCKBg8/sddefault.jpg" group-title="SPORTS",Premier Sports 2 HD
-https://6mda1225.edgemaxcdn.org/live/uk_premiersports2.flv
+Sports USA
 #EXTINF:-1 tvg-id="Fox Deportes HD.us" tvg-logo="https://assets.goal.com/images/v3/blt393e39a6bc3bac32/FOX_Deportes_logo.jpg" group-title="SPORTS",Fox Deportes HD
 https://6mda1225.edgemaxcdn.org/live/us_foxdeport.flv
 #EXTINF:-1 tvg-id="FOX Soccer Plus HD.us" tvg-logo="https://i.ibb.co/fdYq8Msw/1280px-Fox-Soccer-Plus-logo-svg.png" group-title="SPORTS",US Fox Plus HD
@@ -32,6 +26,11 @@ https://6mda1225.edgemaxcdn.org/live/us_foxsplus.flv
 https://6mda1225.edgemaxcdn.org/live/us_fs1.flv
 #EXTINF:-1 tvg-id="Fox Sports 2 HD.us" tvg-logo="https://i.ibb.co/Q7vWjq6X/1280px-FS2-logo-2015-svg.png" group-title="SPORTS",Fox Sports 2 HD
 https://6mda1225.edgemaxcdn.org/live/us_fs2.flv
+
+#EXTINF:-1 tvg-id="Premier Sports 1 HD.uk" tvg-logo="https://i.ibb.co/xq22xMxR/images-q-tbn-ANd9-Gc-RM3qbs-Gq4y5-K9vmt3-KUQg-Dem7-Bd-Luxczr-SLA-s.png" group-title="SPORTS",Premier Sports 1 HD
+https://6mda1225.edgemaxcdn.org/live/uk_premiersports1.flv
+#EXTINF:-1 tvg-id="Premier Sports 2 HD.uk" tvg-logo="https://i.ytimg.com/vi/ZXGgqMCKBg8/sddefault.jpg" group-title="SPORTS",Premier Sports 2 HD
+https://6mda1225.edgemaxcdn.org/live/uk_premiersports2.flv
 #EXTINF:-1 tvg-id="Sky Sports Premier League HD.uk" tvg-logo="https://i.ibb.co/4RhR4ghX/images-q-tbn-ANd9-Gc-RNXw53gn-UV1z-L1t-Do-AFLmf-HNOtp-MBx7go-FFg-s.png" group-title="SPORTS",Sky Sports Premier League HD
 https://6mda1225.edgemaxcdn.org/live/uk_ssepl.flv
 #EXTINF:-1 tvg-id="Sky Sports Football HD.uk" tvg-logo="https://i.ibb.co/FkfZKqfR/images-q-tbn-ANd9-Gc-QO7htc-Dm1t-VOROz9e-Wd-WGveqch-7wuku-KEj-A-s.png" group-title="SPORTS",Sky Sports Football HD
