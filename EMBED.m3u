@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ESPAÑA",test
+#EXTINF:-1 group-title="USA",ESPN
 https://cdn-live.tv/api/v1/channels/player/?name=ESPN&code=us&user=cdnlivetv&plan=free parseUrl=2
-#EXTINF:-1 group-title="ESPAÑA",test 2
-https://daddylive.sx/embed/stream-31.php parseUrl=2
 
+
+#EXTINF:-1 group-title="ESPAÑA",Movistar La Liga 1
+https://dlstreams.top/stream/stream-84.php parseUrl=2
+#EXTINF:-1 group-title="ESPAÑA",Movistar La Liga 1 (2)
+https://daddylive.sx/embed/stream-84.php parseUrl=2
