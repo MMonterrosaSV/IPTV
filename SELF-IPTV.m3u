@@ -1,6 +1,7 @@
 #EXTM3U 
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svhd04v8/w-1600.jpg" group-title="SPAIN",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="SPAIN",La 2
@@ -14,7 +15,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed" group-title="USA",A&E US Eastern Feed
-https://tvpass.org/live/AEEast/HD
+https://tvpass.org/live/AEEast
 
 
 
@@ -65,9 +66,9 @@ https://liveua.cdnfly.click/sd/uk_bbc1/index.m3u8
 https://6mda1225.edgemaxcdn.org/live/uk_bbc1.flv
 
 
-#EXTINF:-1 tvg-id="BBC Two.uk" tvg-name="BBC TWO" tvg-logo="https://i.ibb.co/CsspC3s9/images-q-tbn-ANd9-Gc-Rr9-AVfpn4cpr-Yv-O5-Urep-Vu5-RMr8s4-F2-N4-H8g-s.png" group-title="SPORTS",BBC 2 SD
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC TWO" tvg-logo="https://i.ibb.co/CsspC3s9/images-q-tbn-ANd9-Gc-Rr9-AVfpn4cpr-Yv-O5-Urep-Vu5-RMr8s4-F2-N4-H8g-s.png" group-title="SPORTS",BBC 2 SD
 https://liveua.cdnfly.click/sd/uk_bbc2/index.m3u8
-#EXTINF:-1 tvg-id="BBC Two.uk" tvg-logo="https://i.ibb.co/CsspC3s9/images-q-tbn-ANd9-Gc-Rr9-AVfpn4cpr-Yv-O5-Urep-Vu5-RMr8s4-F2-N4-H8g-s.png" group-title="SPORTS",BBC 2 HD
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://i.ibb.co/CsspC3s9/images-q-tbn-ANd9-Gc-Rr9-AVfpn4cpr-Yv-O5-Urep-Vu5-RMr8s4-F2-N4-H8g-s.png" group-title="SPORTS",BBC 2 HD
 https://6mda1225.edgemaxcdn.org/live/uk_bbc2.flv
 #EXTINF:-1 group-title="SPORTS",BBC 3 SD
 https://liveua.cdnfly.click/sd/uk_bbc3/index.m3u8
