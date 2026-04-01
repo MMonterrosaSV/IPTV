@@ -56,25 +56,21 @@ https://6mda1225.edgemaxcdn.org/live/uk_itv1.flv
 https://6mda1225.edgemaxcdn.org/live/uk_itv2.flv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1G0ggmMj/images-q-tbn-ANd9-Gc-Quo-Gr0-i4d8-MTf-F3-Y6n08-Qb9-P-x-Uu-FVBQ8q-TMEyk-KF-s.png" group-title="SPORTS",UK ITV 3 HD
 https://6mda1225.edgemaxcdn.org/live/uk_itv3.flv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cc1VnHjf/images-q-tbn-ANd9-Gc-Sh-C4p-Ph-Az7r-BMGja-MGr-Ip-E7-U6reg-T-cv-O-Q-s.png" group-title="SPORTS",UK ITV 4 HD
+https://6mda1225.edgemaxcdn.org/live/uk_itv4.flv
+#EXTINF:-1 tvg-id="" tvg-logo="https://s5.ezgif.com/tmp/ezgif-5e0d69d7c2856d5e.png" group-title="SPORTS",PT SPORT TV 1 HD
+https://6mda1225.edgemaxcdn.org/live/pt_sporttv1.flv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6JrJ7Svd/ezgif-5509fdac0d7b15e4.png" group-title="SPORTS",PT SPORT TV 2 HD
+https://6mda1225.edgemaxcdn.org/live/pt_sporttv2.flv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QFzJjbyP/ezgif-568d39439cfffb65.png" group-title="SPORTS",PT SPORT TV 3 HD
+https://6mda1225.edgemaxcdn.org/live/pt_sporttv3.flv
+
 
 
 tvg-id="" tvg-logo="" 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cc1VnHjf/images-q-tbn-ANd9-Gc-Sh-C4p-Ph-Az7r-BMGja-MGr-Ip-E7-U6reg-T-cv-O-Q-s.png" group-title="SPORTS",UK ITV 4 HD
-https://6mda1225.edgemaxcdn.org/live/uk_itv4.flv
-#EXTINF:-1 group-title="SPORTS",PT SPORT TV 1 SD
-https://liveua.cdnfly.click/sd/pt_sporttv1/index.m3u8
-#EXTINF:-1 group-title="SPORTS",PT SPORT TV 1 HD
-https://6mda1225.edgemaxcdn.org/live/pt_sporttv1.flv
-#EXTINF:-1 group-title="SPORTS",PT SPORT TV 2 SD
-https://liveua.cdnfly.click/sd/pt_sporttv2/index.m3u8
-#EXTINF:-1 group-title="SPORTS",PT SPORT TV 2 HD
-https://6mda1225.edgemaxcdn.org/live/pt_sporttv2.flv
-#EXTINF:-1 group-title="SPORTS",PT SPORT TV 3 SD
-https://liveua.cdnfly.click/sd/pt_sporttv3/index.m3u8
-#EXTINF:-1 group-title="SPORTS",PT SPORT TV 3 HD
-https://6mda1225.edgemaxcdn.org/live/pt_sporttv3.flv
+
 #EXTINF:-1 group-title="SPORTS",LIVE 3 SKY SPORT 3 SD
 https://liveua.cdnfly.click/sd/live03/index.m3u8
 #EXTINF:-1 group-title="SPORTS",LIVE 3 SKY SPORT 3 HD
@@ -123,6 +119,12 @@ https://liveua.cdnfly.click/sd/uk_itv2/index.m3u8
 https://liveua.cdnfly.click/sd/uk_itv3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cc1VnHjf/images-q-tbn-ANd9-Gc-Sh-C4p-Ph-Az7r-BMGja-MGr-Ip-E7-U6reg-T-cv-O-Q-s.png" group-title="SPORTS SD",UK ITV 4 SD
 https://liveua.cdnfly.click/sd/uk_itv4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s5.ezgif.com/tmp/ezgif-5e0d69d7c2856d5e.png" group-title="SPORTS SD",PT SPORT TV 1 SD
+https://liveua.cdnfly.click/sd/pt_sporttv1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6JrJ7Svd/ezgif-5509fdac0d7b15e4.png" group-title="SPORTS SD",PT SPORT TV 2 SD
+https://liveua.cdnfly.click/sd/pt_sporttv2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QFzJjbyP/ezgif-568d39439cfffb65.png" group-title="SPORTS SD",PT SPORT TV 3 SD
+https://liveua.cdnfly.click/sd/pt_sporttv3/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS SD",EVENT 1 SD
 https://liveua.cdnfly.click/sd/event1/index.m3u8
