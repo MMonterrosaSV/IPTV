@@ -40,9 +40,7 @@ https://6mda1225.edgemaxcdn.org/live/uk_ssfb.flv
 
 tvg-id="" tvg-logo=""
 
-#EXTINF:-1 group-title="SPORTS",Sky Sports Main SD
-https://liveua.cdnfly.click/sd/uk_ssmain/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky Sports Main HD
+#EXTINF:-1 tvg-id="Sky Sports Main Event HD.uk" tvg-logo="https://i.ibb.co/2704qbk5/sky-sports-main-event-1.jpg" group-title="SPORTS",Sky Sports Main HD
 https://6mda1225.edgemaxcdn.org/live/uk_ssmain.flv
 #EXTINF:-1 group-title="SPORTS",Sky Sports Plus SD
 https://liveua.cdnfly.click/sd/uk_ssplus/index.m3u8
@@ -122,6 +120,8 @@ https://liveua.cdnfly.click/sd/us_fs2/index.m3u8
 https://liveua.cdnfly.click/sd/uk_ssepl/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sports Football HD.uk" tvg-logo="https://i.ibb.co/5XG4P36j/G7z4-YBDXcrq58ak-IZ1f-Zl-Hi6wku-Dw-PUOJyv-O-g-Qco-Rg9y1-A825phd-Uu-TY7w-XIF2bzaj3w-G11-Wbc-s900-c-k-c0x.jpg" group-title="SPORTS SD",Sky Sports Football SD
 https://liveua.cdnfly.click/sd/uk_ssfb/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sports Main Event HD.uk" tvg-logo="https://i.ibb.co/2704qbk5/sky-sports-main-event-1.jpg" group-title="SPORTS SD",Sky Sports Main SD
+https://liveua.cdnfly.click/sd/uk_ssmain/index.m3u8
 
 #EXTINF:-1 tvg-id="BBC Two HD.uk" tvg-name="BBC TWO" tvg-logo="https://i.ibb.co/CsspC3s9/images-q-tbn-ANd9-Gc-Rr9-AVfpn4cpr-Yv-O5-Urep-Vu5-RMr8s4-F2-N4-H8g-s.png" group-title="SPORTS SD",BBC 2 SD
 https://liveua.cdnfly.click/sd/uk_bbc2/index.m3u8
