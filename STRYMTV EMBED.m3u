@@ -1,14 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="USA",ESPN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLKrzjp6/ESPN.png" group-title="USA",ESPN
 https://cdn-live.tv/api/v1/channels/player/?name=ESPN&code=us&user=cdnlivetv&plan=free parseUrl=2
 
 
-#EXTINF:-1 group-title="ESPAÑA",Movistar La Liga 1 (dllivestreams)
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rf0ZHLMW/M-LL.png" group-title="ESPAÑA",Movistar La Liga 1 (dllivestreams)
 https://dlstreams.top/cast/stream-84.php parseUrl=2
-#EXTINF:-1 group-title="ESPAÑA",Movistar La Liga 1 (streamsports99 tv)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rf0ZHLMW/M-LL.png" group-title="ESPAÑA",Movistar La Liga 1 (streamsports99 tv)
 https://cdn-live.tv/api/v1/channels/player/?name=M%20LALIGA&code=es&user=cdnlivetv&plan=free parseUrl=2
-#EXTINF:-1 group-title="ESPAÑA",Movistar La Liga 2 (streamsports99 tv)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6V6jRyQ/1280px-La-Liga-TV-por-Movistar-Plus-2023-Logo-svg.png" group-title="ESPAÑA",Movistar La Liga 2 (streamsports99 tv)
 https://cdn-live.tv/api/v1/channels/player/?name=M%20LALIGA%202&code=es&user=cdnlivetv&plan=free parseUrl=2
 #EXTINF:-1 group-title="ESPAÑA",DAZN La Liga 1 (streamsports99 tv)
 https://cdn-live.tv/api/v1/channels/player/?name=DAZN%20LaLiga&code=es&user=cdnlivetv&plan=free parseUrl=2
