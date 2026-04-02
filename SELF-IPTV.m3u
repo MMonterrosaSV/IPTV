@@ -211,20 +211,47 @@ https://6mda1225.edgemaxcdn.org/live/uk_itv4.flv
 #EXTINF:-1 tvg-id="ITV4 HD.uk" tvg-logo="https://i.ibb.co/cc1VnHjf/images-q-tbn-ANd9-Gc-Sh-C4p-Ph-Az7r-BMGja-MGr-Ip-E7-U6reg-T-cv-O-Q-s.png" group-title="SPORTS SD",ITV 4
 https://liveua.cdnfly.click/sd/uk_itv4/index.m3u8
 
-#EXTINF:-1 tvg-id="Sky Sport 3.nz" tvg-logo="https://i.ibb.co/YTcDVCXB/Sky-Sports-3.png" group-title="SPORTS",SKY SPORT 3 (LIVE 3) HD
+#EXTINF:-1 tvg-id="Sky Sport 3.nz" tvg-logo="https://i.ibb.co/YTcDVCXB/Sky-Sports-3.png" group-title="SPORTS HD",SKY SPORT 3 (LIVE 3)
+https://liveua.score806.cc/live03/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sport 3.nz" tvg-logo="https://i.ibb.co/YTcDVCXB/Sky-Sports-3.png" group-title="SPORTS HD FLV",SKY SPORT 3 (LIVE 3)
 https://6mda1225.edgemaxcdn.org/live/live03.flv
-#EXTINF:-1 tvg-id="Sky Sport 6.nz" tvg-logo="https://i.ibb.co/tPxWW4c1/ezgif-57972411e9522b13.png" group-title="SPORTS",SKY SPORT 6 (LIVE 5) HD
+#EXTINF:-1 tvg-id="Sky Sport 3.nz" tvg-logo="https://i.ibb.co/YTcDVCXB/Sky-Sports-3.png" group-title="SPORTS SD",SKY SPORT 3 (LIVE 3)
+https://liveua.cdnfly.click/sd/live03/index.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sport 6.nz" tvg-logo="https://i.ibb.co/tPxWW4c1/ezgif-57972411e9522b13.png" group-title="SPORTS HD",SKY SPORT 6 (LIVE 5)
+https://liveua.score806.cc/live05/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sport 6.nz" tvg-logo="https://i.ibb.co/tPxWW4c1/ezgif-57972411e9522b13.png" group-title="SPORTS HD FLV",SKY SPORT 6 (LIVE 5)
 https://6mda1225.edgemaxcdn.org/live/live05.flv
-#EXTINF:-1 tvg-id="TNT Sports 1 HD.uk" tvg-logo="https://i.ibb.co/GvmRc5Xq/images-q-tbn-ANd9-Gc-Rlr-S-9-La-O3-BGGcem-LVl-P5-QD4thj-WGCZ7lx-Lg-s.png" group-title="SPORTS",TNT SPORTS 1 HD
+#EXTINF:-1 tvg-id="Sky Sport 6.nz" tvg-logo="https://i.ibb.co/tPxWW4c1/ezgif-57972411e9522b13.png" group-title="SPORTS SD",SKY SPORT 6 (LIVE 5)
+https://liveua.cdnfly.click/sd/live05/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT Sports 1 HD.uk" tvg-logo="https://i.ibb.co/GvmRc5Xq/images-q-tbn-ANd9-Gc-Rlr-S-9-La-O3-BGGcem-LVl-P5-QD4thj-WGCZ7lx-Lg-s.png" group-title="SPORTS HD",TNT SPORTS 1
+https://liveua.score806.cc/uk_bts1/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 1 HD.uk" tvg-logo="https://i.ibb.co/GvmRc5Xq/images-q-tbn-ANd9-Gc-Rlr-S-9-La-O3-BGGcem-LVl-P5-QD4thj-WGCZ7lx-Lg-s.png" group-title="SPORTS HD FLV",TNT SPORTS 1
 https://6mda1225.edgemaxcdn.org/live/uk_bts1.flv
-#EXTINF:-1 tvg-id="TNT Sports 2 HD.uk" tvg-logo="https://i.ibb.co/k2RzQy8w/images-q-tbn-ANd9-Gc-TV1q193-DP4-UIJ-a6-Oks2h9-O-QS0-Mjf1-QB0b-Q-s.png" group-title="SPORTS",TNT SPORTS 2 HD
+#EXTINF:-1 tvg-id="TNT Sports 1 HD.uk" tvg-logo="https://i.ibb.co/GvmRc5Xq/images-q-tbn-ANd9-Gc-Rlr-S-9-La-O3-BGGcem-LVl-P5-QD4thj-WGCZ7lx-Lg-s.png" group-title="SPORTS SD",TNT SPORTS 1
+https://liveua.cdnfly.click/sd/uk_bts1/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT Sports 2 HD.uk" tvg-logo="https://i.ibb.co/k2RzQy8w/images-q-tbn-ANd9-Gc-TV1q193-DP4-UIJ-a6-Oks2h9-O-QS0-Mjf1-QB0b-Q-s.png" group-title="SPORTS HD",TNT SPORTS 2
+https://liveua.score806.cc/uk_bts2/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 2 HD.uk" tvg-logo="https://i.ibb.co/k2RzQy8w/images-q-tbn-ANd9-Gc-TV1q193-DP4-UIJ-a6-Oks2h9-O-QS0-Mjf1-QB0b-Q-s.png" group-title="SPORTS HD FLV",TNT SPORTS 2
 https://6mda1225.edgemaxcdn.org/live/uk_bts2.flv
-#EXTINF:-1 tvg-id="TNT Sports 3 HD.uk" tvg-logo="https://i.ibb.co/fK0j2Z1/5712-1690027954.png" group-title="SPORTS",TNT SPORTS 3 HD
+#EXTINF:-1 tvg-id="TNT Sports 2 HD.uk" tvg-logo="https://i.ibb.co/k2RzQy8w/images-q-tbn-ANd9-Gc-TV1q193-DP4-UIJ-a6-Oks2h9-O-QS0-Mjf1-QB0b-Q-s.png" group-title="SPORTS SD",TNT SPORTS 2
+https://liveua.cdnfly.click/sd/uk_bts2/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT Sports 3 HD.uk" tvg-logo="https://i.ibb.co/fK0j2Z1/5712-1690027954.png" group-title="SPORTS HD",TNT SPORTS 3
+https://liveua.score806.cc/uk_bts3/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 3 HD.uk" tvg-logo="https://i.ibb.co/fK0j2Z1/5712-1690027954.png" group-title="SPORTS HD FLV",TNT SPORTS 3
 https://6mda1225.edgemaxcdn.org/live/uk_bts3.flv
-#EXTINF:-1 tvg-id="TNT Sports 4 HD.uk" tvg-logo="https://i.ibb.co/F4W78k08/images-q-tbn-ANd9-Gc-S71cg-XUWci-Uc6jj-G7-POv1-NCCEjt-TYS1-A5-PWg-s.png" group-title="SPORTS",TNT SPORTS 4 HD
+#EXTINF:-1 tvg-id="TNT Sports 3 HD.uk" tvg-logo="https://i.ibb.co/fK0j2Z1/5712-1690027954.png" group-title="SPORTS SD",TNT SPORTS 3
+https://liveua.cdnfly.click/sd/uk_bts3/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT Sports 4 HD.uk" tvg-logo="https://i.ibb.co/F4W78k08/images-q-tbn-ANd9-Gc-S71cg-XUWci-Uc6jj-G7-POv1-NCCEjt-TYS1-A5-PWg-s.png" group-title="SPORTS HD",TNT SPORTS 4
+https://liveua.score806.cc/sd/uk_bts4/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 4 HD.uk" tvg-logo="https://i.ibb.co/F4W78k08/images-q-tbn-ANd9-Gc-S71cg-XUWci-Uc6jj-G7-POv1-NCCEjt-TYS1-A5-PWg-s.png" group-title="SPORTS HD FLV",TNT SPORTS 4
 https://6mda1225.edgemaxcdn.org/live/uk_bts4.flv
-
-
+#EXTINF:-1 tvg-id="TNT Sports 4 HD.uk" tvg-logo="https://i.ibb.co/F4W78k08/images-q-tbn-ANd9-Gc-S71cg-XUWci-Uc6jj-G7-POv1-NCCEjt-TYS1-A5-PWg-s.png" group-title="SPORTS SD",TNT SPORTS 4
+https://liveua.cdnfly.click/sd/uk_bts4/index.m3u8
 
 
 
