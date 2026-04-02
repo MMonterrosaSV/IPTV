@@ -83,8 +83,10 @@ https://liveua.cdnfly.click/sd/pt_sporttv3/index.m3u8
 https://liveua.cdnfly.click/sd/uk_bbc1/index.m3u8
 
 Sports UK
-#EXTINF:-1 tvg-id="Premier Sports 1 HD.uk" tvg-logo="https://i.ibb.co/xq22xMxR/images-q-tbn-ANd9-Gc-RM3qbs-Gq4y5-K9vmt3-KUQg-Dem7-Bd-Luxczr-SLA-s.png" group-title="SPORTS",Premier Sports 1 HD
+#EXTINF:-1 tvg-id="Premier Sports 1 HD.uk" tvg-logo="https://i.ibb.co/xq22xMxR/images-q-tbn-ANd9-Gc-RM3qbs-Gq4y5-K9vmt3-KUQg-Dem7-Bd-Luxczr-SLA-s.png" group-title="SPORTS",Premier Sports 1
 https://6mda1225.edgemaxcdn.org/live/uk_premiersports1.flv
+#EXTINF:-1 tvg-id="Premier Sports 1 HD.uk" tvg-logo="https://i.ibb.co/xq22xMxR/images-q-tbn-ANd9-Gc-RM3qbs-Gq4y5-K9vmt3-KUQg-Dem7-Bd-Luxczr-SLA-s.png" group-title="SPORTS SD",Premier Sports 1
+https://liveua.cdnfly.click/sd/uk_premiersports1/index.m3u8
 #EXTINF:-1 tvg-id="Premier Sports 2 HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGPTYDgGDEguKRCCtiXM5MMZuxT50yIE4bdA&s.png" group-title="SPORTS",Premier Sports 2 HD
 https://6mda1225.edgemaxcdn.org/live/uk_premiersports2.flv
 #EXTINF:-1 tvg-id="Sky Sports Premier League HD.uk" tvg-logo="https://i.ibb.co/4RhR4ghX/images-q-tbn-ANd9-Gc-RNXw53gn-UV1z-L1t-Do-AFLmf-HNOtp-MBx7go-FFg-s.png" group-title="SPORTS",Sky Sports Premier League HD
