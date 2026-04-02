@@ -48,7 +48,6 @@ https://6mda1225.edgemaxcdn.org/live/us_cbssportsnetwork.flv
 #EXTINF:-1 tvg-id="CBS Sports Network USA HD.us" tvg-logo="https://i.ibb.co/Ps4LSsxH/MUwc-Ghb-Uv-GSPUB6-Eg6-Jh-CCd-UP-Dn-Aks9bkw-EBAnfaf-DK2h2ivxur-D4vvvi-TBSjz-CSBdf.png" group-title="SPORTS SD",CBS Sports Network
 https://liveua.cdnfly.click/sd/us_cbssportsnetwork/index.m3u8
 
-https://liveua.cdnfly.click/sd/uk_bbc1/index.m3u8
 
 Sports Portugal
 #EXTINF:-1 tvg-id="DAZN 1.pt" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/xi3zu21773512748.png" group-title="SPORTS",DAZN 1 (Portugal)
@@ -59,16 +58,29 @@ https://liveua.cdnfly.click/sd/pt_elevensport1/index.m3u8
 https://6mda1225.edgemaxcdn.org/live/pt_elevensport2.flv
 #EXTINF:-1 tvg-id="DAZN 2.pt" tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-dazn-2-1162.jpg.pagespeed.ic.x-_2awDeFe.jpg" group-title="SPORTS SD",DAZN 2 (Portugal)
 https://liveua.cdnfly.click/sd/pt_elevensport2/index.m3u8
-#EXTINF:-1 tvg-id="DAZN 3.pt" tvg-logo="https://sincroguia-tv.expansion.com/uploads/channels/logo-dazn-3-1168.jpg" group-title="SPORTS",DAZN 3 (Portugal) HD
+#EXTINF:-1 tvg-id="DAZN 3.pt" tvg-logo="https://sincroguia-tv.expansion.com/uploads/channels/logo-dazn-3-1168.jpg" group-title="SPORTS",DAZN 3 (Portugal)
 https://6mda1225.edgemaxcdn.org/live/pt_elevensport3.flv
-#EXTINF:-1 tvg-id="DAZN 4.pt" tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-dazn-4-1169.jpg.pagespeed.ic.6tKessrDtb.jpg" group-title="SPORTS",DAZN 4 (Portugal) HD
+#EXTINF:-1 tvg-id="DAZN 3.pt" tvg-logo="https://sincroguia-tv.expansion.com/uploads/channels/logo-dazn-3-1168.jpg" group-title="SPORTS SD",DAZN 3 (Portugal)
+https://liveua.cdnfly.click/sd/pt_elevensport3/index.m3u8
+#EXTINF:-1 tvg-id="DAZN 4.pt" tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-dazn-4-1169.jpg.pagespeed.ic.6tKessrDtb.jpg" group-title="SPORTS",DAZN 4 (Portugal)
 https://6mda1225.edgemaxcdn.org/live/pt_elevensport4.flv
-#EXTINF:-1 tvg-id="SPORT TV1 HD.pt" tvg-logo="https://s5.ezgif.com/tmp/ezgif-5e0d69d7c2856d5e.png" group-title="SPORTS",SPORT TV 1 HD
+#EXTINF:-1 tvg-id="DAZN 4.pt" tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-dazn-4-1169.jpg.pagespeed.ic.6tKessrDtb.jpg" group-title="SPORTS SD",DAZN 4 (Portugal)
+https://liveua.cdnfly.click/sd/pt_elevensport4/index.m3u8
+#EXTINF:-1 tvg-id="SPORT TV1 HD.pt" tvg-logo="https://s5.ezgif.com/tmp/ezgif-5e0d69d7c2856d5e.png" group-title="SPORTS",SPORT TV 1
 https://6mda1225.edgemaxcdn.org/live/pt_sporttv1.flv
-#EXTINF:-1 tvg-id="SPORT TV2 HD.pt" tvg-logo="https://i.ibb.co/6JrJ7Svd/ezgif-5509fdac0d7b15e4.png" group-title="SPORTS",SPORT TV 2 HD
+#EXTINF:-1 tvg-id="SPORT TV1 HD.pt" tvg-logo="https://s5.ezgif.com/tmp/ezgif-5e0d69d7c2856d5e.png" group-title="SPORTS SD",SPORT TV 1
+https://liveua.cdnfly.click/sd/pt_sporttv1/index.m3u8
+#EXTINF:-1 tvg-id="SPORT TV2 HD.pt" tvg-logo="https://i.ibb.co/6JrJ7Svd/ezgif-5509fdac0d7b15e4.png" group-title="SPORTS",SPORT TV 2
 https://6mda1225.edgemaxcdn.org/live/pt_sporttv2.flv
-#EXTINF:-1 tvg-id="SPORT TV3 HD.pt" tvg-logo="https://i.ibb.co/QFzJjbyP/ezgif-568d39439cfffb65.png" group-title="SPORTS",SPORT TV 3 HD
+#EXTINF:-1 tvg-id="SPORT TV2 HD.pt" tvg-logo="https://i.ibb.co/6JrJ7Svd/ezgif-5509fdac0d7b15e4.png" group-title="SPORTS SD",SPORT TV 2
+https://liveua.cdnfly.click/sd/pt_sporttv2/index.m3u8
+#EXTINF:-1 tvg-id="SPORT TV3 HD.pt" tvg-logo="https://i.ibb.co/QFzJjbyP/ezgif-568d39439cfffb65.png" group-title="SPORTS",SPORT TV 3
 https://6mda1225.edgemaxcdn.org/live/pt_sporttv3.flv
+#EXTINF:-1 tvg-id="SPORT TV3 HD.pt" tvg-logo="https://i.ibb.co/QFzJjbyP/ezgif-568d39439cfffb65.png" group-title="SPORTS SD",SPORT TV 3
+https://liveua.cdnfly.click/sd/pt_sporttv3/index.m3u8
+
+
+https://liveua.cdnfly.click/sd/uk_bbc1/index.m3u8
 
 Sports UK
 #EXTINF:-1 tvg-id="Premier Sports 1 HD.uk" tvg-logo="https://i.ibb.co/xq22xMxR/images-q-tbn-ANd9-Gc-RM3qbs-Gq4y5-K9vmt3-KUQg-Dem7-Bd-Luxczr-SLA-s.png" group-title="SPORTS",Premier Sports 1 HD
