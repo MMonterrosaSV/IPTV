@@ -22,3 +22,6 @@ https://cdn-live.tv/api/v1/channels/player/?name=M%20Liga%20de%20Campeones%201&c
 https://dlstreams.top/cast/stream-435.php parseUrl=2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA",M+ Liga de Campeones 2 (streamsports99 tv)
 https://cdn-live.tv/api/v1/channels/player/?name=M%20Liga%20de%20Campeones%202&code=es&user=cdnlivetv&plan=free parseUrl=2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svhd04v8/w-1600.jpg" group-title="OTHER",La 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
