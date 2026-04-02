@@ -4,7 +4,7 @@
 https://cdn-live.tv/api/v1/channels/player/?name=ESPN&code=us&user=cdnlivetv&plan=free parseUrl=2
 
 
-#EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/la-liga-tv.svg" group-title="UK",La Liga TV (streamsports99 tv)
+#EXTINF:-1 tvg-logo="https://s6.ezgif.com/tmp/ezgif-617dc950492702c3.png" group-title="UK",La Liga TV (streamsports99 tv)
 https://cdn-live.tv/api/v1/channels/player/?name=LaLiga%20TV&code=gb&user=cdnlivetv&plan=free parseUrl=2
 
 
