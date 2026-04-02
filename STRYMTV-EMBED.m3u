@@ -4,7 +4,7 @@
 https://cdn-live.tv/api/v1/channels/player/?name=ESPN&code=us&user=cdnlivetv&plan=free parseUrl=2
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyib70GFMSl-G1yDQUnnCArdqGwVIoWgM4kNwvORlmHWHUdMq64N6g-fBDra6GArCP0D9xnC33JgFi9-B98x2WGJI_CdhRqjJu-mJfiUOWAA&s=10.jpg" group-title="UK",La Liga TV (streamsports99 tv)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv1sK8CR/images-q-tbn-ANd9-Gc-Tyib70-GFMSl-G1y-DQUnn-CArdq-Gw-VIo-Wg-M4k-Nwv-ORlm-HWHUd-Mq64-N6g-f-BDra6-GAr-CP0-D.webp" group-title="UK",La Liga TV (streamsports99 tv)
 https://cdn-live.tv/api/v1/channels/player/?name=LaLiga%20TV&code=gb&user=cdnlivetv&plan=free parseUrl=2
 
 
