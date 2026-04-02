@@ -233,12 +233,6 @@ https://liveua.score806.cc/uk_bts4/index.m3u8
 https://6mda1225.edgemaxcdn.org/live/uk_bts4.flv
 #EXTINF:-1 tvg-id="TNT Sports 4 HD.uk" tvg-logo="https://i.ibb.co/F4W78k08/images-q-tbn-ANd9-Gc-S71cg-XUWci-Uc6jj-G7-POv1-NCCEjt-TYS1-A5-PWg-s.png" group-title="SPORTS SD",TNT SPORTS 4
 https://liveua.cdnfly.click/sd/uk_bts4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS HD",League One
-https://liveua.score806.cc/league1_22/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS HD FLV",League One
-https://6mda1225.edgemaxcdn.org/live/league1_22.flv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS SD",League One
-https://liveua.cdnfly.click/sd/league1_22/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS SD",EVENT 1 SD
 https://liveua.cdnfly.click/sd/event1/index.m3u8
