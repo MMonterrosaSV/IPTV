@@ -5,13 +5,17 @@ https://cdn-live.tv/api/v1/channels/player/?name=ESPN&code=us&user=cdnlivetv&pla
 
 
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA",Movistar La Liga 1 (dllivestreams)
-https://dlstreams.top/cast/stream-84.php parseUrl=2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA",Movistar La Liga 1 (streamsports99 tv)
 https://cdn-live.tv/api/v1/channels/player/?name=M%20LALIGA&code=es&user=cdnlivetv&plan=free parseUrl=2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA",Movistar La Liga 1 (dllivestreams)
+https://dlstreams.top/cast/stream-84.php parseUrl=2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA",Movistar La Liga 2 (streamsports99 tv)
 https://cdn-live.tv/api/v1/channels/player/?name=M%20LALIGA%202&code=es&user=cdnlivetv&plan=free parseUrl=2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy_ksQdMUyVhmYlbc0jPEMkIR6lQcfi-6YdA&s.png" group-title="ESPAÑA",DAZN La Liga 1 (streamsports99 tv)
 https://cdn-live.tv/api/v1/channels/player/?name=DAZN%20LaLiga&code=es&user=cdnlivetv&plan=free parseUrl=2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA",Movistar Liga de Campeones 1 (streamsports99 tv)
 https://cdn-live.tv/api/v1/channels/player/?name=M%20Liga%20de%20Campeones%201&code=es&user=cdnlivetv&plan=free parseUrl=2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA",Movistar Liga de Campeones 1 (dllivestreams)
+https://dlstreams.top/cast/stream-435.php parseUrl=2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA",Movistar Liga de Campeones 2 (streamsports99 tv)
+https://cdn-live.tv/api/v1/channels/player/?name=M%20Liga%20de%20Campeones%202&code=es&user=cdnlivetv&plan=free parseUrl=2
