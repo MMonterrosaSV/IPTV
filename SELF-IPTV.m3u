@@ -253,8 +253,20 @@ https://liveua.cdnfly.click/sd/event5/index.m3u8
 #EXTINF:-1 group-title="SPORTS SD",EVENT 6 SD
 https://liveua.cdnfly.click/sd/event6/index.m3u8
 
-#EXTINF:-1 group-title="test",Rayo vallecano v elche streamed pk
-https://lb4.modifiles.fans/secure/tRyMeNhBJyExcUqFXqPSDkerPhJoRUKv/1775232000/1775259000/laligatv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",ESPN0 hd
+https://liveua.score806.cc/espn0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",ESPN0 hd flv
+https://6mda1225.edgemaxcdn.org/espn0/paramount1.flv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",ESPN0 sd
+https://liveua.cdnfly.click/sd/espn0/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",EVENT 2 VIX TUDN hd
+https://liveua.score806.cc/event2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",EVENT 2 VIX TUDN hd flv
+https://6mda1225.edgemaxcdn.org/event2/paramount1.flv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",EVENT 2 VIX TUDN sd
+https://liveua.cdnfly.click/sd/event2/index.m3u8
 
 
 
