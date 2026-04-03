@@ -110,6 +110,12 @@ https://liveua.score806.cc/pt_sporttv3/index.m3u8
 https://6mda1225.edgemaxcdn.org/live/pt_sporttv3.flv
 #EXTINF:-1 tvg-id="SPORT TV3 HD.pt" tvg-logo="https://i.ibb.co/QFzJjbyP/ezgif-568d39439cfffb65.png" group-title="SPORTS SD",SPORT TV 3
 https://liveua.cdnfly.click/sd/pt_sporttv3/index.m3u8
+#EXTINF:-1 tvg-id="SPORT TV4 HD.pt" tvg-logo="https://i.ibb.co/Ng03VM3k/ezgif-4b52f690019d7e2e.png" group-title="SPORTS HD",SPORT TV 4
+https://liveua.score806.cc/pt_sporttv4/index.m3u8
+#EXTINF:-1 tvg-id="SPORT TV4 HD.pt" tvg-logo="https://i.ibb.co/Ng03VM3k/ezgif-4b52f690019d7e2e.png" group-title="SPORTS HD FLV",SPORT TV 4
+https://6mda1225.edgemaxcdn.org/live/pt_sporttv4.flv
+#EXTINF:-1 tvg-id="SPORT TV4 HD.pt" tvg-logo="https://i.ibb.co/Ng03VM3k/ezgif-4b52f690019d7e2e.png" group-title="SPORTS SD",SPORT TV 4
+https://liveua.cdnfly.click/sd/pt_sporttv4/index.m3u8
 
 
 Sports UK
