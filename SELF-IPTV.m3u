@@ -240,17 +240,17 @@ https://6mda1225.edgemaxcdn.org/live/uk_bts4.flv
 #EXTINF:-1 tvg-id="TNT Sports 4 HD.uk" tvg-logo="https://i.ibb.co/F4W78k08/images-q-tbn-ANd9-Gc-S71cg-XUWci-Uc6jj-G7-POv1-NCCEjt-TYS1-A5-PWg-s.png" group-title="SPORTS SD",TNT SPORTS 4
 https://liveua.cdnfly.click/sd/uk_bts4/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS SD",EVENT 1 SD
+#EXTINF:-1 group-title="Live Events",EVENT 1
 https://liveua.cdnfly.click/sd/event1/index.m3u8
-#EXTINF:-1 group-title="SPORTS SD",EVENT 2 VIX TUDN SD
+#EXTINF:-1 group-title="Live Events",EVENT 2
 https://liveua.cdnfly.click/sd/event2/index.m3u8
-#EXTINF:-1 group-title="SPORTS SD",EVENT 3 SD
+#EXTINF:-1 group-title="Live Events",EVENT 3
 https://liveua.cdnfly.click/sd/event3/index.m3u8
-#EXTINF:-1 group-title="SPORTS SD",EVENT 4 SD
+#EXTINF:-1 group-title="Live Events",EVENT 4
 https://liveua.cdnfly.click/sd/event4/index.m3u8
-#EXTINF:-1 group-title="SPORTS SD",EVENT 5 SD
+#EXTINF:-1 group-title="Live Events",EVENT 5
 https://liveua.cdnfly.click/sd/event5/index.m3u8
-#EXTINF:-1 group-title="SPORTS SD",EVENT 6 SD
+#EXTINF:-1 group-title="Live Events",EVENT 6
 https://liveua.cdnfly.click/sd/event6/index.m3u8
 
 
@@ -261,12 +261,6 @@ https://6mda1225.edgemaxcdn.org/espn0/paramount1.flv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",ESPN0 sd
 https://liveua.cdnfly.click/sd/espn0/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",EVENT 2 VIX TUDN hd
-https://liveua.score806.cc/event2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",EVENT 2 VIX TUDN hd flv
-https://6mda1225.edgemaxcdn.org/event2/paramount1.flv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",EVENT 2 VIX TUDN sd
-https://liveua.cdnfly.click/sd/event2/index.m3u8
 
 
 
