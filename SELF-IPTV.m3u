@@ -234,22 +234,48 @@ https://6mda1225.edgemaxcdn.org/live/uk_bts4.flv
 #EXTINF:-1 tvg-id="TNT Sports 4 HD.uk" tvg-logo="https://i.ibb.co/F4W78k08/images-q-tbn-ANd9-Gc-S71cg-XUWci-Uc6jj-G7-POv1-NCCEjt-TYS1-A5-PWg-s.png" group-title="SPORTS SD",TNT SPORTS 4
 https://liveua.cdnfly.click/sd/uk_bts4/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",EVENT 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTS",EVENT 1
 https://liveua.cdnfly.click/sd/event1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",EVENT 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTS",EVENT 2
 https://liveua.cdnfly.click/sd/event2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",EVENT 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTS",EVENT 3
 https://liveua.cdnfly.click/sd/event3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",EVENT 4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTS",EVENT 4
 https://liveua.cdnfly.click/sd/event4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",EVENT 5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTS",EVENT 5
 https://liveua.cdnfly.click/sd/event5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",EVENT 6
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTS",EVENT 6
 https://liveua.cdnfly.click/sd/event6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",EVENT 10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTS",EVENT 10
 https://liveua.cdnfly.click/sd/event10/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",EVENT 11
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTS",EVENT 11
 https://liveua.cdnfly.click/sd/event11/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVES",LIVE 01
+https://liveua.cdnfly.click/sd/live01/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVES",LIVE 02
+https://liveua.cdnfly.click/sd/live02/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVES",LIVE 03
+https://liveua.cdnfly.click/sd/live03/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVES",LIVE 04
+https://liveua.cdnfly.click/sd/live04/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVES",LIVE 05
+https://liveua.cdnfly.click/sd/live05/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVES",LIVE 06
+https://liveua.cdnfly.click/sd/live06/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVES",LIVE 07
+https://liveua.cdnfly.click/sd/live07/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVES",LIVE 08
+https://liveua.cdnfly.click/sd/live08/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVES",LIVE 09
+https://liveua.cdnfly.click/sd/live09/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVES",LIVE 10
+https://liveua.cdnfly.click/sd/live10/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVES",LIVE 11
+https://liveua.cdnfly.click/sd/live11/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",(ESPN0) HD
 https://6mda1225.edgemaxcdn.org/live/espn0.flv
