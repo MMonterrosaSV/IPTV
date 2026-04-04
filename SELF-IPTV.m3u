@@ -250,6 +250,8 @@ https://liveua.cdnfly.click/sd/event6/index.m3u8
 https://liveua.cdnfly.click/sd/event10/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 11
 https://liveua.cdnfly.click/sd/event11/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 13
+https://liveua.cdnfly.click/sd/event13/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE",LIVE 01
 https://liveua.cdnfly.click/sd/live01/index.m3u8
@@ -289,6 +291,10 @@ https://liveua.cdnfly.click/sd/espn8/index.m3u8
 https://6mda1225.edgemaxcdn.org/live/espn11.flv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPNxx",ESPN 11
 https://liveua.cdnfly.click/sd/espn11/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPNxx",ESPN 12 HD
+https://6mda1225.edgemaxcdn.org/live/espn12.flv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPNxx",ESPN 12
+https://liveua.cdnfly.click/sd/espn12/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PARAMOUNT",PARAMOUNT 1 HD
