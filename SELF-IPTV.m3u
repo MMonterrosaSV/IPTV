@@ -47,12 +47,6 @@ https://liveua.score806.cc/us_fs2/index.m3u8
 https://6mda1225.edgemaxcdn.org/live/us_fs2.flv
 #EXTINF:-1 tvg-id="Fox Sports 2 HD.us" tvg-logo="https://i.ibb.co/Q7vWjq6X/1280px-FS2-logo-2015-svg.png" group-title="SPORTS SD",Fox Sports 2
 https://liveua.cdnfly.click/sd/us_fs2/index.m3u8
-#EXTINF:-1 tvg-id="ESPN Deportes HD.us" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="SPORTS HD",ESPN DEPORTES
-https://liveua.score806.cc/paramount1/index.m3u8
-#EXTINF:-1 tvg-id="ESPN Deportes HD.us" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="SPORTS HD FLV",ESPN DEPORTES
-https://6mda1225.edgemaxcdn.org/live/paramount1.flv
-#EXTINF:-1 tvg-id="ESPN Deportes HD.us" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="SPORTS SD",ESPN DEPORTES
-https://liveua.cdnfly.click/sd/paramount1/index.m3u8
 #EXTINF:-1 tvg-id="CNN HD.us" tvg-logo="https://i.ibb.co/VY9996dc/250px-CNN-International-logo-svg.png" group-title="SPORTS HD",CNN
 https://liveua.score806.cc/us_cnn/index.m3u8
 #EXTINF:-1 tvg-id="CNN HD.us" tvg-logo="https://i.ibb.co/VY9996dc/250px-CNN-International-logo-svg.png" group-title="SPORTS HD FLV",CNN
@@ -252,8 +246,15 @@ https://liveua.cdnfly.click/sd/event4/index.m3u8
 https://liveua.cdnfly.click/sd/event5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",EVENT 6
 https://liveua.cdnfly.click/sd/event6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",EVENT 10
+https://liveua.cdnfly.click/sd/event10/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",EXTRA
 https://liveua.cdnfly.click/sd/espn0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",EXTRA 2
+https://liveua.cdnfly.click/sd/paramount1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",EXTRA 3
+https://liveua.cdnfly.click/sd/espn8/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",TNT SPORT (futbollibretv su)
