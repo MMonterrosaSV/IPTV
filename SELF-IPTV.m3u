@@ -248,12 +248,13 @@ https://liveua.cdnfly.click/sd/event5/index.m3u8
 https://liveua.cdnfly.click/sd/event6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",EVENT 10
 https://liveua.cdnfly.click/sd/event10/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",EXTRA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",EXTRA 1
 https://liveua.cdnfly.click/sd/espn0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",EXTRA 2
-https://liveua.cdnfly.click/sd/paramount1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",EXTRA 3
 https://liveua.cdnfly.click/sd/espn8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",EXTRA 3
+https://liveua.cdnfly.click/sd/paramount1/index.m3u8
+
 
 
 
