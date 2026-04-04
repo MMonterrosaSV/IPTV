@@ -19,14 +19,11 @@ https://cdn-live.tv/api/v1/channels/player/?name=M%20Liga%20de%20Campeones%202&c
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="ALL STREAMS",ALL STREAMS (SportyHunter .fit)
-https://sportyhunter.fit/sport/football/country/Spain#laliga parseUrl=2
-#EXTINF:-1 tvg-logo="" group-title="ALL STREAMS",ALL STREAMS (The-TV .APP)
-https://the-tv.app/ parseUrl=2
+
+
 #EXTINF:-1 tvg-logo="" group-title="ALL STREAMS",ALL STREAMS (timstreams .net)
 https://timstreams.net/ parseUrl=2
-#EXTINF:-1 tvg-logo="" group-title="ALL STREAMS",ALL STREAMS (streamed .pk)
-https://streamed.pk/category/football parseUrl=2
+
 
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/25/large/c4b1fe00be56f687d5daf63c84bd5c7a.jpeg" group-title="VPN",La Liga TV (tv247us .vip)
 https://tv247us.vip/watch/laligatv-uk parseUrl=2
@@ -42,6 +39,8 @@ https://tv247us.vip/watch/movistar-liga-de-campeones/ parseUrl=2
 https://tv247us.vip/watch/dazn-laliga/ parseUrl=2
 #EXTINF:-1 tvg-logo="https://futbollibretv.su/wp-content/uploads/2022/12/futbol-libre-tv-logo.png" group-title="VPN",ALL STREAMS (FutbolLibreTv)
 https://futbollibretv.su/ parseUrl=2
+#EXTINF:-1 tvg-logo="" group-title="VPN",ALL STREAMS (The-TV .APP)
+https://the-tv.app/ parseUrl=2
 
 
 
