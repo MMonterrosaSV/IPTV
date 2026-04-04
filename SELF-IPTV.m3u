@@ -246,10 +246,18 @@ https://liveua.cdnfly.click/sd/event4/index.m3u8
 https://liveua.cdnfly.click/sd/event5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 6
 https://liveua.cdnfly.click/sd/event6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 7
+https://liveua.cdnfly.click/sd/event7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 8
+https://liveua.cdnfly.click/sd/event8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 9
+https://liveua.cdnfly.click/sd/event9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 10
 https://liveua.cdnfly.click/sd/event10/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 11
 https://liveua.cdnfly.click/sd/event11/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 12
+https://liveua.cdnfly.click/sd/event12/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 13
 https://liveua.cdnfly.click/sd/event13/index.m3u8
 
@@ -275,6 +283,8 @@ https://liveua.cdnfly.click/sd/live09/index.m3u8
 https://liveua.cdnfly.click/sd/live10/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE",LIVE 11
 https://liveua.cdnfly.click/sd/live11/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE",LIVE 12
+https://liveua.cdnfly.click/sd/live12/index.m3u8
 
 
 
