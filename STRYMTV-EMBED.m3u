@@ -32,7 +32,7 @@ https://timstreams.net/ parseUrl=2
 https://streamed.pk/category/football parseUrl=2
 
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/25/large/c4b1fe00be56f687d5daf63c84bd5c7a.jpeg" group-title="VPN",La Liga TV (tv247us .vip)
-https://tv247us.vip/watch/laligatv-uk/ parseUrl=2
+https://tv247us.vip/watch/laligatv-uk parseUrl=2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="VPN",M+ La Liga 1 (dllivestreams)
 https://dlstreams.top/cast/stream-84.php parseUrl=2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="VPN",M+ La Liga 1 (tv247us .vip)
