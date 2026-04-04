@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLKrzjp6/ESPN.png" group-title="USA",ESPN
-https://cdn-live.tv/api/v1/channels/player/?name=ESPN&code=us&user=cdnlivetv&plan=free parseUrl=2
-
 
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/25/large/c4b1fe00be56f687d5daf63c84bd5c7a.jpeg" group-title="UK",La Liga TV (streamsports99 tv)
 https://cdn-live.tv/api/v1/channels/player/?name=LaLiga%20TV&code=gb&user=cdnlivetv&plan=free parseUrl=2
