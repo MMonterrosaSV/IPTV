@@ -250,6 +250,8 @@ https://liveua.cdnfly.click/sd/event6/index.m3u8
 https://liveua.cdnfly.click/sd/event10/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",EVENT 11
 https://liveua.cdnfly.click/sd/event11/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",EVENT 11 HD
+https://6mda1225.edgemaxcdn.org/live/event11.flv
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",EXTRA 0 (ESPN0)
 https://liveua.cdnfly.click/sd/espn0/index.m3u8
@@ -257,6 +259,9 @@ https://liveua.cdnfly.click/sd/espn0/index.m3u8
 https://liveua.cdnfly.click/sd/espn8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",EXTRA 11
 https://liveua.cdnfly.click/sd/espn11/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",EXTRA 11 HD
+https://6mda1225.edgemaxcdn.org/live/espn11.flv
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",DAZN (Paramount1)
 https://liveua.cdnfly.click/sd/paramount1/index.m3u8
