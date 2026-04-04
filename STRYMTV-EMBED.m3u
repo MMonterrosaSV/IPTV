@@ -20,18 +20,11 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 https://timstreams.net/ parseUrl=2
 
 
-#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/25/large/c4b1fe00be56f687d5daf63c84bd5c7a.jpeg" group-title="VPN",La Liga TV (tv247us .vip)
-https://tv247us.vip/watch/laligatv-uk parseUrl=2
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="VPN",M+ La Liga 1 (dllivestreams)
 https://dlstreams.top/cast/stream-84.php parseUrl=2
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="VPN",M+ La Liga 1 (tv247us .vip)
-https://tv247us.vip/watch/movistar-laliga/ parseUrl=2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="VPN",M+ Liga de Campeones 1 (dllivestreams)
 https://dlstreams.top/cast/stream-435.php parseUrl=2
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="VPN",M+ Liga de Campeones 1 (tv247us .vip)
-https://tv247us.vip/watch/movistar-liga-de-campeones/ parseUrl=2
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/09/68/b70968c0-0367-378e-2a0e-7597770c83a6/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/1200x630wa.png" group-title="VPN",DAZN La Liga 1 (tv247us .vip)
-https://tv247us.vip/watch/dazn-laliga/ parseUrl=2
 #EXTINF:-1 tvg-logo="https://futbollibretv.su/wp-content/uploads/2022/12/futbol-libre-tv-logo.png" group-title="VPN",ALL STREAMS (FutbolLibreTv)
 https://futbollibretv.su/ parseUrl=2
 #EXTINF:-1 tvg-logo="" group-title="VPN",ALL STREAMS (The-TV .APP)
