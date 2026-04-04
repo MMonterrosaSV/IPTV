@@ -266,9 +266,9 @@ https://liveua.cdnfly.click/sd/espn11/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",DAZN (Paramount1)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",(Paramount1)
 https://liveua.cdnfly.click/sd/paramount1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",DAZN ITALY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTS",(Paramount2)
 https://liveua.cdnfly.click/sd/paramount2/index.m3u8
 
 
