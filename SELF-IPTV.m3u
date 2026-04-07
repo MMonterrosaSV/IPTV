@@ -195,9 +195,9 @@ https://6mda1225.edgemaxcdn.org/live/live03.flv
 https://liveua.cdnfly.click/sd/live03/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE",LIVE 04
 https://liveua.cdnfly.click/sd/live04/index.m3u8
-#EXTINF:-1 tvg-id="Sky Sport 6.nz" tvg-logo="https://i.ibb.co/tPxWW4c1/ezgif-57972411e9522b13.png" group-title="UK SPORTS", LIVE 5 SKY SPORT 6 (HD)
+#EXTINF:-1 tvg-id="Sky Sport 6.nz" tvg-logo="https://i.ibb.co/tPxWW4c1/ezgif-57972411e9522b13.png" group-title="LIVE", LIVE 5 SKY SPORT 6 (HD)
 https://6mda1225.edgemaxcdn.org/live/live05.flv
-#EXTINF:-1 tvg-id="Sky Sport 6.nz" tvg-logo="https://i.ibb.co/tPxWW4c1/ezgif-57972411e9522b13.png" group-title="UK SPORTS", LIVE 5 SKY SPORT 6 (SD)
+#EXTINF:-1 tvg-id="Sky Sport 6.nz" tvg-logo="https://i.ibb.co/tPxWW4c1/ezgif-57972411e9522b13.png" group-title="LIVE", LIVE 5 SKY SPORT 6 (SD)
 https://liveua.cdnfly.click/sd/live05/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE",LIVE 06
 https://liveua.cdnfly.click/sd/live06/index.m3u8
