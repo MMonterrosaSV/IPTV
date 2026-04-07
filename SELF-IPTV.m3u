@@ -47,6 +47,10 @@ https://liveua.cdnfly.click/sd/us_cnn/index.m3u8
 https://6mda1225.edgemaxcdn.org/live/us_cbssportsnetwork.flv
 #EXTINF:-1 tvg-id="CBS Sports Network USA HD.us" tvg-logo="https://i.ibb.co/Ps4LSsxH/MUwc-Ghb-Uv-GSPUB6-Eg6-Jh-CCd-UP-Dn-Aks9bkw-EBAnfaf-DK2h2ivxur-D4vvvi-TBSjz-CSBdf.png" group-title="USA SPORTS",CBS Sports Network (SD)
 https://liveua.cdnfly.click/sd/us_cbssportsnetwork/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA SPORTS",NBA 1 (HD)
+https://6mda1225.edgemaxcdn.org/live/nba1.flv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA SPORTS",NBA 1 (SD)
+https://liveua.cdnfly.click/sd/nba1/index.m3u8
 
 
 Sports Portugal
