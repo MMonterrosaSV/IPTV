@@ -305,4 +305,10 @@ https://6mda1225.edgemaxcdn.org/live/nba2.flv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NBA",NBA 2 (SD)
 https://liveua.cdnfly.click/sd/nba2/index.m3u8
 
+SELF LIVE EVENTS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",BETIS VS BRAGA (ESPN 3)
+https://vg7ie.envivoslatam.org/espn3/tracks-v1a1/mono.m3u8?ip=86.127.225.225&token=4a174677be7edf604ecbcedc25d1a8a206f9170a-0c-1775706536-1775652536
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",BETIS VS BRAGA (TUDN)
+https://qbk4f.envivoslatam.org/tudn_usa/tracks-v1a1/mono.m3u8?ip=86.127.225.225&token=d3b7a381ecae7b42c530f307454999f9946b2f17-74-1775707537-1775653537
+
 
