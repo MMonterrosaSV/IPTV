@@ -23,14 +23,6 @@ https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 
 
 Sports USA
-#EXTINF:-1 tvg-id="Fox Deportes HD.us" tvg-logo="https://assets.goal.com/images/v3/blt393e39a6bc3bac32/FOX_Deportes_logo.jpg" group-title="USA SPORTS",Fox Deportes (HD)
-https://6mda1225.edgemaxcdn.org/live/us_foxdeport.flv
-#EXTINF:-1 tvg-id="Fox Deportes HD.us" tvg-logo="https://assets.goal.com/images/v3/blt393e39a6bc3bac32/FOX_Deportes_logo.jpg" group-title="USA SPORTS",Fox Deportes ((SD))
-https://liveua.cdnfly.click/sd/us_foxdeport/index.m3u8
-#EXTINF:-1 tvg-id="FOX Soccer Plus HD.us" tvg-logo="https://i.ibb.co/fdYq8Msw/1280px-Fox-Soccer-Plus-logo-svg.png" group-title="USA SPORTS",Fox Plus (HD)
-https://6mda1225.edgemaxcdn.org/live/us_foxsplus.flv
-#EXTINF:-1 tvg-id="FOX Soccer Plus HD.us" tvg-logo="https://i.ibb.co/fdYq8Msw/1280px-Fox-Soccer-Plus-logo-svg.png" group-title="USA SPORTS",Fox Plus (SD)
-https://liveua.cdnfly.click/sd/us_foxsplus/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 1 HD.us" tvg-logo="https://i.ibb.co/WW4KvKKR/1280px-2015-Fox-Sports-1-logo-svg.png" group-title="USA SPORTS",Fox Sports 1 (HD)
 https://6mda1225.edgemaxcdn.org/live/us_fs1.flv
 #EXTINF:-1 tvg-id="Fox Sports 1 HD.us" tvg-logo="https://i.ibb.co/WW4KvKKR/1280px-2015-Fox-Sports-1-logo-svg.png" group-title="USA SPORTS",Fox Sports 1 (SD)
@@ -39,14 +31,18 @@ https://liveua.cdnfly.click/sd/us_fs1/index.m3u8
 https://6mda1225.edgemaxcdn.org/live/us_fs2.flv
 #EXTINF:-1 tvg-id="Fox Sports 2 HD.us" tvg-logo="https://i.ibb.co/Q7vWjq6X/1280px-FS2-logo-2015-svg.png" group-title="USA SPORTS",Fox Sports 2 (SD)
 https://liveua.cdnfly.click/sd/us_fs2/index.m3u8
-#EXTINF:-1 tvg-id="CNN HD.us" tvg-logo="https://i.ibb.co/VY9996dc/250px-CNN-International-logo-svg.png" group-title="USA SPORTS",CNN (HD)
-https://6mda1225.edgemaxcdn.org/live/us_cnn.flv
-#EXTINF:-1 tvg-id="CNN HD.us" tvg-logo="https://i.ibb.co/VY9996dc/250px-CNN-International-logo-svg.png" group-title="USA SPORTS",CNN (SD)
-https://liveua.cdnfly.click/sd/us_cnn/index.m3u8
 #EXTINF:-1 tvg-id="CBS Sports Network USA HD.us" tvg-logo="https://i.ibb.co/Ps4LSsxH/MUwc-Ghb-Uv-GSPUB6-Eg6-Jh-CCd-UP-Dn-Aks9bkw-EBAnfaf-DK2h2ivxur-D4vvvi-TBSjz-CSBdf.png" group-title="USA SPORTS",CBS Sports Network (HD)
 https://6mda1225.edgemaxcdn.org/live/us_cbssportsnetwork.flv
 #EXTINF:-1 tvg-id="CBS Sports Network USA HD.us" tvg-logo="https://i.ibb.co/Ps4LSsxH/MUwc-Ghb-Uv-GSPUB6-Eg6-Jh-CCd-UP-Dn-Aks9bkw-EBAnfaf-DK2h2ivxur-D4vvvi-TBSjz-CSBdf.png" group-title="USA SPORTS",CBS Sports Network (SD)
 https://liveua.cdnfly.click/sd/us_cbssportsnetwork/index.m3u8
+#EXTINF:-1 tvg-id="Fox Deportes HD.us" tvg-logo="https://assets.goal.com/images/v3/blt393e39a6bc3bac32/FOX_Deportes_logo.jpg" group-title="USA SPORTS",Fox Deportes (HD)
+https://6mda1225.edgemaxcdn.org/live/us_foxdeport.flv
+#EXTINF:-1 tvg-id="Fox Deportes HD.us" tvg-logo="https://assets.goal.com/images/v3/blt393e39a6bc3bac32/FOX_Deportes_logo.jpg" group-title="USA SPORTS",Fox Deportes (SD)
+https://liveua.cdnfly.click/sd/us_foxdeport/index.m3u8
+#EXTINF:-1 tvg-id="FOX Soccer Plus HD.us" tvg-logo="https://i.ibb.co/fdYq8Msw/1280px-Fox-Soccer-Plus-logo-svg.png" group-title="USA SPORTS",Fox Plus (HD)
+https://6mda1225.edgemaxcdn.org/live/us_foxsplus.flv
+#EXTINF:-1 tvg-id="FOX Soccer Plus HD.us" tvg-logo="https://i.ibb.co/fdYq8Msw/1280px-Fox-Soccer-Plus-logo-svg.png" group-title="USA SPORTS",Fox Plus (SD)
+https://liveua.cdnfly.click/sd/us_foxsplus/index.m3u8
 
 
 
