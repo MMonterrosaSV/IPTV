@@ -306,5 +306,7 @@ SELF LIVE EVENTS
 https://vg7ie.envivoslatam.org/espn3/tracks-v1a1/mono.m3u8?ip=86.127.225.225&token=4a174677be7edf604ecbcedc25d1a8a206f9170a-0c-1775706536-1775652536
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",BETIS VS BRAGA (TUDN)
 https://qbk4f.envivoslatam.org/tudn_usa/tracks-v1a1/mono.m3u8?ip=86.127.225.225&token=d3b7a381ecae7b42c530f307454999f9946b2f17-74-1775707537-1775653537
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",BETIS VS BRAGA (TNT SPORTS 4) MPED
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 
