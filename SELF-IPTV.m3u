@@ -47,10 +47,7 @@ https://liveua.cdnfly.click/sd/us_cnn/index.m3u8
 https://6mda1225.edgemaxcdn.org/live/us_cbssportsnetwork.flv
 #EXTINF:-1 tvg-id="CBS Sports Network USA HD.us" tvg-logo="https://i.ibb.co/Ps4LSsxH/MUwc-Ghb-Uv-GSPUB6-Eg6-Jh-CCd-UP-Dn-Aks9bkw-EBAnfaf-DK2h2ivxur-D4vvvi-TBSjz-CSBdf.png" group-title="USA SPORTS",CBS Sports Network (SD)
 https://liveua.cdnfly.click/sd/us_cbssportsnetwork/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA SPORTS",NBA 1 (HD)
-https://6mda1225.edgemaxcdn.org/live/nba1.flv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA SPORTS",NBA 1 (SD)
-https://liveua.cdnfly.click/sd/nba1/index.m3u8
+
 
 
 Sports Portugal
@@ -70,9 +67,9 @@ https://liveua.cdnfly.click/sd/pt_elevensport3/index.m3u8
 https://6mda1225.edgemaxcdn.org/live/pt_elevensport4.flv
 #EXTINF:-1 tvg-id="DAZN 4.pt" tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-dazn-4-1169.jpg.pagespeed.ic.6tKessrDtb.jpg" group-title="PORTUGAL SPORTS",DAZN 4 (SD)
 https://liveua.cdnfly.click/sd/pt_elevensport4/index.m3u8
-#EXTINF:-1 tvg-id="SPORT TV1 HD.pt" tvg-logo="https://s5.ezgif.com/tmp/ezgif-5e0d69d7c2856d5e.png" group-title="PORTUGAL SPORTS",SPORT TV 1 (HD)
+#EXTINF:-1 tvg-id="SPORT TV1 HD.pt" tvg-logo="https://i.ibb.co/MkQnm4yH/1920px-Sport-TV1-2023-svg.png" group-title="PORTUGAL SPORTS",SPORT TV 1 (HD)
 https://6mda1225.edgemaxcdn.org/live/pt_sporttv1.flv
-#EXTINF:-1 tvg-id="SPORT TV1 HD.pt" tvg-logo="https://s5.ezgif.com/tmp/ezgif-5e0d69d7c2856d5e.png" group-title="PORTUGAL SPORTS",SPORT TV 1 (SD)
+#EXTINF:-1 tvg-id="SPORT TV1 HD.pt" tvg-logo="https://i.ibb.co/MkQnm4yH/1920px-Sport-TV1-2023-svg.png" group-title="PORTUGAL SPORTS",SPORT TV 1 (SD)
 https://liveua.cdnfly.click/sd/pt_sporttv1/index.m3u8
 #EXTINF:-1 tvg-id="SPORT TV2 HD.pt" tvg-logo="https://i.ibb.co/6JrJ7Svd/ezgif-5509fdac0d7b15e4.png" group-title="PORTUGAL SPORTS",SPORT TV 2 (HD)
 https://6mda1225.edgemaxcdn.org/live/pt_sporttv2.flv
@@ -298,5 +295,14 @@ https://6mda1225.edgemaxcdn.org/live/paramount2.flv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PARAMOUNT",PARAMOUNT 2 (SD)
 https://liveua.cdnfly.click/sd/paramount2/index.m3u8
 
+NBA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NBA",NBA 1 (HD)
+https://6mda1225.edgemaxcdn.org/live/nba1.flv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NBA",NBA 1 (SD)
+https://liveua.cdnfly.click/sd/nba1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NBA",NBA 2 (HD)
+https://6mda1225.edgemaxcdn.org/live/nba2.flv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NBA",NBA 2 (SD)
+https://liveua.cdnfly.click/sd/nba2/index.m3u8
 
 
