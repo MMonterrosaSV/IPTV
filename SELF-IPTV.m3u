@@ -166,31 +166,57 @@ https://6mda1225.edgemaxcdn.org/live/uk_bts4.flv
 #EXTINF:-1 tvg-id="TNT Sports 4 HD.uk" tvg-logo="https://i.ibb.co/F4W78k08/images-q-tbn-ANd9-Gc-S71cg-XUWci-Uc6jj-G7-POv1-NCCEjt-TYS1-A5-PWg-s.png" group-title="UK SPORTS",TNT SPORTS 4 (SD)
 https://liveua.cdnfly.click/sd/uk_bts4/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 1 (HD)
+https://6mda1225.edgemaxcdn.org/live/event1.flv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 1 (SD)
 https://liveua.cdnfly.click/sd/event1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 2 (HD)
+https://6mda1225.edgemaxcdn.org/live/event2.flv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 2 (SD)
 https://liveua.cdnfly.click/sd/event2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 3 (HD)
+https://6mda1225.edgemaxcdn.org/live/event3.flv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 3 (SD)
 https://liveua.cdnfly.click/sd/event3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 4 (HD)
+https://6mda1225.edgemaxcdn.org/live/event4.flv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 4 (SD)
 https://liveua.cdnfly.click/sd/event4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 5 (HD)
+https://6mda1225.edgemaxcdn.org/live/event5.flv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 5 (SD)
 https://liveua.cdnfly.click/sd/event5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 6
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 6 (HD)
+https://6mda1225.edgemaxcdn.org/live/event6.flv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 6 (SD)
 https://liveua.cdnfly.click/sd/event6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 7 (HD)
+https://6mda1225.edgemaxcdn.org/live/event7.flv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 7 (SD)
 https://liveua.cdnfly.click/sd/event7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 8 (HD)
+https://6mda1225.edgemaxcdn.org/live/event8.flv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 8 (SD)
 https://liveua.cdnfly.click/sd/event8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 9
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 9 (HD)
+https://6mda1225.edgemaxcdn.org/live/event9.flv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 9 (SD)
 https://liveua.cdnfly.click/sd/event9/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 10 (HD)
+https://6mda1225.edgemaxcdn.org/live/event10.flv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 10 (SD)
 https://liveua.cdnfly.click/sd/event10/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 11
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 11 (HD)
+https://6mda1225.edgemaxcdn.org/live/event11.flv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 11 (SD)
 https://liveua.cdnfly.click/sd/event11/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 12
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 12 (HD)
+https://6mda1225.edgemaxcdn.org/live/event12.flv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 12 (SD)
 https://liveua.cdnfly.click/sd/event12/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 13
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 13 (HD)
+https://6mda1225.edgemaxcdn.org/live/event13.flv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 13 (SD)
 https://liveua.cdnfly.click/sd/event13/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE",LIVE 01
