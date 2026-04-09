@@ -158,6 +158,10 @@ https://liveua.cdnfly.click/sd/uk_bts3/index.m3u8
 https://6mda1225.edgemaxcdn.org/live/uk_bts4.flv
 #EXTINF:-1 tvg-id="TNT Sports 4 HD.uk" tvg-logo="https://i.ibb.co/F4W78k08/images-q-tbn-ANd9-Gc-S71cg-XUWci-Uc6jj-G7-POv1-NCCEjt-TYS1-A5-PWg-s.png" group-title="UK SPORTS",TNT SPORTS 4 (SD)
 https://liveua.cdnfly.click/sd/uk_bts4/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 5 HD.uk" tvg-logo="" group-title="UK SPORTS",TNT SPORTS 5 (HD)
+https://6mda1225.edgemaxcdn.org/live/uk_bts5.flv
+#EXTINF:-1 tvg-id="TNT Sports 5 HD.uk" tvg-logo="" group-title="UK SPORTS",TNT SPORTS 5 (SD)
+https://liveua.cdnfly.click/sd/uk_bts5/index.m3u8
 
 EVENTS
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENT",EVENT 1 (HD)
