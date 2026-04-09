@@ -306,11 +306,13 @@ https://6mda1225.edgemaxcdn.org/live/nba2.flv
 https://liveua.cdnfly.click/sd/nba2/index.m3u8
 
 SELF LIVE EVENTS
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",BETIS VS BRAGA (ESPN 3)
-https://vg7ie.envivoslatam.org/espn3/tracks-v1a1/mono.m3u8?ip=86.127.225.225&token=4a174677be7edf604ecbcedc25d1a8a206f9170a-0c-1775706536-1775652536
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",BETIS VS BRAGA (TUDN)
-https://qbk4f.envivoslatam.org/tudn_usa/tracks-v1a1/mono.m3u8?ip=86.127.225.225&token=d3b7a381ecae7b42c530f307454999f9946b2f17-74-1775707537-1775653537
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",BETIS VS BRAGA (TNT SPORTS 4) MPED
-https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",test fctv33
+https://fhlsport712.tm3abp101jamea.cfd/token-IxB%2BnuOVffWG62Evl%2FY6kT7VlJrah3vjaHepxvcYRWKg77jKHUILCtkmqURAWEYfRX%2FfyDFlk%2F97ecUZAUhOvcpgRhi%2FYNK8KDfRf69OvRNSWdyBTtE92rZQxKM%2Bi%2BxKa/cfall/s2001/v3b/rp5332srnUE0pQbiY2EyYKW4qTkcYwA4p3EgZv5iozH%3D/super/3x_680781.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",test fctv33 2
+https://fhlsport712.tm3abp101jamea.cfd/token-IxB%2BnuOVffWG62Evl%2FY6kT7VlJrah3vjaHepxvcYRWKg77jKHUILCtkmqURAWEYfRX%2FfyDFlk%2F97ecUZAUhOvcpgRhi%2FYNK8KDfRf69OvRNSWdyBTtE92rZQxKM%2Bi%2BxKa/cfall/s2001/v3b/rp5332srnUE0pQbiY2EyYKW4qTkcYwA4p3EgZv5iozH%3D/super/3x_680781.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",test ddlive
+https://s3.dualstack.us-east-2.amazonaws.com/cam.edu//hls/4k/segment_720.ts?token=mbdxvt3hxss&ts=1775766405342
+
+
 
 
