@@ -272,6 +272,10 @@ ESPN
 https://6mda1225.edgemaxcdn.org/live/espn0.flv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN",ESPN 0 (SD)
 https://liveua.cdnfly.click/sd/espn0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN",ESPN 1 (HD)
+https://6mda1225.edgemaxcdn.org/live/espn1.flv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN",ESPN 1 (SD)
+https://liveua.cdnfly.click/sd/espn1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN",ESPN 8 (HD)
 https://6mda1225.edgemaxcdn.org/live/espn8.flv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN",ESPN 8 (SD)
