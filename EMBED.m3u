@@ -11,6 +11,9 @@ https://timstreams.net/ parseUrl=2
 https://futbollibretv.su/ parseUrl=2
 #EXTINF:-1 tvg-logo="" group-title="ALL STREAMS",The-TV app (VPN LA LIGA)
 https://the-tv.app/ parseUrl=2
+#EXTINF:-1 tvg-logo="" group-title="ALL STREAMS",fctv33hd lat 
+https://www.fctv33hd.lat/football.html parseUrl=2
+
 
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="dllivestreams",M+ La Liga 1
