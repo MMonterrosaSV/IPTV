@@ -12,9 +12,6 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="real madrid tv.es" tvg-logo="https://pbs.twimg.com/media/GyIXeuoWoAAUO30.jpg" group-title="SPAIN",	Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
-Francia
-#EXTINF:-1 tvg-id="" group-title="France",TF1 (720p)
-https://test.946985.filegear-sg.me/proxy/71eb898aa398f1b9
 
 
 El Salvador
