@@ -23,27 +23,34 @@ https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itqQEux.png" group-title="El Salvador",Canal 11 TuTV (349p)
 https://stream.giostreaming.app/canal11/canal11.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SrmI6nU.jpeg" group-title="El Salvador",JFV TV (720p)
-https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LNWGe1D.jpg" group-title="El Salvador",Josué TV (1080p)
 https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/voyVP6X.png" group-title="El Salvador",Megavisión Canal 19 (720p)
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HbdYU9k.png" group-title="El Salvador",Megavisión Canal 21 (720p)
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="El Salvador",RTV Canal 57 (720p)
-https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ikq2iSf.png" group-title="El Salvador",Taber TV (1080p)
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="" group-title="El Salvador",Canal 4
+http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="El Salvador",Canal 4 2
+http://tmp-sv3.teleon.live:8080/play/a011/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="El Salvador",Canal 4 3
+https://list.iptvcat.com/my_list/s/5940ff221aba5c655ac5736e0e327e39.m3u8
+#EXTINF:-1 tvg-logo="" group-title="El Salvador",Canal 4 4
+https://list.iptvcat.com/my_list/s/28ed154e59e5a8b346e8675a7ec39788.m3u8
+#EXTINF:-1 tvg-logo="" group-title="El Salvador",TF1
+https://list.iptvcat.com/my_list/s/dd69b0b3a86dc0e1c20162c40e462ffe.m3u8
+#EXTINF:-1 tvg-logo="" group-title="El Salvador",TF1 Geo Block
+https://list.iptvcat.com/my_list/s/82639aa231edfc4bfd4f71c861b39d34.m3u8
 
 SELF LIVE EVENTS
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",TUDN
 https://pcrus.vivolatamz.org/tudn_usa/tracks-v1a1/mono.m3u8?ip=79.116.138.204&token=83d96af6a8d1f10fab44858a477f06b1b8c91051-ae-1781308881-1781254881
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",FOX SPORTS
-https://hcroq.vivolatamz.org/foxsports/tracks-v1a1/mono.m3u8?ip=79.116.138.204&token=7e30410b569a5c3d9275c35b27212811e47c3bee-1a-1781309034-1781255034
+
+
+
+
 
 
 
