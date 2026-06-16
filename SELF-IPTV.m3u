@@ -31,15 +31,13 @@ https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ikq2iSf.png" group-title="El Salvador",Taber TV (1080p)
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="El Salvador",Canal 4
-http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
+
 
 
 SELF LIVE EVENTS
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Test livetv sx
 https://a116.azplay34.me/hls/streama261626/index.m3u8?cst=8b768ba5092e4e0ddb8b16a1b6ba9ef8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Test3 streamfree app
-https://streamfree.app/live-cdn/uruguay-vs-saudi-arabia1080p/index.m3u8?_t=NPJcqrgOyJWqyi1N-y7fnQ&_e=1781592482&_n=08ef9fa6316cf4be
+
 
 
 
