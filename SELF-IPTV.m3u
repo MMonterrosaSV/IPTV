@@ -11,16 +11,10 @@ https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="real madrid tv.es" tvg-logo="https://pbs.twimg.com/media/GyIXeuoWoAAUO30.jpg" group-title="SPAIN",	Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPAIN",	Telecinco
-http://185.189.225.150:85/TeleCincoHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPAIN",	Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia720.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPAIN",	Movistar La Liga (dlhd st)
-https://kolis.phantemlis.top/premium84/tracks-v1a1/mono.m3u8?md5=WTORuM_ep4Grp778_NGuPA&expires=1783091513
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPAIN",	Dazn 1 (dlhd st)
-https://kolis.phantemlis.top/premium445/tracks-v1a1/mono.m3u8?md5=Us-BaCTzU_3bUOXHG4uWGA&expires=1783091671
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPAIN",	Dazn 1 (dlhd st) 2
-https://kolis.phantemlis.top/premium445/tracks-v1a1/mono.m3u8?md5=Us-BaCTzU_3bUOXHG4uWGA&expires=1783117196
+
+
 
 El Salvador
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZSktjGB.png" group-title="El Salvador",El Camino TV (480p)
