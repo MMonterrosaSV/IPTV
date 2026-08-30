@@ -2,14 +2,12 @@
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="TimStreams",DAZN La Liga 1 (Embed)
+#EXTINF:-1 tvg-logo="" group-title="TimStreams",DAZN La Liga 1
 https://epiembeds.online/embed/daznlaliga-es parseUrl=2
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="NowFutbol",M+ La Liga 1
-https://nowfutbol.xyz/vivo/player.html?c=Movistar+LaLiga&o=0 parseUrl=2
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="DaddyLive",M+ La Liga 1
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="DaddyLive",M+ La Liga 1 (VPN)
 https://dlstreams.st/watch/stream-84.php parseUrl=2
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="DaddyLive",M+ Liga de Campeones 1
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="DaddyLive",M+ Liga de Campeones 1 (VPN)
 https://dlstreams.st/watch/stream-435.php
 
 
