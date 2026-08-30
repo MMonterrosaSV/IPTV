@@ -4,6 +4,8 @@
 
 #EXTINF:-1 tvg-logo="" group-title="TimStreams",DAZN La Liga 1
 https://epiembeds.online/embed/daznlaliga-es parseUrl=2
+#EXTINF:-1 tvg-logo="" group-title="TimStreams",Premier Sports 1
+https://epiembeds.online/embed/premiersports1-ie parseUrl=2
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="DaddyLive",M+ La Liga 1 (VPN)
 https://dlstreams.st/watch/stream-84.php parseUrl=2
