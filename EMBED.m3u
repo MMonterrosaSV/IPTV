@@ -12,6 +12,10 @@ https://dlstreams.st/watch/stream-84.php parseUrl=2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="DaddyLive",M+ Liga de Campeones 1 (VPN)
 https://dlstreams.st/watch/stream-435.php
 
+#EXTINF:-1 tvg-logo="" group-title="Pelota Libre",GENERAL (VPN)
+https://pelotalibre.uno/ parseUrl=2
+#EXTINF:-1 tvg-logo="" group-title="FCTV33",GENERAL
+https://www.fctv33hd.gay/football.html parseUrl=2
 
 
 
