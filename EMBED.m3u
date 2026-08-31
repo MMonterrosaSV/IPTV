@@ -1,14 +1,14 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="" group-title="TimStreams",DAZN La Liga 1 (VPN)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="TimStreams",DAZN La Liga 1 (VPN)
 https://epiembeds.online/embed/daznlaliga-es parseUrl=2
 #EXTINF:-1 tvg-logo="" group-title="TimStreams",Premier Sports 1 (VPN)
 https://epiembeds.online/embed/premiersports1-ie parseUrl=2
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="DaddyLive",M+ La Liga 1 (VPN)
 https://dlstreams.st/watch/stream-84.php parseUrl=2
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="DaddyLive",DAZN La Liga 1 (VPN)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="DaddyLive",DAZN La Liga 1 (VPN)
 https://dlstreams.st/watch/stream-538.php parseUrl=2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="DaddyLive",M+ Liga de Campeones 1 (VPN)
 https://dlstreams.st/watch/stream-435.php
@@ -19,6 +19,8 @@ https://pelotalibre.uno/ parseUrl=2
 https://www.fctv33hd.gay/football.html parseUrl=2
 #EXTINF:-1 tvg-logo="" group-title="GENERAL",zLive
 https://zlive.st/ parseUrl=2
+#EXTINF:-1 tvg-logo="" group-title="GENERAL",The Tv App (VPN)
+https://thetvapp.plus/v6 parseUrl=2
 
 
 
