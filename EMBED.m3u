@@ -11,7 +11,10 @@ https://dlstreams.st/watch/stream-84.php parseUrl=2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="DaddyLive",DAZN La Liga 1 (VPN)
 https://dlstreams.st/watch/stream-538.php parseUrl=2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="DaddyLive",M+ Liga de Campeones 1 (VPN)
-https://dlstreams.st/watch/stream-435.php
+https://dlstreams.st/watch/stream-435.php parseUrl=2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="zLive",DAZN La Liga 1
+https://zlive.st/watch/auto-dazn-laliga parseUrl=2
 
 #EXTINF:-1 tvg-logo="" group-title="GENERAL",Pelota Libre (VPN)
 https://pelotalibre.uno/ parseUrl=2
