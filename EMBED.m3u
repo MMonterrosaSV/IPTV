@@ -11,11 +11,11 @@ https://dlstreams.st/watch/stream-538.php parseUrl=2
 https://dlstreams.st/watch/stream-84.php parseUrl=2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="Channels",M+ Liga de Campeones 1 (DaddyLive)(VPN)
 https://dlstreams.st/watch/stream-435.php parseUrl=2
-#EXTINF:-1 tvg-logo="" group-title="Channels",TUDN MX (zLive)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G4S9yBFS/tudn-logo-png-seeklogo-368749.png" group-title="Channels",TUDN MX (zLive)
 https://zlive.st/watch/auto-tudn parseUrl=2
-#EXTINF:-1 tvg-logo="" group-title="Channels",ESPN Deportes (zLive)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KZsr7Y3/espn-deportes-logo-png-seeklogo-261968.png" group-title="Channels",ESPN Deportes (zLive)
 https://zlive.st/watch/auto-espn-deportes parseUrl=2
-#EXTINF:-1 tvg-logo="" group-title="Channels",TNT Sports (zLive)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d45X49jb/tnt-sports-logo-png-seeklogo-486966.png" group-title="Channels",TNT Sports (zLive)
 https://zlive.st/watch/auto-tnt-sports-1 parseUrl=2
 #EXTINF:-1 tvg-logo="" group-title="Channels",Premier Sports 1 (zLive)
 https://zlive.st/watch/auto-premier-sports-1-ie parseUrl=2
