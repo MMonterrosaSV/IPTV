@@ -13,8 +13,16 @@ https://dlstreams.st/watch/stream-84.php parseUrl=2
 https://dlstreams.st/watch/stream-435.php parseUrl=2
 #EXTINF:-1 tvg-logo="" group-title="Channels",TUDN MX (zLive)
 https://zlive.st/watch/auto-tudn parseUrl=2
+#EXTINF:-1 tvg-logo="" group-title="Channels",ESPN Deportes (zLive)
+https://zlive.st/watch/auto-espn-deportes parseUrl=2
+#EXTINF:-1 tvg-logo="" group-title="Channels",TNT Sports (zLive)
+https://zlive.st/watch/auto-tnt-sports-1 parseUrl=2
+#EXTINF:-1 tvg-logo="" group-title="Channels",Premier Sports 1 (zLive)
+https://zlive.st/watch/auto-premier-sports-1-ie parseUrl=2
 #EXTINF:-1 tvg-logo="" group-title="Channels",Premier Sports 1 (TimStreams)(VPN)
 https://epiembeds.online/embed/premiersports1-ie parseUrl=2
+#EXTINF:-1 tvg-logo="" group-title="Channels",Premier Sports 2 (zLive)
+https://zlive.st/watch/auto-premier-sports-2-ie parseUrl=2
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERAL",zLive
