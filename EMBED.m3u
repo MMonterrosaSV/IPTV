@@ -11,6 +11,8 @@ https://dlstreams.st/watch/stream-538.php parseUrl=2
 https://dlstreams.st/watch/stream-84.php parseUrl=2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="Channels",M+ Liga de Campeones 1 (DaddyLive)(VPN)
 https://dlstreams.st/watch/stream-435.php parseUrl=2
+#EXTINF:-1 tvg-logo="" group-title="Channels",TUDN MX (zLive)
+https://zlive.st/watch/auto-tudn parseUrl=2
 #EXTINF:-1 tvg-logo="" group-title="Channels",Premier Sports 1 (TimStreams)(VPN)
 https://epiembeds.online/embed/premiersports1-ie parseUrl=2
 
