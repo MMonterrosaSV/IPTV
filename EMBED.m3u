@@ -17,11 +17,11 @@ https://zlive.st/watch/auto-tudn parseUrl=2
 https://zlive.st/watch/auto-espn-deportes parseUrl=2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d45X49jb/tnt-sports-logo-png-seeklogo-486966.png" group-title="Channels",TNT Sports (zLive)
 https://zlive.st/watch/auto-tnt-sports-1 parseUrl=2
-#EXTINF:-1 tvg-logo="" group-title="Channels",Premier Sports 1 (zLive)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VcSS8RXv/Premier-Sports-1-II.jpg" group-title="Channels",Premier Sports 1 (zLive)
 https://zlive.st/watch/auto-premier-sports-1-ie parseUrl=2
-#EXTINF:-1 tvg-logo="" group-title="Channels",Premier Sports 1 (TimStreams)(VPN)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VcSS8RXv/Premier-Sports-1-II.jpg" group-title="Channels",Premier Sports 1 (TimStreams)(VPN)
 https://epiembeds.online/embed/premiersports1-ie parseUrl=2
-#EXTINF:-1 tvg-logo="" group-title="Channels",Premier Sports 2 (zLive)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V0Z1fYgh/Premier-Sports-1-II.jpg" group-title="Channels",Premier Sports 2 (zLive)
 https://zlive.st/watch/auto-premier-sports-2-ie parseUrl=2
 
 
