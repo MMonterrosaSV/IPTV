@@ -41,25 +41,29 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
 
 SPORTS VPN ROXIESTREAMS
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",ESPN DEPORTES
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",ESPN DEPORTES (OPCION 1)
 https://admin.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",ESPN DEPORTES 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",ESPN DEPORTES (OPCION 1)
+https://admin2.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",ESPN DEPORTES (OPCION 1)
 https://tedesco.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",ESPN DEPORTES
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",ESPN DEPORTES (OPCION 2)
 https://admin.pawtner.com.au/dep.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",ESPN DEPORTES
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",ESPN DEPORTES (OPCION 2)
+https://admin2.pawtner.com.au/dep.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",ESPN DEPORTES (OPCION 2)
 https://tedesco.pawtner.com.au/dep.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS La Liga
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS La Liga (OPCION 1)
 https://admin.formaturamaxi.com.br/skymx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS La Liga
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS La Liga (OPCION 1)
 https://admin2.formaturamaxi.com.br/skymx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS La Liga
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS La Liga (OPCION 1)
 https://tedesco.formaturamaxi.com.br/skymx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS La Liga
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS La Liga (OPCION 2)
 https://admin.pawtner.com.au/skymx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS La Liga
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS La Liga (OPCION 2)
 https://admin2.pawtner.com.au/skymx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS La Liga
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS La Liga (OPCION 2)
 https://tedesco.pawtner.com.au/skymx.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",BEIN SPORTS
 https://tedesco.formaturamaxi.com.br/beines.m3u8
