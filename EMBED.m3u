@@ -1,28 +1,15 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="Channels",DAZN La Liga 1 (zLive)
-https://zlive.st/watch/auto-dazn-laliga parseUrl=2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="Channels",DAZN La Liga 1 (TimStreams)(VPN)
-https://epiembeds.online/embed/daznlaliga-es parseUrl=2
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="Channels",DAZN La Liga 1 (DaddyLive)(VPN)
 https://dlstreams.st/watch/stream-538.php parseUrl=2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="Channels",M+ La Liga 1 (DaddyLive)(VPN)
 https://dlstreams.st/watch/stream-84.php parseUrl=2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="Channels",M+ Liga de Campeones 1 (DaddyLive)(VPN)
 https://dlstreams.st/watch/stream-435.php parseUrl=2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G4S9yBFS/tudn-logo-png-seeklogo-368749.png" group-title="Channels",TUDN MX (zLive)
-https://zlive.st/watch/auto-tudn parseUrl=2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KZsr7Y3/espn-deportes-logo-png-seeklogo-261968.png" group-title="Channels",ESPN Deportes (zLive)
-https://zlive.st/watch/auto-espn-deportes parseUrl=2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d45X49jb/tnt-sports-logo-png-seeklogo-486966.png" group-title="Channels",TNT Sports (zLive)
-https://zlive.st/watch/auto-tnt-sports-1 parseUrl=2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VcSS8RXv/Premier-Sports-1-II.jpg" group-title="Channels",Premier Sports 1 (zLive)
-https://zlive.st/watch/auto-premier-sports-1-ie parseUrl=2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VcSS8RXv/Premier-Sports-1-II.jpg" group-title="Channels",Premier Sports 1 (TimStreams)(VPN)
-https://epiembeds.online/embed/premiersports1-ie parseUrl=2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V0Z1fYgh/Premier-Sports-1-II.jpg" group-title="Channels",Premier Sports 2 (zLive)
-https://zlive.st/watch/auto-premier-sports-2-ie parseUrl=2
+#EXTINF:-1 tvg-logo="" group-title="Channels",DSports (WSDeportes)
+https://wsdeportes.net/?v=dsports parseUrl=2
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERAL",zLive
