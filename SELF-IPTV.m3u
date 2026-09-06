@@ -71,8 +71,20 @@ https://tedesco.formaturamaxi.com.br/beines.m3u8
 https://admin.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",BEIN SPORTS
 https://admin2.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",CBS SPORTS (EN)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",CBS SPORTS 
 https://tedesco.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS Premier
+https://admin.formaturamaxi.com.br/sky.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS Premier
+https://admin2.formaturamaxi.com.br/sky.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS Premier
+https://tedesco.formaturamaxi.com.br/sky.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS Premier BACKUP
+https://admin.pawtner.com.au/sky.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS Premier BACKUP
+https://admin2.pawtner.com.au/sky.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS Premier BACKUP
+https://tedesco.pawtner.com.au/sky.m3u8
 
 
 SELF LIVE EVENTS
