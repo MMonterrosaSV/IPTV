@@ -66,13 +66,17 @@ https://admin2.pawtner.com.au/skymx.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS La Liga BACKUP
 https://tedesco.pawtner.com.au/skymx.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",BEIN SPORTS
-https://tedesco.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",BEIN SPORTS
 https://admin.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",BEIN SPORTS
 https://admin2.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",CBS SPORTS 
-https://tedesco.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",BEIN SPORTS
+https://tedesco.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",BEIN SPORTS BACKUP
+https://admin.pawtner.com.au/beines.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",BEIN SPORTS BACKUP
+https://admin2.pawtner.com.au/beines.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",BEIN SPORTS BACKUP
+https://tedesco.pawtner.com.au/beines.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS Premier
 https://admin.formaturamaxi.com.br/sky.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS Premier
@@ -85,6 +89,19 @@ https://admin.pawtner.com.au/sky.m3u8
 https://admin2.pawtner.com.au/sky.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS Premier BACKUP
 https://tedesco.pawtner.com.au/sky.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",CBS SPORTS 
+https://admin.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",CBS SPORTS 
+https://admin2.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",CBS SPORTS 
+https://tedesco.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",CBS SPORTS BACKUP
+https://admin.pawtner.com.au/sky.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",CBS SPORTS BACKUP
+https://admin2.pawtner.com.au/sky.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",CBS SPORTS BACKUP
+https://tedesco.pawtner.com.au/sky.m3u8
+
 
 
 SELF LIVE EVENTS
