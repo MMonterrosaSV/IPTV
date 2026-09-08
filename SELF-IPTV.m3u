@@ -37,6 +37,20 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="Tabernaculo Biblico Bautista.sv" tvg-logo="https://i.imgur.com/ikq2iSf.png" group-title="El Salvador",Taber TV (1080p)
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
 
+PYTHON SCRIPT TVNOW247 TOP
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="LIVE SPORTS CHANNELS",DAZN LA LIGA
+https://ib4b9i.s.gy/OYBVRC
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wrzP12C0/movistar-laliga-hdr.jpg" group-title="LIVE SPORTS CHANNELS",M+ LA LIGA 1
+https://ib4b9i.s.gy/7u1NTc
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rKnjKNYs/Ligade-Campeonespor-MP.jpg" group-title="LIVE SPORTS CHANNELS",M+ CHAMPIONS LEAGUE 1 
+https://ib4b9i.s.gy/g6BU9B
+#EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="LIVE SPORTS CHANNELS",TNT SPORTS 1 UK
+https://ib4b9i.s.gy/7Wi5Pw
+#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/espn-deportes4468.jpg" group-title="LIVE SPORTS CHANNELS",ESPN DEPORTES
+https://ib4b9i.s.gy/ZSxMQQ
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/49/1/deportes-por-movistar-plus-logo-png_seeklogo-492841.png" group-title="LIVE SPORTS CHANNELS",M+ DEPORTES 1 
+https://ib4b9i.s.gy/XBMsUC
+
 
 SPORTS ROXIESTREAMS
 #EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-logo="https://logowik.com/content/uploads/images/espn-deportes4468.jpg" group-title="SPORTS ROXIESTREAMS",ESPN DEPORTES
@@ -134,18 +148,6 @@ https://messi.damitv.st/papi/ts2/daznlaliga-es.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 3
 https://p16-common-sign.tiktokcdn-us.com/tos-useast8-v-5300-tx2/57699c701704c688f2454ca05d41f9e7~tplv-tiktokx-origin.image?dr=9636&refresh_token=3435aa5c&x-expires=1788469200&x-signature=LrjEHueQDRl9HS3NaGMWxzcPZ8A%3D&t=4d5b0474&ps=13740610&shp=f21f527a&shcp=9b759fb9&idc=useast8
 
-PYTHON SCRIPT TVNOW247 TOP
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE SPORTS CHANNELS",DAZN LA LIGA
-https://ib4b9i.s.gy/OYBVRC
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE SPORTS CHANNELS",M+ LA LIGA 1
-https://ib4b9i.s.gy/7u1NTc
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE SPORTS CHANNELS",M+ CHAMPIONS LEAGUE 1 
-https://ib4b9i.s.gy/g6BU9B
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE SPORTS CHANNELS",TNT SPORTS 1 UK
-https://ib4b9i.s.gy/7Wi5Pw
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE SPORTS CHANNELS",ESPN DEPORTES
-https://ib4b9i.s.gy/ZSxMQQ
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE SPORTS CHANNELS",M+ DEPORTES 1 
-https://ib4b9i.s.gy/XBMsUC
+
 
 
