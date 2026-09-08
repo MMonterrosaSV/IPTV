@@ -8,9 +8,9 @@ España
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="la 2.es" tvg-logo="https://i.ibb.co/L2LcqYQ/AIdro-kqg-HWy-Si5xprs1-VFCNCX0-IKNT8y-XBLZC43-JMo-B8j0-JUto-s900-c-k-c0x00ffffff-no-rj.jpg" group-title="SPAIN",La 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
-#EXTINF:-1 tvg-id="Canal 24 horas.es" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/02/IMG_20210223_202622_457.jpg" group-title="SPAIN",24h
+#EXTINF:-1 tvg-id="Canal24horas.es" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/02/IMG_20210223_202622_457.jpg" group-title="SPAIN",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="real madrid tv.es" tvg-logo="https://pbs.twimg.com/media/GyIXeuoWoAAUO30.jpg" group-title="SPAIN",	Real Madrid TV
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://pbs.twimg.com/media/GyIXeuoWoAAUO30.jpg" group-title="SPAIN",	Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="CanalSur.es" tvg-logo="https://i.ibb.co/tTY91vnv/AIdro-mh-U2b-I-i-GWTo-JUb-UJq-Wi-P9r0z6-EIEc-H38m-O8-Ugu-YMVg-s900-c-k-c0x00ffffff-no-rj.jpg" group-title="SPAIN",	Canal Sur Andalucia
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
@@ -99,21 +99,21 @@ https://admin.pawtner.com.au/golazo.m3u8
 https://admin2.pawtner.com.au/golazo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",CBS SPORTS BACKUP
 https://tedesco.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1
 https://admin.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1
 https://admin2.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1
 https://tedesco.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 BACKUP
 https://admin.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 BACKUP
 https://admin2.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 BACKUP
 https://tedesco.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 MX
+#EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 MX
 https://admin.formaturamaxi.com.br/tntmx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 MX
+#EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 MX
 https://admin2.formaturamaxi.com.br/tntmx.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 MX
 https://tedesco.formaturamaxi.com.br/tntmx.m3u8
