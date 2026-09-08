@@ -1,6 +1,7 @@
 #EXTM3U 
 
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/spain.xml, https://www.open-epg.com/files/unitedkingdom1.xml"
+
+#EXTM3U url-tvg="https://www.open-epg.com/files/spain.xml, https://www.open-epg.com/files/unitedstates10.xml, https://www.open-epg.com/files/mexico1.xml"
 
 España
 #EXTINF:-1 tvg-id="LA1.es" tvg-logo="https://i.ibb.co/svhd04v8/w-1600.jpg" group-title="SPAIN",La 1
@@ -38,89 +39,89 @@ https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
 
 
 SPORTS ROXIESTREAMS
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",ESPN DEPORTES
+#EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-logo="" group-title="SPORTS ROXIESTREAMS",ESPN DEPORTES
 https://admin.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",ESPN DEPORTES
+#EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-logo="" group-title="SPORTS ROXIESTREAMS",ESPN DEPORTES
 https://admin2.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",ESPN DEPORTES
+#EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-logo="" group-title="SPORTS ROXIESTREAMS",ESPN DEPORTES
 https://tedesco.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",ESPN DEPORTES BACKUP
+#EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-logo="" group-title="SPORTS ROXIESTREAMS",ESPN DEPORTES BACKUP
 https://admin.pawtner.com.au/dep.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",ESPN DEPORTES BACKUP
+#EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-logo="" group-title="SPORTS ROXIESTREAMS",ESPN DEPORTES BACKUP
 https://admin2.pawtner.com.au/dep.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",ESPN DEPORTES BACKUP
+#EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-logo="" group-title="SPORTS ROXIESTREAMS",ESPN DEPORTES BACKUP
 https://tedesco.pawtner.com.au/dep.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS La Liga
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS La Liga
 https://admin.formaturamaxi.com.br/skymx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS La Liga
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS La Liga
 https://admin2.formaturamaxi.com.br/skymx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS La Liga
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS La Liga
 https://tedesco.formaturamaxi.com.br/skymx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS La Liga BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS La Liga BACKUP
 https://admin.pawtner.com.au/skymx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS La Liga BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS La Liga BACKUP
 https://admin2.pawtner.com.au/skymx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS La Liga BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS La Liga BACKUP
 https://tedesco.pawtner.com.au/skymx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",BEIN SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",BEIN SPORTS
 https://admin.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",BEIN SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",BEIN SPORTS
 https://admin2.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",BEIN SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",BEIN SPORTS
 https://tedesco.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",BEIN SPORTS BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",BEIN SPORTS BACKUP
 https://admin.pawtner.com.au/beines.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",BEIN SPORTS BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",BEIN SPORTS BACKUP
 https://admin2.pawtner.com.au/beines.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",BEIN SPORTS BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",BEIN SPORTS BACKUP
 https://tedesco.pawtner.com.au/beines.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS Premier
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS Premier
 https://admin.formaturamaxi.com.br/sky.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS Premier
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS Premier
 https://admin2.formaturamaxi.com.br/sky.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS Premier
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS Premier
 https://tedesco.formaturamaxi.com.br/sky.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS Premier BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS Premier BACKUP
 https://admin.pawtner.com.au/sky.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS Premier BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS Premier BACKUP
 https://admin2.pawtner.com.au/sky.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",SKY SPORTS Premier BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS Premier BACKUP
 https://tedesco.pawtner.com.au/sky.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",CBS SPORTS 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",CBS SPORTS 
 https://admin.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",CBS SPORTS 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",CBS SPORTS 
 https://admin2.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",CBS SPORTS 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",CBS SPORTS 
 https://tedesco.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",CBS SPORTS BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",CBS SPORTS BACKUP
 https://admin.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",CBS SPORTS BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",CBS SPORTS BACKUP
 https://admin2.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",CBS SPORTS BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",CBS SPORTS BACKUP
 https://tedesco.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",TNT SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1
 https://admin.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",TNT SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1
 https://admin2.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",TNT SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1
 https://tedesco.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",TNT SPORTS 1 BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 BACKUP
 https://admin.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",TNT SPORTS 1 BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 BACKUP
 https://admin2.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",TNT SPORTS 1 BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 BACKUP
 https://tedesco.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",TNT SPORTS 1 MX
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 MX
 https://admin.formaturamaxi.com.br/tntmx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",TNT SPORTS 1 MX
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 MX
 https://admin2.formaturamaxi.com.br/tntmx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",TNT SPORTS 1 MX
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 MX
 https://tedesco.formaturamaxi.com.br/tntmx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",TNT SPORTS 1 MX BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 MX BACKUP
 https://admin.pawtner.com.au/tntmx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",TNT SPORTS 1 MX BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 MX BACKUP
 https://admin2.pawtner.com.au/tntmx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",TNT SPORTS 1 MX BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 MX BACKUP
 https://tedesco.pawtner.com.au/tntmx.m3u8
 
 
