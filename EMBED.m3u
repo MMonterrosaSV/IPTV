@@ -20,6 +20,8 @@ https://hoofoot.ru/iptv/channel?id=2216263 parseUrl=2
 https://wsdeportes.net/?v=dsports parseUrl=2
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/espn-deportes4468.jpg" group-title="Channels",ESPN Deportes (zLive)
 https://zlive.st/watch/auto-espn-deportes parseUrl=2
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/espn-deportes4468.jpg" group-title="Channels",ESPN Deportes (HooFoot)
+https://hoofoot.ru/iptv/channel?id=8970341 parseUrl=2
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERAL",zLive
