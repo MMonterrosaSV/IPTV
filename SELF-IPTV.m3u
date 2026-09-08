@@ -98,6 +98,30 @@ https://admin.pawtner.com.au/golazo.m3u8
 https://admin2.pawtner.com.au/golazo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",CBS SPORTS BACKUP
 https://tedesco.pawtner.com.au/golazo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",TNT SPORTS 1
+https://admin.formaturamaxi.com.br/tnt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",TNT SPORTS 1
+https://admin2.formaturamaxi.com.br/tnt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",TNT SPORTS 1
+https://tedesco.formaturamaxi.com.br/tnt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",TNT SPORTS 1 BACKUP
+https://admin.pawtner.com.au/tnt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",TNT SPORTS 1 BACKUP
+https://admin2.pawtner.com.au/tnt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",TNT SPORTS 1 BACKUP
+https://tedesco.pawtner.com.au/tnt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",TNT SPORTS 1 MX
+https://admin.formaturamaxi.com.br/tntmx.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",TNT SPORTS 1 MX
+https://admin2.formaturamaxi.com.br/tntmx.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",TNT SPORTS 1 MX
+https://tedesco.formaturamaxi.com.br/tntmx.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",TNT SPORTS 1 MX BACKUP
+https://admin.pawtner.com.au/tntmx.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",TNT SPORTS 1 MX BACKUP
+https://admin2.pawtner.com.au/tntmx.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS VPN",TNT SPORTS 1 MX BACKUP
+https://tedesco.pawtner.com.au/tntmx.m3u8
 
 
 
