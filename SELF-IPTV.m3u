@@ -1,9 +1,9 @@
 #EXTM3U 
 
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/spain2.xml, https://www.open-epg.com/files/unitedkingdom1.xml, https://www.open-epg.com/files/unitedkingdom2.xml, https://www.open-epg.com/files/unitedstates11.xml, https://www.open-epg.com/files/newzealand1.xml,https://www.open-epg.com/files/portugal1.xml"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/spain.xml, https://www.open-epg.com/files/unitedkingdom1.xml"
 
 España
-#EXTINF:-1 tvg-id="La 1.es" tvg-logo="https://i.ibb.co/svhd04v8/w-1600.jpg" group-title="SPAIN",La 1
+#EXTINF:-1 tvg-id="LA1.es" tvg-logo="https://i.ibb.co/svhd04v8/w-1600.jpg" group-title="SPAIN",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="la 2.es" tvg-logo="https://i.ibb.co/L2LcqYQ/AIdro-kqg-HWy-Si5xprs1-VFCNCX0-IKNT8y-XBLZC43-JMo-B8j0-JUto-s900-c-k-c0x00ffffff-no-rj.jpg" group-title="SPAIN",La 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
@@ -11,9 +11,9 @@ https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="real madrid tv.es" tvg-logo="https://pbs.twimg.com/media/GyIXeuoWoAAUO30.jpg" group-title="SPAIN",	Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-id="https://i.ibb.co/tTY91vnv/AIdro-mh-U2b-I-i-GWTo-JUb-UJq-Wi-P9r0z6-EIEc-H38m-O8-Ugu-YMVg-s900-c-k-c0x00ffffff-no-rj.jpg" tvg-logo="" group-title="SPAIN",	Canal Sur Andalucia
+#EXTINF:-1 tvg-id="CanalSur.es" tvg-logo="https://i.ibb.co/tTY91vnv/AIdro-mh-U2b-I-i-GWTo-JUb-UJq-Wi-P9r0z6-EIEc-H38m-O8-Ugu-YMVg-s900-c-k-c0x00ffffff-no-rj.jpg" group-title="SPAIN",	Canal Sur Andalucia
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9mV97mzC/images-q-tbn-ANd9-Gc-Sw-RB5n-O-JCDxg-YEj-Thd-Uoj-HIRi-00eg-Bn-Fy-OD2-N-u-M3vud8f-GCr-Duu-Rd-X-s-10.jpg" group-title="SPAIN",	Historia
+#EXTINF:-1 tvg-id="Historia.es" tvg-logo="https://i.ibb.co/9mV97mzC/images-q-tbn-ANd9-Gc-Sw-RB5n-O-JCDxg-YEj-Thd-Uoj-HIRi-00eg-Bn-Fy-OD2-N-u-M3vud8f-GCr-Duu-Rd-X-s-10.jpg" group-title="SPAIN",	Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia720.m3u8
 
 
