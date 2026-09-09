@@ -127,6 +127,18 @@ https://admin.pawtner.com.au/golazo.m3u8
 https://admin2.pawtner.com.au/golazo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",CBS SPORTS BACKUP
 https://tedesco.pawtner.com.au/golazo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TUDN
+https://admin.formaturamaxi.com.br/tudn.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TUDN
+https://admin2.formaturamaxi.com.br/tudn.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TUDN 
+https://tedesco.formaturamaxi.com.br/tudn.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TUDN
+https://admin.pawtner.com.au/tudn.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TUDN
+https://admin2.pawtner.com.au/tudn.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TUDN
+https://tedesco.pawtner.com.au/tudn.m3u8
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1
 https://admin.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1
@@ -151,20 +163,17 @@ https://admin.pawtner.com.au/tnt3.m3u8
 https://admin2.pawtner.com.au/tnt3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ld8KXxZ8/images-q-tbn-ANd9-Gc-Rk-FGR6q9tcjf-PQNm-BEi-94-CS2uiw-Af1-Ml-Hc-BIMe-QAAug-s.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 3 BACKUP
 https://tedesco.pawtner.com.au/tnt3.m3u8
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS Mexico
 https://admin.formaturamaxi.com.br/tntmx.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS Mexico
 https://admin2.formaturamaxi.com.br/tntmx.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS Mexico
 https://tedesco.formaturamaxi.com.br/tntmx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS MX BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS Mexico BACKUP
 https://admin.pawtner.com.au/tntmx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS MX BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS Mexico BACKUP
 https://admin2.pawtner.com.au/tntmx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS MX BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS Mexico BACKUP
 https://tedesco.pawtner.com.au/tntmx.m3u8
 
 
