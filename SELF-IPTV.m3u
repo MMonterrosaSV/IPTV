@@ -1,7 +1,7 @@
 #EXTM3U 
 
 
-#EXTM3U url-tvg="https://www.open-epg.com/files/spain.xml,https://www.open-epg.com/files/elsalvador1.xml,https://www.open-epg.com/files/unitedstates10.xml,https://www.open-epg.com/files/mexico1.xml,https://www.open-epg.com/files/unitedkingdom.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/spain.xml,https://www.open-epg.com/files/unitedstates10.xml,https://www.open-epg.com/files/mexico1.xml,https://www.open-epg.com/files/unitedkingdom.xml"
 
 España
 #EXTINF:-1 tvg-id="LA1.es" tvg-logo="https://i.ibb.co/svhd04v8/w-1600.jpg" group-title="SPAIN",La 1
@@ -24,39 +24,39 @@ El Salvador
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="El Salvador",Agape TV (720p)
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal 10.sv" tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="El Salvador",Canal 10 (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="El Salvador",Canal 10 (720p)
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itqQEux.png" group-title="El Salvador",Canal 11 TuTV (349p)
 https://stream.giostreaming.app/canal11/canal11.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LNWGe1D.jpg" group-title="El Salvador",Josué TV (1080p)
 https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
-#EXTINF:-1 tvg-id="Canal 19.sv" tvg-logo="https://i.imgur.com/voyVP6X.png" group-title="El Salvador",Megavisión Canal 19 (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/voyVP6X.png" group-title="El Salvador",Megavisión Canal 19 (720p)
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="Canal 21.sv" tvg-logo="https://i.imgur.com/HbdYU9k.png" group-title="El Salvador",Megavisión Canal 21 (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HbdYU9k.png" group-title="El Salvador",Megavisión Canal 21 (720p)
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="Tabernaculo Biblico Bautista.sv" tvg-logo="https://i.imgur.com/ikq2iSf.png" group-title="El Salvador",Taber TV (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ikq2iSf.png" group-title="El Salvador",Taber TV (1080p)
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
 
 PYTHON SCRIPT TVNOW247 TOP
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="LIVE SPORTS CHANNELS",DAZN LA LIGA
+#EXTINF:-1 tvg-id="DAZNLALIGA.es" tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="LIVE SPORTS CHANNELS",DAZN LA LIGA
 https://ib4b9i.s.gy/OYBVRC
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wrzP12C0/movistar-laliga-hdr.jpg" group-title="LIVE SPORTS CHANNELS",M+ LA LIGA 1
+#EXTINF:-1 tvg-id="MovistarLaLigaHDR.es" tvg-logo="https://i.ibb.co/wrzP12C0/movistar-laliga-hdr.jpg" group-title="LIVE SPORTS CHANNELS",M+ LA LIGA 1
 https://ib4b9i.s.gy/7u1NTc
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rKnjKNYs/Ligade-Campeonespor-MP.jpg" group-title="LIVE SPORTS CHANNELS",M+ CHAMPIONS LEAGUE 1 
+#EXTINF:-1 tvg-id="MovistarLigaDeCampeones.es" tvg-logo="https://i.ibb.co/rKnjKNYs/Ligade-Campeonespor-MP.jpg" group-title="LIVE SPORTS CHANNELS",M+ CHAMPIONS LEAGUE 1 
 https://ib4b9i.s.gy/g6BU9B
 #EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="LIVE SPORTS CHANNELS",TNT SPORTS 1 UK
 https://ib4b9i.s.gy/7Wi5Pw
 #EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/espn-deportes4468.jpg" group-title="LIVE SPORTS CHANNELS",ESPN DEPORTES
 https://ib4b9i.s.gy/ZSxMQQ
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/49/1/deportes-por-movistar-plus-logo-png_seeklogo-492841.png" group-title="LIVE SPORTS CHANNELS",M+ DEPORTES 1 
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-logo="https://images.seeklogo.com/logo-png/49/1/deportes-por-movistar-plus-logo-png_seeklogo-492841.png" group-title="LIVE SPORTS CHANNELS",M+ DEPORTES 1 
 https://ib4b9i.s.gy/XBMsUC
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JRN3zpCM/F4406655.jpg" group-title="LIVE SPORTS CHANNELS",M+ DEPORTES 2
+#EXTINF:-1 tvg-id="MovistarDeportes2.es" tvg-logo="https://i.ibb.co/JRN3zpCM/F4406655.jpg" group-title="LIVE SPORTS CHANNELS",M+ DEPORTES 2
 https://ib4b9i.s.gy/DSmm0U
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/V0qKdB8C/movistar-plus-2022-logo-png-seeklogo-432602.png" group-title="LIVE SPORTS CHANNELS",M+
+#EXTINF:-1 tvg-id="MovistarPlus.es" tvg-logo="https://i.ibb.co/V0qKdB8C/movistar-plus-2022-logo-png-seeklogo-432602.png" group-title="LIVE SPORTS CHANNELS",M+
 https://ib4b9i.s.gy/SiA9BA
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6cjmbCZP/cuatro-logo-png-seeklogo-335023.png" group-title="LIVE SPORTS CHANNELS",CUATRO
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://i.ibb.co/6cjmbCZP/cuatro-logo-png-seeklogo-335023.png" group-title="LIVE SPORTS CHANNELS",CUATRO
 https://ib4b9i.s.gy/jUIlnE
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ynkFhh93/960px-Telecinco-svg.png" group-title="LIVE SPORTS CHANNELS",TELECINCO
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://i.ibb.co/ynkFhh93/960px-Telecinco-svg.png" group-title="LIVE SPORTS CHANNELS",TELECINCO
 https://ib4b9i.s.gy/yrOuWg
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/d0F18w77/tf1.png" group-title="LIVE SPORTS CHANNELS",TF1
 https://ib4b9i.s.gy/BKrC9N
@@ -105,15 +105,15 @@ https://admin2.pawtner.com.au/beines.m3u8
 https://tedesco.pawtner.com.au/beines.m3u8
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.ibb.co/fGqV8Smb/logo.png" group-title="SPORTS ROXIESTREAMS",SKY SPORTS PREMIER
 https://admin.formaturamaxi.com.br/sky.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS PREMIER
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fGqV8Smb/logo.png" group-title="SPORTS ROXIESTREAMS",SKY SPORTS PREMIER
 https://admin2.formaturamaxi.com.br/sky.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS PREMIER
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fGqV8Smb/logo.png" group-title="SPORTS ROXIESTREAMS",SKY SPORTS PREMIER
 https://tedesco.formaturamaxi.com.br/sky.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS PREMIER BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fGqV8Smb/logo.png" group-title="SPORTS ROXIESTREAMS",SKY SPORTS PREMIER BACKUP
 https://admin.pawtner.com.au/sky.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS PREMIER BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fGqV8Smb/logo.png" group-title="SPORTS ROXIESTREAMS",SKY SPORTS PREMIER BACKUP
 https://admin2.pawtner.com.au/sky.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS PREMIER BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fGqV8Smb/logo.png" group-title="SPORTS ROXIESTREAMS",SKY SPORTS PREMIER BACKUP
 https://tedesco.pawtner.com.au/sky.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",CBS SPORTS 
 https://admin.formaturamaxi.com.br/golazo.m3u8
