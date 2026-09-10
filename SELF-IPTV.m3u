@@ -182,9 +182,9 @@ https://tedesco.pawtner.com.au/tntmx.m3u8
 
 SELF LIVE EVENTS
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 1
-https://admin2.formaturamaxi.com.br/bein3.m3u8
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9oYW1pcy5yb21wb25hbGlzLnN0L3ByZW1pdW10di9kYWRkeTIucGhwP2lkPTg0IiwibTN1OCI6Imh0dHBzOi8veGFtZWxlb24ucGhhbnRlbWxpcy50b3AvdHdvL3NlY3VyZS85MmRjMWUzZDk5N2RlYjU2ODg0ZTgxOWExYjc2MTUwMi8xNzg5MDkwNzM4L3ByZW1pdW04NC90cmFja3MtdjFhMS9tb25vLm0zdTgiLCJ0cyI6MTc4OTA3OTk1MTc1MCwiY2hhbm5lbElkIjoiODQifQ
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 2
-https://admin2.formaturamaxi.com.br/tnt2.m3u8
+https://4.ftlly.com/espn/mono.m3u8?token=76c8409769c9a52cf4e107dfb845ded5202ca71f-74-1789097448-1789079448
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 3
 https://epidd.hundxvision.co.uk/main/secure/6e5fc20d355def5549d70e9c20b5efb126b64134449a248f892ec9a0142b9a2c/1788990649/tntsports1-uk.m3u8
 
