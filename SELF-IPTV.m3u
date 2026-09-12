@@ -186,11 +186,4 @@ https://1.ftlly.com/dsports/mono.m3u8?token=408ed2dbc0d1322281256b336a342fc02414
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 2
 https://epidd.hundxvision.co.uk/main/secure/45940b216b3ef65f41561d521eb29b1b6c5f662f7d351824bc98838b12aca70c/1789231757/beinsports-usa.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 3
-https://1.ftlly.com/dsports/mono.m3u8?token=2cd58c036de176a615c97e30c1eeafb544b9942c-a6-1789238723-1789220723
-
-
-TEST
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",beIN Sports USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://zlive.st/
-https://epidd.hundxvision.co.uk/main/secure/45940b216b3ef65f41561d521eb29b1b6c5f662f7d351824bc98838b12aca70c/1789231757/beinsports-usa.m3u8
+https://10.ftlly.com/dsports/mono.m3u8?token=680ea9ea9776757443f1094c82bb490423dfb6ea-49-1789241557-1789223557
