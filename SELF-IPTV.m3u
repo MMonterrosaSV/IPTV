@@ -79,35 +79,35 @@ https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzOCIsIn
 SPORTS ROXIESTREAMS
 #EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-logo="https://logowik.com/content/uploads/images/espn-deportes4468.jpg" group-title="SPORTS ROXIESTREAMS",ESPN DEPORTES
 https://admin.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-logo="https://logowik.com/content/uploads/images/espn-deportes4468.jpg" group-title="SPORTS ROXIESTREAMS",ESPN DEPORTES
+#EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-logo="" group-title="SPORTS ROXIESTREAMS",ESPN DEPORTES
 https://admin2.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-logo="https://logowik.com/content/uploads/images/espn-deportes4468.jpg" group-title="SPORTS ROXIESTREAMS",ESPN DEPORTES
+#EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-logo="" group-title="SPORTS ROXIESTREAMS",ESPN DEPORTES
 https://tedesco.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-logo="https://logowik.com/content/uploads/images/espn-deportes4468.jpg" group-title="SPORTS ROXIESTREAMS",ESPN DEPORTES BACKUP
 https://admin.pawtner.com.au/dep.m3u8
-#EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-logo="https://logowik.com/content/uploads/images/espn-deportes4468.jpg" group-title="SPORTS ROXIESTREAMS",ESPN DEPORTES BACKUP
+#EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-logo="" group-title="SPORTS ROXIESTREAMS",ESPN DEPORTES BACKUP
 https://admin2.pawtner.com.au/dep.m3u8
-#EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-logo="https://logowik.com/content/uploads/images/espn-deportes4468.jpg" group-title="SPORTS ROXIESTREAMS",ESPN DEPORTES BACKUP
+#EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-logo="" group-title="SPORTS ROXIESTREAMS",ESPN DEPORTES BACKUP
 https://tedesco.pawtner.com.au/dep.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS La Liga
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/62/1/sky-sports-2025-logo-png_seeklogo-626273.png" group-title="SPORTS ROXIESTREAMS",SKY SPORTS LA LIGA
 https://admin.formaturamaxi.com.br/skymx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS La Liga
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS LA LIGA
 https://admin2.formaturamaxi.com.br/skymx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS La Liga
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS LA LIGA
 https://tedesco.formaturamaxi.com.br/skymx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS La Liga BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/62/1/sky-sports-2025-logo-png_seeklogo-626273.png" group-title="SPORTS ROXIESTREAMS",SKY SPORTS LA LIGA BACKUP
 https://admin.pawtner.com.au/skymx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS La Liga BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS LA LIGA BACKUP
 https://admin2.pawtner.com.au/skymx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS La Liga BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS LA LIGA BACKUP
 https://tedesco.pawtner.com.au/skymx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",BEIN SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rk1zL8BB/1280px-Be-IN-Sports-logo-horizontal-version-svg.png" group-title="SPORTS ROXIESTREAMS",BEIN SPORTS
 https://admin.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",BEIN SPORTS
 https://admin2.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",BEIN SPORTS
 https://tedesco.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",BEIN SPORTS BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rk1zL8BB/1280px-Be-IN-Sports-logo-horizontal-version-svg.png" group-title="SPORTS ROXIESTREAMS",BEIN SPORTS BACKUP
 https://admin.pawtner.com.au/beines.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",BEIN SPORTS BACKUP
 https://admin2.pawtner.com.au/beines.m3u8
@@ -115,63 +115,63 @@ https://admin2.pawtner.com.au/beines.m3u8
 https://tedesco.pawtner.com.au/beines.m3u8
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.ibb.co/fGqV8Smb/logo.png" group-title="SPORTS ROXIESTREAMS",SKY SPORTS PREMIER
 https://admin.formaturamaxi.com.br/sky.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fGqV8Smb/logo.png" group-title="SPORTS ROXIESTREAMS",SKY SPORTS PREMIER
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS PREMIER
 https://admin2.formaturamaxi.com.br/sky.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fGqV8Smb/logo.png" group-title="SPORTS ROXIESTREAMS",SKY SPORTS PREMIER
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS PREMIER
 https://tedesco.formaturamaxi.com.br/sky.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fGqV8Smb/logo.png" group-title="SPORTS ROXIESTREAMS",SKY SPORTS PREMIER BACKUP
 https://admin.pawtner.com.au/sky.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fGqV8Smb/logo.png" group-title="SPORTS ROXIESTREAMS",SKY SPORTS PREMIER BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS PREMIER BACKUP
 https://admin2.pawtner.com.au/sky.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fGqV8Smb/logo.png" group-title="SPORTS ROXIESTREAMS",SKY SPORTS PREMIER BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",SKY SPORTS PREMIER BACKUP
 https://tedesco.pawtner.com.au/sky.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",CBS SPORTS 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.paramountshop.com/cdn/shop/files/cbs-sports-logo-die-cut-sticker-625319.png" group-title="SPORTS ROXIESTREAMS",CBS SPORTS 
 https://admin.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",CBS SPORTS 
 https://admin2.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",CBS SPORTS 
 https://tedesco.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",CBS SPORTS BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.paramountshop.com/cdn/shop/files/cbs-sports-logo-die-cut-sticker-625319.png" group-title="SPORTS ROXIESTREAMS",CBS SPORTS BACKUP
 https://admin.pawtner.com.au/golazo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",CBS SPORTS BACKUP
 https://admin2.pawtner.com.au/golazo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",CBS SPORTS BACKUP
 https://tedesco.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TUDN
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/36/2/tudn-logo-png_seeklogo-368749.png" group-title="SPORTS ROXIESTREAMS",TUDN
 https://admin.formaturamaxi.com.br/tudn.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TUDN
 https://admin2.formaturamaxi.com.br/tudn.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TUDN 
 https://tedesco.formaturamaxi.com.br/tudn.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TUDN
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/36/2/tudn-logo-png_seeklogo-368749.png" group-title="SPORTS ROXIESTREAMS",TUDN BACKUP
 https://admin.pawtner.com.au/tudn.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TUDN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TUDN BACKUP
 https://admin2.pawtner.com.au/tudn.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TUDN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TUDN BACKUP
 https://tedesco.pawtner.com.au/tudn.m3u8
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1
 https://admin.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1
 https://admin2.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1
 https://tedesco.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 BACKUP
 https://admin.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 BACKUP
 https://admin2.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 1 BACKUP
 https://tedesco.pawtner.com.au/tnt.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ld8KXxZ8/images-q-tbn-ANd9-Gc-Rk-FGR6q9tcjf-PQNm-BEi-94-CS2uiw-Af1-Ml-Hc-BIMe-QAAug-s.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 3
 https://admin2.formaturamaxi.com.br/tnt3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ld8KXxZ8/images-q-tbn-ANd9-Gc-Rk-FGR6q9tcjf-PQNm-BEi-94-CS2uiw-Af1-Ml-Hc-BIMe-QAAug-s.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 3
 https://admin2.formaturamaxi.com.br/tnt3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ld8KXxZ8/images-q-tbn-ANd9-Gc-Rk-FGR6q9tcjf-PQNm-BEi-94-CS2uiw-Af1-Ml-Hc-BIMe-QAAug-s.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 3
 https://tedesco.formaturamaxi.com.br/tnt3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ld8KXxZ8/images-q-tbn-ANd9-Gc-Rk-FGR6q9tcjf-PQNm-BEi-94-CS2uiw-Af1-Ml-Hc-BIMe-QAAug-s.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 3 BACKUP
 https://admin.pawtner.com.au/tnt3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ld8KXxZ8/images-q-tbn-ANd9-Gc-Rk-FGR6q9tcjf-PQNm-BEi-94-CS2uiw-Af1-Ml-Hc-BIMe-QAAug-s.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 3 BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 3 BACKUP
 https://admin2.pawtner.com.au/tnt3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ld8KXxZ8/images-q-tbn-ANd9-Gc-Rk-FGR6q9tcjf-PQNm-BEi-94-CS2uiw-Af1-Ml-Hc-BIMe-QAAug-s.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 3 BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS ROXIESTREAMS",TNT SPORTS 3 BACKUP
 https://tedesco.pawtner.com.au/tnt3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="SPORTS ROXIESTREAMS",TNT SPORTS Mexico
 https://admin.formaturamaxi.com.br/tntmx.m3u8
