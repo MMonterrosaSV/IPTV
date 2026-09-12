@@ -20,7 +20,8 @@ https://hoofoot.ru/iptv/channel?id=5269586 parseUrl=2
 https://wsdeportes.net/?v=dsports parseUrl=2
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/espn-deportes4468.jpg" group-title="Channels",ESPN Deportes (TimStreams)(VPN)
 https://epiembeds.online/embed/espndeportes-usa parseUrl=2
-
+#EXTINF:-1 tvg-logo="" group-title="Channels",RM vs Rayo
+https://jack27eo.mpgreatestclgczbmiddle.my/football/spanish-la-liga-4432593/real-madrid-vs-rayo-vallecano.html?icg=RVM&ilang=en parseUrl=2
 
 #EXTINF:-1 tvg-logo="" group-title="GENERAL",zLive
 https://zlive.st/ parseUrl=2
