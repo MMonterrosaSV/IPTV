@@ -3,27 +3,23 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="Channels",DAZN La Liga 1 (HooFoot)
-https://hoofoot.ru/iptv/channel?id=4406429 parseUrl=2
+https://hoofoot.ru/iptv/player?id=9219771 parseUrl=2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="Channels",DAZN La Liga 1 (DaddyLive)(VPN)
 https://dlstreams.st/watch/stream-538.php parseUrl=2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="Channels",DAZN La Liga 1 (zLive)(VPN)
-https://zlive.st/watch/auto-dazn-laliga parseUrl=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="Channels",DAZN La Liga 1 (TimStreams)(VPN)
+https://epiembeds.online/embed/daznlaliga-es parseUrl=2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="Channels",M+ La Liga 1 (DaddyLive)(VPN)
 https://dlstreams.st/watch/stream-84.php parseUrl=2
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="Channels",M+ La Liga 1 (zLive)
-https://zlive.st/watch/auto-movistar-laliga parseUrl=2
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="Channels",M+ La Liga 1 (HooFoot)
-https://hoofoot.ru/iptv/channel?id=3368279 parseUrl=2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="Channels",M+ La Liga 1 (TimStreams)(VPN)
+https://epiembeds.online/embed/movistarlaliga-es parseUrl=2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="Channels",M+ Liga de Campeones 1 (DaddyLive)
 https://dlstreams.st/watch/stream-435.php parseUrl=2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="Channels",M+ Liga de Campeones 1 (HooFoot)
-https://hoofoot.ru/iptv/channel?id=2216263 parseUrl=2
+https://hoofoot.ru/iptv/channel?id=5269586 parseUrl=2
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/dsports-logo-png_seeklogo-626310.png" group-title="Channels",DSports (WSDeportes)
 https://wsdeportes.net/?v=dsports parseUrl=2
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/espn-deportes4468.jpg" group-title="Channels",ESPN Deportes (zLive)
-https://zlive.st/watch/auto-espn-deportes parseUrl=2
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/espn-deportes4468.jpg" group-title="Channels",ESPN Deportes (HooFoot)
-https://hoofoot.ru/iptv/channel?id=8970341 parseUrl=2
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/espn-deportes4468.jpg" group-title="Channels",ESPN Deportes (TimStreams)(VPN)
+https://epiembeds.online/embed/espndeportes-usa parseUrl=2
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERAL",zLive
