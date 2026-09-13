@@ -6,14 +6,10 @@
 https://hoofoot.ru/iptv/player?id=9219771 parseUrl=2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="Channels",DAZN La Liga 1 (DaddyLive)(VPN)
 https://dlstreams.st/watch/stream-538.php parseUrl=2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="Channels",DAZN La Liga 1 (TimStreams)(VPN)
-https://epiembeds.online/embed/daznlaliga-es parseUrl=2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="Channels",DAZN La Liga 1 (zLive)(VPN)
 https://zlive.st/watch/auto-dazn-laliga parseUrl=2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="Channels",M+ La Liga 1 (DaddyLive)(VPN)
 https://dlstreams.st/watch/stream-84.php parseUrl=2
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="Channels",M+ La Liga 1 (TimStreams)(VPN)
-https://epiembeds.online/embed/movistarlaliga-es parseUrl=2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="Channels",M+ La Liga 1 (zLive)(VPN)
 https://zlive.st/watch/auto-movistar-laliga parseUrl=2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="Channels",M+ Liga de Campeones 1 (DaddyLive)
