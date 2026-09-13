@@ -12,11 +12,11 @@ https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://pbs.twimg.com/media/GyIXeuoWoAAUO30.jpg" group-title="SPAIN",	Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-id="CanalSur.es" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="SPAIN",	Canal Sur Andalucia
+#EXTINF:-1 tvg-id="CanalSur.es" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="SPAIN", Canal Sur Andalucia
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 #EXTINF:-1 tvg-id="Historia.es" tvg-logo="https://i.ibb.co/9mV97mzC/images-q-tbn-ANd9-Gc-Sw-RB5n-O-JCDxg-YEj-Thd-Uoj-HIRi-00eg-Bn-Fy-OD2-N-u-M3vud8f-GCr-Duu-Rd-X-s-10.jpg" group-title="SPAIN",	Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia720.m3u8
-#EXTINF:-1 tvg-id="OndaCero.TV" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="SPAIN",Onda Cero
+#EXTINF:-1 tvg-id="OndaCero.TV" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="SPAIN", Onda Cero
 https://atres-live.ondacero.es/h264/live/obs/master.m3u8
 
 
@@ -37,6 +37,24 @@ https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ikq2iSf.png" group-title="EL SALVADOR",Taber TV (1080p)
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
+
+
+INTERNATIONAL
+#EXTINF:-1 tvg-id="CNNInt.TV" tvg-logo="https://graph.facebook.com/cnninternational/picture?width=200&height=200" group-title="INTERNATIONAL",CNN Internacional
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
+#EXTINF:-1 tvg-id="Bloom.TV" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" group-title="INTERNATIONAL",Bloomberg Europe EN
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/skynews/picture?width=200&height=200" group-title="INTERNATIONAL",Sky News Reino Unido EN
+https://dqco14bu26p3z.cloudfront.net/30505/89006005/hls/master.m3u8?ads.xumo_channelId=89006005&ads.xumo_streamId=89006005
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200" group-title="INTERNATIONAL",FOX Live Now USA EN
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200" group-title="INTERNATIONAL",CBS News USA EN
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" group-title="INTERNATIONAL",Bloomberg USA EN
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+
+
+
 
 PYTHON SCRIPT TVNOW247 TOP
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/49/1/dazn-laliga-logo-png_seeklogo-490009.png" group-title="LIVE SPORTS",DAZN LA LIGA 1
