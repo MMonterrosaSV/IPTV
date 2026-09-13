@@ -24,8 +24,7 @@ https://hoofoot.ru/iptv/channel?id=5269586 parseUrl=2
 https://wsdeportes.net/?v=dsports parseUrl=2
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/espn-deportes4468.jpg" group-title="Channels",ESPN Deportes (TimStreams)(VPN)
 https://epiembeds.online/embed/espndeportes-usa parseUrl=2
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid vs Rayo Vallecano (Sep 12, 2026 19:00 UTC)" tvg-logo="https://a.espncdn.com/i/teamlogos/soccer/500/86.png" group-title="Channels",Real Madrid vs Rayo Vallecano (Sep 12, 2026 19:00 UTC)
-https://embedhd.pk/embed/hd-7.php parseUrl=2
+
 
 
 
