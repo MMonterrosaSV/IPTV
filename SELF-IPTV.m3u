@@ -4,79 +4,80 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/spain.xml,https://www.open-epg.com/files/unitedstates10.xml,https://www.open-epg.com/files/mexico1.xml,https://www.open-epg.com/files/unitedkingdom.xml"
 
 España
-#EXTINF:-1 tvg-id="LA1.es" tvg-logo="https://i.ibb.co/svhd04v8/w-1600.jpg" group-title="SPAIN",La 1
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://graph.facebook.com/la1detve/picture?width=200&height=200" group-title="SPAIN",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
-#EXTINF:-1 tvg-id="la 2.es" tvg-logo="https://i.ibb.co/L2LcqYQ/AIdro-kqg-HWy-Si5xprs1-VFCNCX0-IKNT8y-XBLZC43-JMo-B8j0-JUto-s900-c-k-c0x00ffffff-no-rj.jpg" group-title="SPAIN",La 2
+#EXTINF:-1 tvg-id="la 2.es" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="SPAIN",La 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-id="Canal24horas.es" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/02/IMG_20210223_202622_457.jpg" group-title="SPAIN",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://pbs.twimg.com/media/GyIXeuoWoAAUO30.jpg" group-title="SPAIN",	Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-id="CanalSur.es" tvg-logo="https://i.ibb.co/tTY91vnv/AIdro-mh-U2b-I-i-GWTo-JUb-UJq-Wi-P9r0z6-EIEc-H38m-O8-Ugu-YMVg-s900-c-k-c0x00ffffff-no-rj.jpg" group-title="SPAIN",	Canal Sur Andalucia
+#EXTINF:-1 tvg-id="CanalSur.es" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="SPAIN",	Canal Sur Andalucia
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 #EXTINF:-1 tvg-id="Historia.es" tvg-logo="https://i.ibb.co/9mV97mzC/images-q-tbn-ANd9-Gc-Sw-RB5n-O-JCDxg-YEj-Thd-Uoj-HIRi-00eg-Bn-Fy-OD2-N-u-M3vud8f-GCr-Duu-Rd-X-s-10.jpg" group-title="SPAIN",	Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia720.m3u8
-
+#EXTINF:-1 tvg-id="OndaCero.TV" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="SPAIN",Onda Cero
+https://atres-live.ondacero.es/h264/live/obs/master.m3u8
 
 
 El Salvador
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZSktjGB.png" group-title="El Salvador",El Camino TV (480p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZSktjGB.png" group-title="EL SALVADOR",El Camino TV (480p)
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="El Salvador",Agape TV (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="EL SALVADOR",Agape TV (720p)
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="El Salvador",Canal 10 (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="EL SALVADOR",Canal 10 (720p)
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/itqQEux.png" group-title="El Salvador",Canal 11 TuTV (349p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/itqQEux.png" group-title="EL SALVADOR",Canal 11 TuTV (349p)
 https://stream.giostreaming.app/canal11/canal11.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LNWGe1D.jpg" group-title="El Salvador",Josué TV (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LNWGe1D.jpg" group-title="EL SALVADOR",Josué TV (1080p)
 https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/voyVP6X.png" group-title="El Salvador",Megavisión Canal 19 (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/voyVP6X.png" group-title="EL SALVADOR",Megavisión Canal 19 (720p)
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HbdYU9k.png" group-title="El Salvador",Megavisión Canal 21 (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HbdYU9k.png" group-title="EL SALVADOR",Megavisión Canal 21 (720p)
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ikq2iSf.png" group-title="El Salvador",Taber TV (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ikq2iSf.png" group-title="EL SALVADOR",Taber TV (1080p)
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
 
-
 PYTHON SCRIPT TVNOW247 TOP
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/49/1/dazn-laliga-logo-png_seeklogo-490009.png" group-title="Live Sports",DAZN LA LIGA 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/49/1/dazn-laliga-logo-png_seeklogo-490009.png" group-title="LIVE SPORTS",DAZN LA LIGA 1
 https://z1ydzi.s.gy/g6ZyUs
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wrzP12C0/movistar-laliga-hdr.jpg" group-title="Live Sports",M+ LA LIGA 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wrzP12C0/movistar-laliga-hdr.jpg" group-title="LIVE SPORTS",M+ LA LIGA 1
 https://z1ydzi.s.gy/2bjnvR
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rKnjKNYs/Ligade-Campeonespor-MP.jpg" group-title="Live Sports",M+ CHAMPIONS LEAGUE 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rKnjKNYs/Ligade-Campeonespor-MP.jpg" group-title="LIVE SPORTS",M+ CHAMPIONS LEAGUE 1
 https://z1ydzi.s.gy/MrmlkT
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/49/1/deportes-por-movistar-plus-logo-png_seeklogo-492841.png" group-title="Live Sports",M+ DEPORTES 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/49/1/deportes-por-movistar-plus-logo-png_seeklogo-492841.png" group-title="LIVE SPORTS",M+ DEPORTES 1
 https://z1ydzi.s.gy/xRKjLb
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JRN3zpCM/F4406655.jpg" group-title="Live Sports",M+ DEPORTES 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JRN3zpCM/F4406655.jpg" group-title="LIVE SPORTS",M+ DEPORTES 2
 https://z1ydzi.s.gy/xXbTI8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/43/2/movistar-plus-2022-logo-png_seeklogo-432602.png" group-title="Live Sports",M+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/43/2/movistar-plus-2022-logo-png_seeklogo-432602.png" group-title="LIVE SPORTS",M+
 https://z1ydzi.s.gy/INAwGv
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/espn-deportes4468.jpg" group-title="Live Sports",ESPN DEPORTES
+#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/espn-deportes4468.jpg" group-title="LIVE SPORTS",ESPN DEPORTES
 https://z1ydzi.s.gy/rKTZ3F
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/62/1/dsports-logo-png_seeklogo-626310.png" group-title="Live Sports",Dsports
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/62/1/dsports-logo-png_seeklogo-626310.png" group-title="LIVE SPORTS",Dsports
 https://z1ydzi.s.gy/jd8LaJ
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/36/2/tudn-logo-png_seeklogo-368749.png" group-title="Live Sports",TUDN MEXICO
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/36/2/tudn-logo-png_seeklogo-368749.png" group-title="LIVE SPORTS",TUDN MEXICO
 https://z1ydzi.s.gy/xfo7SX
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/36/2/tudn-logo-png_seeklogo-368749.png" group-title="Live Sports",TUDN USA
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/36/2/tudn-logo-png_seeklogo-368749.png" group-title="LIVE SPORTS",TUDN USA
 https://z1ydzi.s.gy/OX5R1K
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Sports",TUDN USA BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE SPORTS",TUDN USA BACKUP
 https://z1ydzi.s.gy/lJHX3A
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/48/1/tnt-sports-logo-png_seeklogo-486966.png" group-title="Live Sports",TNT SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/48/1/tnt-sports-logo-png_seeklogo-486966.png" group-title="LIVE SPORTS",TNT SPORTS 1
 https://z1ydzi.s.gy/MskMBY
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Live Sports",TNT SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="LIVE SPORTS",TNT SPORTS 2
 https://z1ydzi.s.gy/BIMx7Y
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="Live Sports",TNT SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="LIVE SPORTS",TNT SPORTS 3
 https://z1ydzi.s.gy/v2Sr5M
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/62/1/sky-sports-2025-logo-png_seeklogo-626273.png" group-title="Live Sports",SKY SPORTS PREMIER LEAGUE
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/62/1/sky-sports-2025-logo-png_seeklogo-626273.png" group-title="LIVE SPORTS",SKY SPORTS PREMIER LEAGUE
 https://z1ydzi.s.gy/9jIan4
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/62/1/sky-sports-2025-logo-png_seeklogo-626273.png" group-title="Live Sports",SKY SPORTS FOOTBALL
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/62/1/sky-sports-2025-logo-png_seeklogo-626273.png" group-title="LIVE SPORTS",SKY SPORTS FOOTBALL
 https://z1ydzi.s.gy/1vxMWk
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/62/1/sky-sports-2025-logo-png_seeklogo-626273.png" group-title="Live Sports",SKY SPORTS PLUS
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/62/1/sky-sports-2025-logo-png_seeklogo-626273.png" group-title="LIVE SPORTS",SKY SPORTS PLUS
 https://z1ydzi.s.gy/lzpGBv
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/62/1/sky-sports-2025-logo-png_seeklogo-626273.png" group-title="Live Sports",SKY SPORTS MAIN EVENT
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/62/1/sky-sports-2025-logo-png_seeklogo-626273.png" group-title="LIVE SPORTS",SKY SPORTS MAIN EVENT
 https://z1ydzi.s.gy/KnKDLs
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.paramountshop.com/cdn/shop/files/cbs-sports-logo-die-cut-sticker-625319.png" group-title="Live Sports",CBS SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.paramountshop.com/cdn/shop/files/cbs-sports-logo-die-cut-sticker-625319.png" group-title="LIVE SPORTS",CBS SPORTS
 https://z1ydzi.s.gy/YT75Vm
+
 
 
 SPORTS ROXIESTREAMS
