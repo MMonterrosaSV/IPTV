@@ -23,7 +23,7 @@ https://hoofoot.ru/iptv/channel?id=5269586 parseUrl=2
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/dsports-logo-png_seeklogo-626310.png" group-title="Channels",DSports (WSDeportes)
 https://wsdeportes.net/?v=dsports parseUrl=2
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/espn-deportes4468.jpg" group-title="Channels",ESPN Deportes (TimStreams)(VPN)
-https://epiembeds.online/embed/espndeportes-usa parseUrl=2
+https://timst.cfd/channel/espn-deportes parseUrl=2
 
 
 
