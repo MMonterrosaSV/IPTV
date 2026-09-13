@@ -37,6 +37,7 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ikq2iSf.png" group-title="El Salvador",Taber TV (1080p)
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
 
+
 PYTHON SCRIPT TVNOW247 TOP
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/49/1/dazn-laliga-logo-png_seeklogo-490009.png" group-title="Live Sports",DAZN LA LIGA 1
 https://z1ydzi.s.gy/g6ZyUs
@@ -55,11 +56,11 @@ https://z1ydzi.s.gy/rKTZ3F
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/62/1/dsports-logo-png_seeklogo-626310.png" group-title="Live Sports",Dsports
 https://z1ydzi.s.gy/jd8LaJ
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/36/2/tudn-logo-png_seeklogo-368749.png" group-title="Live Sports",TUDN MEXICO
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9oYW1pcy5yb21wb25hbGlzLnN0L3ByZW1pdW10di9kYWRkeS5waHA_aWQ9OTM1IiwibTN1OCI6Imh0dHBzOi8veGFtZWxlb24ucGhhbnRlbWxpcy50b3Avb25lL3NlY3VyZS8yZWFmZGZlNzMzYzkxMTg1ZTE4MGUxYmUzZWQ3NWRjZC8xNzg5MjYwNDUzL3ByZW1pdW05MzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4IiwidHMiOjE3ODkyNDk2NjIwMjksImNoYW5uZWxJZCI6IjkzNSJ9
+https://z1ydzi.s.gy/xfo7SX
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/36/2/tudn-logo-png_seeklogo-368749.png" group-title="Live Sports",TUDN USA
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NiIsInRzIjoxNzg5MjQ5Njg5NDU4fQ
+https://z1ydzi.s.gy/OX5R1K
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Sports",TUDN USA BACKUP
-https://cdn.freetv2026.lat/hls/tudnus/index.m3u8?token=NnQZfB9hecXubmPhj5PhFg&expires=1789264104
+https://z1ydzi.s.gy/lJHX3A
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/48/1/tnt-sports-logo-png_seeklogo-486966.png" group-title="Live Sports",TNT SPORTS 1
 https://chunk.tvnow247.today/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9oYW1pcy5yb21wb25hbGlzLnN0L3ByZW1pdW10di9kYWRkeS5waHA_aWQ9MzEiLCJtM3U4IjoiaHR0cHM6Ly94YW1lbGVvbi5waGFudGVtbGlzLnRvcC9vbmUvc2VjdXJlLzIwN2Q1NWI5MWFjYTYyNTdlNzMyNWY3MGY5Nzk5NzdjLzE3ODkyNjA1MjgvcHJlbWl1bTMxL3RyYWNrcy12MWExL21vbm8ubTN1OCIsInRzIjoxNzg5MjQ5NzI5NDkwLCJjaGFubmVsSWQiOiIzMSJ9
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Live Sports",TNT SPORTS 2
