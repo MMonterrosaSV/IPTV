@@ -213,7 +213,7 @@ https://tedesco.pawtner.com.au/tntmx.m3u8
 SELF LIVE EVENTS
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 1 TEST ZLIVE
 https://epidd.hundxvision.co.uk/main/secure/9077b3aa3511a10cd18cf173bd24ac3715201b585ba100ecb85cda05c2b8e112/1789408923/daznlaliga-es.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 2
-http://fctv33-stream-resolver.onrender.com/api/hls?url=https%3A%2F%2Ffhlsport723.tm3crumb30dirtbag.ru%2Ftoken-NjHXMggdEZ2LqO3MsR4OsGOp%252B49D%252FqvWuP7V6Ai3iSESd50hr8qsui2AYr4jIk2Di7aZnfzdnS06JtuC5UQN8ZiEfRa0Yjm12oji7nLOad4%253Da%2Fcfall%2Fs2001%2Fv3b%2F1s513o0pnUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%253D%2Fhedy%2Fsx_813925%2Findex.m3u8&referer=https%3A%2F%2Fnadia01eo.tn76degree12ec3out.cfd%2F
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 2 OnRender Test
+http://fctv33-stream-resolver.onrender.com/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 3
 https://cdn.freetv2026.lat/hls/dsports/index.m3u8?token=l7lFHGyqwR1-SH1KrgWLgg&expires=1789238872
