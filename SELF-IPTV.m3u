@@ -166,14 +166,24 @@ https://admin2.pawtner.com.au/tntmx.m3u8
 https://tedesco.pawtner.com.au/tntmx.m3u8
 
 
+
+
+
 LIVELIVE24 CHANNELS
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVELIVE24 LIVE SPORTS",DAZN LA LIGA
 https://z1ydzi.s.gy/j4pSd4
 
 
+
+
+
 SELF LIVE EVENTS
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 1 DDLIVE
-http://daddylive-stream-resolver.onrender.com/api/proxy?url=https%3A%2F%2Fxameleon.phantemlis.top%2Ffour%2Fsecure%2F3d10c8ccd15148e5eb1a03020c47ed9f%2F1789425036%2Fpremium538%2Findex.m3u8&referer=https%3A%2F%2Fhamis.romponalis.st%2Fpremiumtv%2Fdaddy4.php%3Fid%3D538#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 2 
-http://stream.com/
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 1
+https://ds164.bluetier.top/DAZNLaLiga/index.m3u8?token=REFaTkxhTGlnYXxub19jaGVja19pcHwxNzg5NDk2NzUz.8b85e5a18ff56fe6ca3a962739e1b33ed7ce42d4dfa73728d1bb05ded46ba3a1
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 3
 https://cdn.freetv2026.lat/hls/dsports/index.m3u8?token=l7lFHGyqwR1-SH1KrgWLgg&expires=1789238872
+
+
+
+
+
