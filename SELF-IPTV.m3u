@@ -171,10 +171,9 @@ https://tedesco.pawtner.com.au/tntmx.m3u8
 
 SELF LIVE EVENTS
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 1
-https://ds164.bluetier.top/DAZNLaLiga/index.m3u8?token=REFaTkxhTGlnYXxub19jaGVja19pcHwxNzg5NTUyNjM3.bd3efdaa7be1ec9fa8121949dba441fd69d3aae0d35f755dcb1828c645a85cf7
+https://api.cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc883/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjODgzOjE3ODk1ODAzODgxNjY6YXBpLmNkbmxpdmV0di50djoxZTRiNmJmZWFmOWEzODlmLjUyODdiZjFmMzRiM2M4MDM0NTI5YzM2MjUyNjVmMjFlNTQwMDBmNGM0M2ZmNWUxNmU4NmUxN2E2YTFhMmVjMGY
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 2
-https://cdn.freetv2026.lat/hls/dsports/index.m3u8?token=l7lFHGyqwR1-SH1KrgWLgg&expires=1789238872
-
+https://dlhd-web.onrender.com/api/proxy?url=https%3A%2F%2Fapi.cdnlivetv.tv%2Fsecure%2Fapi%2Fv1%2F6a288d2b81d8192bb76cc883%2Fplaylist.m3u8%3Ftoken%3DNmEyODhkMmI4MWQ4MTkyYmI3NmNjODgzOjE3ODk1ODAzODgxNjY6YXBpLmNkbmxpdmV0di50djoxZTRiNmJmZWFmOWEzODlmLjUyODdiZjFmMzRiM2M4MDM0NTI5YzM2MjUyNjVmMjFlNTQwMDBmNGM0M2ZmNWUxNmU4NmUxN2E2YTFhMmVjMGY&referer=https%3A%2F%2Fapi.cdnlivetv.tv%2Fapi%2Fv1%2Fchannels%2Fplayer%2Fdaddylive%2F%3Fname%3Ddazn%2Blaliga%26code%3Des
 
 
 
