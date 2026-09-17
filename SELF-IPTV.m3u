@@ -167,15 +167,6 @@ https://tedesco.pawtner.com.au/tntmx.m3u8
 
 
 
-#DADDYLIVE AND LIVELIVE24 CHANNELS
-#ALL https://ds164.bluetier.top CHANNELS
-#USES WORKER TO FETCH AND UPDATE SHORTIO LINKS CHANNELS ON dlive-channels-updater REPO
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DS164 BLUETIER CHANNELS",DAZN LA LIGA
-https://z1yDZi.s.gy/j4pSd4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DS164 BLUETIER CHANNELS",ESPN DEPORTES
-https://z1yDZi.s.gy/waTm4i
-
 
 
 #TVNOW.ST CHANNELS
