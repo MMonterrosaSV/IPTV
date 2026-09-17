@@ -176,7 +176,7 @@ https://api.cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc883/playlist.m3u8?to
 https://dlhd-web.onrender.com/api/proxy?url=https%3A%2F%2Fapi.cdnlivetv.tv%2Fsecure%2Fapi%2Fv1%2F6a288d2b81d8192bb76cc883%2Fplaylist.m3u8%3Ftoken%3DNmEyODhkMmI4MWQ4MTkyYmI3NmNjODgzOjE3ODk1ODAzODgxNjY6YXBpLmNkbmxpdmV0di50djoxZTRiNmJmZWFmOWEzODlmLjUyODdiZjFmMzRiM2M4MDM0NTI5YzM2MjUyNjVmMjFlNTQwMDBmNGM0M2ZmNWUxNmU4NmUxN2E2YTFhMmVjMGY&referer=https%3A%2F%2Fapi.cdnlivetv.tv%2Fapi%2Fv1%2Fchannels%2Fplayer%2Fdaddylive%2F%3Fname%3Ddazn%2Blaliga%26code%3Des
 
 
-TEST VLC HEADER
+TEST HEADER
 #EXTINF:-1 tvg-id="" tvg-name="test" group-title="TEST",TEST 1
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
