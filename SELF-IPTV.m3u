@@ -1,7 +1,7 @@
 #EXTM3U 
 
 
-#EXTM3U url-tvg="https://www.open-epg.com/files/spain.xml,https://www.open-epg.com/files/unitedstates10.xml,https://www.open-epg.com/files/mexico1.xml,https://www.open-epg.com/files/unitedkingdom.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/spain.xml"
 
 España
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://graph.facebook.com/la1detve/picture?width=200&height=200" group-title="SPAIN",La 1
