@@ -176,12 +176,12 @@ https://api.cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc883/playlist.m3u8?to
 https://dlhd-web.onrender.com/api/proxy?url=https%3A%2F%2Fapi.cdnlivetv.tv%2Fsecure%2Fapi%2Fv1%2F6a288d2b81d8192bb76cc883%2Fplaylist.m3u8%3Ftoken%3DNmEyODhkMmI4MWQ4MTkyYmI3NmNjODgzOjE3ODk1ODAzODgxNjY6YXBpLmNkbmxpdmV0di50djoxZTRiNmJmZWFmOWEzODlmLjUyODdiZjFmMzRiM2M4MDM0NTI5YzM2MjUyNjVmMjFlNTQwMDBmNGM0M2ZmNWUxNmU4NmUxN2E2YTFhMmVjMGY&referer=https%3A%2F%2Fapi.cdnlivetv.tv%2Fapi%2Fv1%2Fchannels%2Fplayer%2Fdaddylive%2F%3Fname%3Ddazn%2Blaliga%26code%3Des
 
 
-TEST HEADER
+TEST HEADERS
 #EXTINF:-1 tvg-id="" tvg-name="test" group-title="TEST",TEST 1
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://fhlsport722.tm3troops31patrol.ru/token-%2BEc7XW2M%2FIhhxHJ1vWw3FGSGTmmF2QgUKhs7rgD7L9FfKvk8BKhFa5dp1y83BWUYMLYGEL%2BsO8YfjQqK1Qc0Dz4a32eS6UwOYqcJxdKtU2k%3Da/cfall/s2001/v3b/psq3s531nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_816053/index.m3u8
+https://fhlsport722.tm3troops31patrol.ru/token-cQliRv5P65A0u6TaRRhguSsX2gC0qSpNYhmPLLsFGdiLBbD68HT7ZbFzO%2BqxUIL60CZxS886iysvPPuVFmbcCJMJ4%2BCr0LB3TreVzz54Afo%3Da/cfall/s2001/v3b/s481sqornUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_817600/index.m3u8
 #EXTINF:-1 group-title="TEST",TEST 2
-https://fhlsport722.tm3troops31patrol.ru/token-%2BEc7XW2M%2FIhhxHJ1vWw3FGSGTmmF2QgUKhs7rgD7L9FfKvk8BKhFa5dp1y83BWUYMLYGEL%2BsO8YfjQqK1Qc0Dz4a32eS6UwOYqcJxdKtU2k%3Da/cfall/s2001/v3b/psq3s531nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_816053/index.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://fhlsport722.tm3troops31patrol.ru/token-cQliRv5P65A0u6TaRRhguSsX2gC0qSpNYhmPLLsFGdiLBbD68HT7ZbFzO%2BqxUIL60CZxS886iysvPPuVFmbcCJMJ4%2BCr0LB3TreVzz54Afo%3Da/cfall/s2001/v3b/s481sqornUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_817600/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="test" group-title="TEST",TEST 3
-https://fhlsport722-proxy.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9maGxzcG9ydDcyMi50bTN0cm9vcHMzMXBhdHJvbC5ydS90b2tlbi0lMkJFYzdYVzJNJTJGSWhoeEhKMXZXdzNGR1NHTG1tRjJRZ1VLaHM3cmdEN0w5RmZLdms4QmtoRmE1ZHAxeTgzQldVWU1MWUdFTCUyQnNPOFlmalFxSzFRYzBEejRhMzJlUzZVd09ZcWNKeGRLdFUyazNEYS9jZmFsbC9zMjAwMS92M2IvcHNxM3M1MzFuVUUwcVFiaVkzT2ZMS3hoWkdPNHAzRWdadjUwbzNOPS9oZWR5L3N4XzgxNjA1My9pbmRleC5tM3U4
+https://fhlsport722-proxy.mmonterrosa970.workers.dev/?u=aHR0cHM6Ly9maGxzcG9ydDcyMi50bTN0cm9vcHMzMXBhdHJvbC5ydS90b2tlbi1jUWxpUnY1UDY1QTB1NlRhUlJoZ3VTc1gyZ0MwcVNwTllobVBMTHNGR2RpTEJiRDY4SFQ3WmJGek8lMkJxeFVJTDYwQ1p4Uzg4Nml5c3ZQUHVWRm1iY0NKTUo0JTJCQ3IwTEIzVHJlVnp6NTRBZm8lM0RhL2NmYWxsL3MyMDAxL3YzYi9zNDgxc3Fvcm5VRTBwUWJpWTNPZkxLeGhaR080cDNFZ1p2NTBvM04lM0QvaGVkeS9zeF84MTc2MDAvaW5kZXgubTN1OA==
