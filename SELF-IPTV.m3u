@@ -206,4 +206,4 @@ SELF LIVE EVENTS
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 1
 https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDQiLCJ0cyI6MTc4OTc0ODMwODIzOH0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 2
-https://chunk.tvnow247.today/api/proxy/player?token=eyJjaGFubmVsSWQiOiIzMDQiLCJ0cyI6MTc4OTc0ODMwODIzOH0
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDQiLCJ0cyI6MTc4OTc2NTIwMDAwMH0=
