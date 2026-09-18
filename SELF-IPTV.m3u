@@ -171,7 +171,7 @@ https://tedesco.pawtner.com.au/tntmx.m3u8
 
 #TVNOW.ST CHANNELS
 #USES WORKER TO ATTACH REFERRER
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/espn-deportess" group-title="TVNOW ST CHANNELS",ESPN DEPORTES
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zfY38SYr/ESPN-Deportes.png" group-title="TVNOW ST CHANNELS",ESPN DEPORTES
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0nrho3t18foyt90zv7vs9/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/cbs-sports-network" group-title="TVNOW ST CHANNELS",CBS Sports Network
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/1ht5wwv045ffdr1yt1h5m/master.m3u8
@@ -203,20 +203,20 @@ https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0b
 
 
 #ZLIVE CHANNELS epidd.hudxvision
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ZLIVE CHANNELS",DAZN LA LIGA
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/49/1/dazn-laliga-logo-png_seeklogo-490009.png" group-title="ZLIVE CHANNELS",DAZN LA LIGA
 https://zlive.mmonterrosa970.workers.dev/dazn-laliga
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zfY38SYr/ESPN-Deportes.png" group-title="ZLIVE CHANNELS",ESPN DEPORTES
+https://zlive.mmonterrosa970.workers.dev/espn-deportes
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/cnbc" group-title="ZLIVE CHANNELS",CNBC
+https://zlive.mmonterrosa970.workers.dev/cnbc
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ZLIVE CHANNELS", PREMIER SPORTS 1 IRELAND
+https://zlive.mmonterrosa970.workers.dev/premier-sports-1-ie
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ZLIVE CHANNELS",MOVISTAR LA LIGA
 https://zlive.mmonterrosa970.workers.dev/movistar-laliga
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ZLIVE CHANNELS",MOVISTAR DEPORTES 1
 https://zlive.mmonterrosa970.workers.dev/movistar-deportes
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/espn-deportess" group-title="ZLIVE CHANNELS",ESPN DEPORTES
-https://zlive.mmonterrosa970.workers.dev/espn-deportes
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ZLIVE CHANNELS",CNBC
-https://zlive.mmonterrosa970.workers.dev/cnbc
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ZLIVE CHANNELS",SKY SPORTS PREMIER LEAGUE
 https://zlive.mmonterrosa970.workers.dev/sky-sports-premier-league
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ZLIVE CHANNELS", PREMIER SPORTS 1 IRELAND
-https://zlive.mmonterrosa970.workers.dev/premier-sports-1-ie
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ZLIVE CHANNELS",PREMIER SPORTS 2 IRELAND
 https://zlive.mmonterrosa970.workers.dev/https:/premier-sports-2-ie
 
