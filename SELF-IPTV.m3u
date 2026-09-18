@@ -55,7 +55,7 @@ https://www.bloomberg.com/media-manifest/streams/us.m3u8
 
 
 
-SPORTS ROXIESTREAMS
+#SPORTS ROXIESTREAMS
 #EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-logo="https://logowik.com/content/uploads/images/espn-deportes4468.jpg" group-title="SPORTS ROXIESTREAMS",ESPN DEPORTES
 https://admin.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-logo="" group-title="SPORTS ROXIESTREAMS",ESPN DEPORTES
@@ -202,7 +202,30 @@ https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0b
 
 
 
-SELF LIVE EVENTS
+#ZLIVE CHANNELS epidd.hudxvision
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ZLIVE CHANNELS",DAZN LA LIGA
+https://zlive.mmonterrosa970.workers.dev/dazn-laliga
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ZLIVE CHANNELS",MOVISTAR LA LIGA
+https://zlive.mmonterrosa970.workers.dev/movistar-laliga
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ZLIVE CHANNELS",MOVISTAR DEPORTES 1
+https://zlive.mmonterrosa970.workers.dev/movistar-deportes
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/espn-deportess" group-title="ZLIVE CHANNELS",ESPN DEPORTES
+https://zlive.mmonterrosa970.workers.dev/espn-deportes
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ZLIVE CHANNELS",CNBC
+https://zlive.mmonterrosa970.workers.dev/cnbc
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ZLIVE CHANNELS",SKY SPORTS PREMIER LEAGUE
+https://zlive.mmonterrosa970.workers.dev/sky-sports-premier-league
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ZLIVE CHANNELS", PREMIER SPORTS 1 IRELAND
+https://zlive.mmonterrosa970.workers.dev/premier-sports-1-ie
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ZLIVE CHANNELS",PREMIER SPORTS 2 IRELAND
+https://zlive.mmonterrosa970.workers.dev/https:/premier-sports-2-ie
+
+
+
+
+
+
+#SELF LIVE EVENTS
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 1
 https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDQiLCJ0cyI6MTc4OTc0ODMwODIzOH0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 2
