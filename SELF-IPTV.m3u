@@ -171,21 +171,23 @@ https://tedesco.pawtner.com.au/tntmx.m3u8
 
 #TVNOW.ST CHANNELS
 #USES WORKER TO ATTACH REFERRER
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TVNOW ST CHANNELS",ESPN DEPORTES
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/espn-deportess" group-title="TVNOW ST CHANNELS",ESPN DEPORTES
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0nrho3t18foyt90zv7vs9/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TVNOW ST CHANNELS",CBS Sports Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/cbs-sports-network" group-title="TVNOW ST CHANNELS",CBS Sports Network
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/1ht5wwv045ffdr1yt1h5m/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TVNOW ST CHANNELS",Fox Soccer Plus
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/cbs-sports-golazo" group-title="TVNOW ST CHANNELS",CBS Sports Golazo
+https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0vl080s1fk68hn0xvn6n6/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/fox-soccer-plus" group-title="TVNOW ST CHANNELS",Fox Soccer Plus
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0rz24u91w9fbp407eceyc/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TVNOW ST CHANNELS",Fox Deportes
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/fox-deportes" group-title="TVNOW ST CHANNELS",Fox Deportes
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0abl34w0f29hih0e5qgvt/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TVNOW ST CHANNELS",Fox Sports 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/fox-sports-1" group-title="TVNOW ST CHANNELS",Fox Sports 1
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/05aface108ill80oiq61q/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TVNOW ST CHANNELS",Fox Sports 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/fox-sports-2" group-title="TVNOW ST CHANNELS",Fox Sports 2
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/13r6cob1fh05tc1261qhx/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TVNOW ST CHANNELS",NBA TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/nba-tv" group-title="TVNOW ST CHANNELS",NBA TV
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0urww831mcu7290iaifzl/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TVNOW ST CHANNELS",NFL RedZone
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/nfl-redzone" group-title="TVNOW ST CHANNELS",NFL RedZone
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/1cbg6qo1qp8wpc0vuu0v1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/cnbc" group-title="TVNOW ST CHANNELS",CNBC
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0f06lpb0ljqelj0qrw1ol/master.m3u8
