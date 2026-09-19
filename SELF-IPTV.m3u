@@ -1,9 +1,8 @@
 #EXTM3U 
-
-
 #EXTM3U url-tvg="https://www.open-epg.com/files/spain.xml"
 
-España
+
+#ESPAÑA
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://graph.facebook.com/la1detve/picture?width=200&height=200" group-title="SPAIN",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="la 2.es" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="SPAIN",La 2
@@ -20,7 +19,7 @@ https://d1k3vzh2ivy22k.cloudfront.net/Historia720.m3u8
 https://atres-live.ondacero.es/h264/live/obs/master.m3u8
 
 
-El Salvador
+#El Salvador
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZSktjGB.png" group-title="EL SALVADOR",El Camino TV (480p)
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="EL SALVADOR",Agape TV (720p)
@@ -202,9 +201,11 @@ https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0b
 
 
 
-
-
-
+#SPORTSBITE ORG CHANNELS
+#EXTINF:-1 tvg-logo="" group-title="SPORTSBITE CHANNELS",DAZN LA LIGA
+https://sportsbite.org/247/daznlaliga
+#EXTINF:-1 tvg-logo="" group-title="SPORTSBITE CHANNELS",M+ LIGA DE CAMPEONES
+https://sportsbite.org/247/mligadecampeones
 
 
 
