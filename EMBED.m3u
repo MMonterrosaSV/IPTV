@@ -19,14 +19,18 @@ https://wsdeportes.net/?v=dsports parseUrl=2
 https://zlive.st/watch/auto-dazn-laliga parseUrl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="Channels",DAZN La Liga 1 (zLive)(VPN)
 https://zlive.st/watch/auto-dazn-laliga parseUrl=2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="Channels",DAZN La Liga 1 (zLive)(VPN)
-https://zlive.st/watch/auto-dazn-laliga parseUrl=8
-#EXTINF:-1 tvg-logo="" group-title="Channels",MOVISTAR LA LIGA PARSEURL 1
+#EXTINF:-1 tvg-logo="" group-title="Channels",MOVISTAR LA LIGA (Streamxhd) PARSEURL1
 https://streamxhd.com/live1.php?stream=mlaliga parseUrl=1
-#EXTINF:-1 tvg-logo="" group-title="Channels",MOVISTAR LA LIGA PARSEURL 2
+#EXTINF:-1 tvg-logo="" group-title="Channels",MOVISTAR LA LIGA (Streamxhd) PARSEURL2
 https://streamxhd.com/live1.php?stream=mlaliga parseUrl=2
-#EXTINF:-1 tvg-logo="" group-title="Channels",MOVISTAR LA LIGA PARSEURL 8
-https://streamxhd.com/live1.php?stream=mlaliga parseUrl=8
+#EXTINF:-1 tvg-logo="" group-title="Channels",DAZN LA LIGA (Streamxhd) PARSEURL1
+https://streamxhd.com/live1.php?stream=daznlaliga parseUrl=1
+#EXTINF:-1 tvg-logo="" group-title="Channels",DAZN LA LIGA (Streamxhd) PARSEURL2
+https://streamxhd.com/live1.php?stream=daznlaliga parseUrl=2
+#EXTINF:-1 tvg-logo="" group-title="Channels",MOVISTAR LIGA DE CAMPEONES (Streamxhd) PARSEURL1
+https://streamxhd.com/live1.php?stream=mligacampeones parseUrl=1
+#EXTINF:-1 tvg-logo="" group-title="Channels",MOVISTAR LIGA DE CAMPEONES (Streamxhd) PARSEURL2
+https://streamxhd.com/live1.php?stream=mligacampeones parseUrl=2
 
 
 
