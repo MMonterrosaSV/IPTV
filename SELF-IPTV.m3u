@@ -3,19 +3,19 @@
 
 
 #ESPAÑA
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://graph.facebook.com/la1detve/picture?width=200&height=200" group-title="SPAIN",La 1
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://graph.facebook.com/la1detve/picture?width=200&height=200" group-title="ESPAÑA",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
-#EXTINF:-1 tvg-id="la 2.es" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="SPAIN",La 2
+#EXTINF:-1 tvg-id="la 2.es" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA",La 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
-#EXTINF:-1 tvg-id="Canal24horas.es" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/02/IMG_20210223_202622_457.jpg" group-title="SPAIN",24h
+#EXTINF:-1 tvg-id="Canal24horas.es" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/02/IMG_20210223_202622_457.jpg" group-title="ESPAÑA",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://pbs.twimg.com/media/GyIXeuoWoAAUO30.jpg" group-title="SPAIN",	Real Madrid TV
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://pbs.twimg.com/media/GyIXeuoWoAAUO30.jpg" group-title="ESPAÑA",	Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-id="CanalSur.es" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="SPAIN", Canal Sur Andalucia
+#EXTINF:-1 tvg-id="CanalSur.es" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="ESPAÑA", Canal Sur Andalucia
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
-#EXTINF:-1 tvg-id="Historia.es" tvg-logo="https://i.ibb.co/9mV97mzC/images-q-tbn-ANd9-Gc-Sw-RB5n-O-JCDxg-YEj-Thd-Uoj-HIRi-00eg-Bn-Fy-OD2-N-u-M3vud8f-GCr-Duu-Rd-X-s-10.jpg" group-title="SPAIN",	Historia
+#EXTINF:-1 tvg-id="Historia.es" tvg-logo="https://i.ibb.co/9mV97mzC/images-q-tbn-ANd9-Gc-Sw-RB5n-O-JCDxg-YEj-Thd-Uoj-HIRi-00eg-Bn-Fy-OD2-N-u-M3vud8f-GCr-Duu-Rd-X-s-10.jpg" group-title="ESPAÑA",	Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia720.m3u8
-#EXTINF:-1 tvg-id="OndaCero.TV" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="SPAIN", Onda Cero
+#EXTINF:-1 tvg-id="OndaCero.TV" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="ESPAÑA", Onda Cero
 https://atres-live.ondacero.es/h264/live/obs/master.m3u8
 
 
@@ -55,8 +55,6 @@ https://www.bloomberg.com/media-manifest/streams/us.m3u8
 
 
 
-
-
 #TVNOW.ST CHANNELS
 #USES WORKER TO ATTACH REFERRER
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zfY38SYr/ESPN-Deportes.png" group-title="TVNOW ST CHANNELS",ESPN DEPORTES
@@ -90,7 +88,6 @@ https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0b
 
 
 
-
 #SPORTSBITE ORG CHANNELS
 #EXTINF:-1 tvg-logo="" group-title="SPORTSBITE CHANNELS (VPN)",DAZN LA LIGA
 https://sportsbite.org/247/daznlaliga
@@ -105,12 +102,18 @@ https://sportsbite.org/247/premiersports1
 #EXTINF:-1 tvg-logo="" group-title="SPORTSBITE CHANNELS (VPN)",ESPN DEPORTES
 https://sportsbite.org/247/espndeportes
 
+#STREAMXHD CHANNELS
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="STREAMXHD CHANNELS",M+ LA LIGA 1 SD
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=mlaliga/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="STREAMXHD CHANNELS",M+ DAZN LA LIGA SD
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=daznlaliga/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="STREAMXHD CHANNELS",M+ LIGA DE CAMPEONES 1 SD
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=mligacampeones/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="STREAMXHD CHANNELS",ESPN DEPORTES (LIVE1 PHP)
+https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=espndeportes/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="STREAMXHD CHANNELS",ESPN DEPORTES (LIVE1 PHP)
+https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=espndeportes/stream.m3u8
+
 
 #SELF LIVE EVENTS
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 1
