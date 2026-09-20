@@ -105,8 +105,12 @@ https://sportsbite.org/247/premiersports1
 #EXTINF:-1 tvg-logo="" group-title="SPORTSBITE CHANNELS (VPN)",ESPN DEPORTES
 https://sportsbite.org/247/espndeportes
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",m la liga test streamxhd worker with proxy proxfree
-https://streamxhd.mmonterrosa970.workers.dev/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="STREAMXHD CHANNELS",M+ LA LIGA 1 SD
+https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=mlaliga/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="STREAMXHD CHANNELS",M+ DAZN LA LIGA SD
+https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=daznlaliga/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="STREAMXHD CHANNELS",M+ LIGA DE CAMPEONES 1 SD
+https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=mligacampeones/stream.m3u8
 
 #SELF LIVE EVENTS
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 1
