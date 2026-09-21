@@ -103,16 +103,14 @@ https://sportsbite.org/247/premiersports1
 https://sportsbite.org/t247/premier-sports-1-ie
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfY38SYr/ESPN-Deportes.png" group-title="SPORTSBITE CHANNELS (VPN)",ESPN DEPORTES
 https://sportsbite.org/247/espndeportes
-#EXTINF:-1 tvg-logo="" group-title="SPORTSBITE CHANNELS (VPN)",beIN SPORTS USA
+#EXTINF:-1 tvg-logo="https://psee.io/9mwdf8" group-title="SPORTSBITE CHANNELS (VPN)",beIN SPORTS USA
 https://sportsbite.org/247/beinsportsus
-#EXTINF:-1 tvg-logo="" group-title="SPORTSBITE CHANNELS (VPN)",TUDN
+#EXTINF:-1 tvg-logo="https://psee.io/9mwdfh" group-title="SPORTSBITE CHANNELS (VPN)",TUDN
 https://sportsbite.org/t247/tudn
-#EXTINF:-1 tvg-logo="" group-title="SPORTSBITE CHANNELS (VPN)",ESPN
+#EXTINF:-1 tvg-logo="https://psee.io/9mwdg5" group-title="SPORTSBITE CHANNELS (VPN)",ESPN
 https://sportsbite.org/247/espn
-#EXTINF:-1 tvg-logo="" group-title="SPORTSBITE CHANNELS (VPN)", DAZN 1 FRANCE
+#EXTINF:-1 tvg-logo="https://psee.io/9mwdhz" group-title="SPORTSBITE CHANNELS (VPN)", DAZN 1 FRANCE
 https://sportsbite.org/247/dazn1fr
-#EXTINF:-1 tvg-logo="" group-title="SPORTSBITE CHANNELS (VPN)",1
-https://sportsbite.org/247/
 
 
 
@@ -128,7 +126,7 @@ https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.ph
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=mligacampeones/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zfY38SYr/ESPN-Deportes.png" group-title="STREAMXHD CHANNELS",ESPN DEPORTES SD
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=espndeportes/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zfY38SYr/ESPN-Deportes.png" group-title="STREAMXHD CHANNELS",DSPORTS SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://psee.io/9mwdeh" group-title="STREAMXHD CHANNELS",DSPORTS SD
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=dsports/stream.m3u8
 
 
