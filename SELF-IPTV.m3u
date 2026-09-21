@@ -97,12 +97,29 @@ https://sportsbite.org/247/mligadecampeones
 https://sportsbite.org/247/cbssportsnetwork
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGqV8Smb/logo.png" group-title="SPORTSBITE CHANNELS (VPN)",SKY SPORTS PREMIER LEAGUE
 https://sportsbite.org/247/skysportspremierleague
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiOw3sxZxHYU3-JZ05Zbj_t1O5qo1o0KtW9P0f87IkPA&s=10" group-title="SPORTSBITE CHANNELS (VPN)",PREMIER SPORTS 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiOw3sxZxHYU3-JZ05Zbj_t1O5qo1o0KtW9P0f87IkPA&s=10" group-title="SPORTSBITE CHANNELS (VPN)",PREMIER SPORTS 1 UK
 https://sportsbite.org/247/premiersports1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiOw3sxZxHYU3-JZ05Zbj_t1O5qo1o0KtW9P0f87IkPA&s=10" group-title="SPORTSBITE CHANNELS (VPN)",PREMIER SPORTS 1 IE
+https://sportsbite.org/t247/premier-sports-1-ie
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfY38SYr/ESPN-Deportes.png" group-title="SPORTSBITE CHANNELS (VPN)",ESPN DEPORTES
 https://sportsbite.org/247/espndeportes
+#EXTINF:-1 tvg-logo="" group-title="SPORTSBITE CHANNELS (VPN)",beIN SPORTS USA
+https://sportsbite.org/247/beinsportsus
+#EXTINF:-1 tvg-logo="" group-title="SPORTSBITE CHANNELS (VPN)",TUDN
+https://sportsbite.org/t247/tudn
+#EXTINF:-1 tvg-logo="" group-title="SPORTSBITE CHANNELS (VPN)",ESPN
+https://sportsbite.org/247/espn
+#EXTINF:-1 tvg-logo="" group-title="SPORTSBITE CHANNELS (VPN)", DAZN 1 FRANCE
+https://sportsbite.org/247/dazn1fr
+#EXTINF:-1 tvg-logo="" group-title="SPORTSBITE CHANNELS (VPN)",1
+https://sportsbite.org/247/
 
-#STREAMXHD CHANNELS
+
+
+
+
+
+#STREAMXHD SD CHANNELS
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="STREAMXHD CHANNELS",M+ LA LIGA 1 SD
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=mlaliga/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="STREAMXHD CHANNELS",DAZN LA LIGA SD
