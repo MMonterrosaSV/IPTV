@@ -31,6 +31,8 @@ https://wsdeportes.net/?v=dsports parseUrl=1
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/dsports-logo-png_seeklogo-626310.png" group-title="Channels",DSports (WSDeportes) PARSEURL2
 https://wsdeportes.net/?v=dsports parseUrl=2
 
+#EXTINF:-1 type="movie" group-title="Action" tvg-logo="" ,Xmen Days Of The Future Past
+https://vidcore.io/movie/tt1877832 parseUrl=1
 
 
 
