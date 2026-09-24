@@ -116,7 +116,6 @@ https://sportsbite.org/247/dazn1fr
 
 
 
-
 #STREAMXHD SD CHANNELS
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="STREAMXHD CHANNELS",M+ LA LIGA 1 SD
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=mlaliga/stream.m3u8
@@ -134,10 +133,53 @@ https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.ph
 
 
 
-
-
 #SELF LIVE EVENTS
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 1
 https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDQiLCJ0cyI6MTc4OTc2NTIwMDAwMH0=
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 2
 https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDQiLCJ0cyI6MTc4OTc2NTIwMDAwMH0=
+
+
+#TRIAL UPDATER WORKER CHANNELS
+#EXTINF:-1 group-title="weselliptv CHANNELS",La Liga BAR FHD
+http://iptv-trial.mmonterrosa970.workers.dev/user/pass/219561.ts
+#EXTINF:-1 group-title="weselliptv CHANNELS",LALIGA TV BAR FHD
+http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388177.ts
+#EXTINF:-1 group-title="weselliptv CHANNELS",LALIGA TV BAR 2
+http://iptv-trial.mmonterrosa970.workers.dev/user/pass/3139245.ts
+#EXTINF:-1 group-title="weselliptv CHANNELS",M La Liga FHD
+http://iptv-trial.mmonterrosa970.workers.dev/user/pass/219559.ts
+#EXTINF:-1 group-title="weselliptv CHANNELS",MOVISTAR LALIGA FHD
+http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388185.ts
+#EXTINF:-1 group-title="weselliptv CHANNELS",MOVISTAR LALIGA 1 FHD
+http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388187.ts
+#EXTINF:-1 group-title="weselliptv CHANNELS",MOVISTAR LALIGA 2 FHD
+http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388189.ts
+#EXTINF:-1 group-title="weselliptv CHANNELS",MOVISTAR LALIGA 3 HD
+http://iptv-trial.mmonterrosa970.workers.dev/user/pass/1649496.ts
+#EXTINF:-1 group-title="weselliptv CHANNELS",MOVISTAR DEPORTES1 FHD
+http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388204.ts
+#EXTINF:-1 group-title="weselliptv CHANNELS",MOVISTAR LIGA DE CAMPEONES HEVC
+http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388179.ts
+#EXTINF:-1 group-title="weselliptv CHANNELS",MOVISTAR LIGA DE CAMPEONES 1 HEVC
+http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388180.ts
+#EXTINF:-1 group-title="weselliptv CHANNELS",MOVISTAR LIGA DE CAMPEONES 2 HD
+http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388213.ts
+#EXTINF:-1 group-title="weselliptv CHANNELS",MOVISTAR LIGA DE CAMPEONES 3 HD
+http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388214.ts
+#EXTINF:-1 group-title="weselliptv CHANNELS",MOVISTAR LIGA DE CAMPEONES 4 HD
+http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388215.ts
+#EXTINF:-1 group-title="weselliptv CHANNELS",DAZN Laliga
+http://iptv-trial.mmonterrosa970.workers.dev/user/pass/2889146.ts
+#EXTINF:-1 group-title="weselliptv CHANNELS",LA 1 FHD
+http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388309.ts
+#EXTINF:-1 group-title="weselliptv CHANNELS",LA 2 FHD
+http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388313.ts
+#EXTINF:-1 group-title="weselliptv CHANNELS",CUATRO FHD
+http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388325.ts
+#EXTINF:-1 group-title="weselliptv CHANNELS",TELECINCO FHD
+http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388329.ts
+#EXTINF:-1 group-title="weselliptv CHANNELS",LA SEXTA FHD
+http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388333.ts
+#EXTINF:-1 group-title="weselliptv CHANNELS",CANAL SUR Andalucia
+http://iptv-trial.mmonterrosa970.workers.dev/user/pass/389585.ts
