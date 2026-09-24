@@ -141,45 +141,35 @@ https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDQiLC
 
 
 #TRIAL UPDATER WORKER CHANNELS
-#EXTINF:-1 group-title="weselliptv CHANNELS",La Liga BAR FHD
-http://iptv-trial.mmonterrosa970.workers.dev/user/pass/219561.ts
-#EXTINF:-1 group-title="weselliptv CHANNELS",LALIGA TV BAR FHD
-http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388177.ts
-#EXTINF:-1 group-title="weselliptv CHANNELS",LALIGA TV BAR 2
-http://iptv-trial.mmonterrosa970.workers.dev/user/pass/3139245.ts
-#EXTINF:-1 group-title="weselliptv CHANNELS",M La Liga FHD
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="weselliptv CHANNELS",M La Liga FHD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/219559.ts
-#EXTINF:-1 group-title="weselliptv CHANNELS",MOVISTAR LALIGA FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="weselliptv CHANNELS",MOVISTAR LALIGA FHD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388185.ts
-#EXTINF:-1 group-title="weselliptv CHANNELS",MOVISTAR LALIGA 1 FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="weselliptv CHANNELS",MOVISTAR LALIGA 1 FHD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388187.ts
-#EXTINF:-1 group-title="weselliptv CHANNELS",MOVISTAR LALIGA 2 FHD
+#EXTINF:-1 tvg-logo="" group-title="weselliptv CHANNELS",MOVISTAR LALIGA 2 FHD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388189.ts
-#EXTINF:-1 group-title="weselliptv CHANNELS",MOVISTAR LALIGA 3 HD
+#EXTINF:-1 tvg-logo="" group-title="weselliptv CHANNELS",MOVISTAR LALIGA 3 HD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/1649496.ts
-#EXTINF:-1 group-title="weselliptv CHANNELS",MOVISTAR DEPORTES1 FHD
-http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388204.ts
-#EXTINF:-1 group-title="weselliptv CHANNELS",MOVISTAR LIGA DE CAMPEONES HEVC
-http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388179.ts
-#EXTINF:-1 group-title="weselliptv CHANNELS",MOVISTAR LIGA DE CAMPEONES 1 HEVC
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="weselliptv CHANNELS",MOVISTAR LIGA DE CAMPEONES 1 HEVC
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388180.ts
-#EXTINF:-1 group-title="weselliptv CHANNELS",MOVISTAR LIGA DE CAMPEONES 2 HD
+#EXTINF:-1 tvg-logo="" group-title="weselliptv CHANNELS",MOVISTAR LIGA DE CAMPEONES 2 HD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388213.ts
-#EXTINF:-1 group-title="weselliptv CHANNELS",MOVISTAR LIGA DE CAMPEONES 3 HD
+#EXTINF:-1 tvg-logo="" group-title="weselliptv CHANNELS",MOVISTAR LIGA DE CAMPEONES 3 HD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388214.ts
-#EXTINF:-1 group-title="weselliptv CHANNELS",MOVISTAR LIGA DE CAMPEONES 4 HD
+#EXTINF:-1 tvg-logo="" group-title="weselliptv CHANNELS",MOVISTAR LIGA DE CAMPEONES 4 HD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388215.ts
-#EXTINF:-1 group-title="weselliptv CHANNELS",DAZN Laliga
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="weselliptv CHANNELS",DAZN Laliga
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/2889146.ts
-#EXTINF:-1 group-title="weselliptv CHANNELS",LA 1 FHD
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/la1detve/picture?width=200&height=200" group-title="weselliptv CHANNELS",LA 1 FHD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388309.ts
-#EXTINF:-1 group-title="weselliptv CHANNELS",LA 2 FHD
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="weselliptv CHANNELS",LA 2 FHD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388313.ts
-#EXTINF:-1 group-title="weselliptv CHANNELS",CUATRO FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67KsEnyfPJY2ThQCqu1KWuU0bKZIYgyQuLgGeGakqDxoC6RWxnB1Smjo&s=10" group-title="weselliptv CHANNELS",CUATRO FHD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388325.ts
-#EXTINF:-1 group-title="weselliptv CHANNELS",TELECINCO FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lzk7V8rG/960px-Telecinco-svg.png" group-title="weselliptv CHANNELS",TELECINCO FHD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388329.ts
-#EXTINF:-1 group-title="weselliptv CHANNELS",LA SEXTA FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLT60Ptv/SEXTA-LA.png" group-title="weselliptv CHANNELS",LA SEXTA FHD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388333.ts
-#EXTINF:-1 group-title="weselliptv CHANNELS",CANAL SUR Andalucia
-http://iptv-trial.mmonterrosa970.workers.dev/user/pass/389585.ts
+
