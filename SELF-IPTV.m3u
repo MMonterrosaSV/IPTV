@@ -3,53 +3,53 @@
 
 
 #ESPAÑA
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://graph.facebook.com/la1detve/picture?width=200&height=200" group-title="ESPAÑA",La 1 - RTVELIVESTREAM
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://graph.facebook.com/la1detve/picture?width=200&height=200" group-title="ESPAÑA",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
-#EXTINF:-1 tvg-id="la 2.es" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA",La 2 - RTVELIVESTREAM
+#EXTINF:-1 tvg-id="la 2.es" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA",La 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
-#EXTINF:-1 tvg-id="Canal24horas.es" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/02/IMG_20210223_202622_457.jpg" group-title="ESPAÑA",24h - ZTNR
+#EXTINF:-1 tvg-id="Canal24horas.es" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/02/IMG_20210223_202622_457.jpg" group-title="ESPAÑA",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://pbs.twimg.com/media/GyIXeuoWoAAUO30.jpg" group-title="ESPAÑA",Real Madrid TV - RMTV
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://pbs.twimg.com/media/GyIXeuoWoAAUO30.jpg" group-title="ESPAÑA",	Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-id="CanalSur.es" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="ESPAÑA",Canal Sur Andalucia - DFK2A268YVIZ9
+#EXTINF:-1 tvg-id="CanalSur.es" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="ESPAÑA", Canal Sur Andalucia
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
-#EXTINF:-1 tvg-id="Historia.es" tvg-logo="https://i.ibb.co/9mV97mzC/images-q-tbn-ANd9-Gc-Sw-RB5n-O-JCDxg-YEj-Thd-Uoj-HIRi-00eg-Bn-Fy-OD2-N-u-M3vud8f-GCr-Duu-Rd-X-s-10.jpg" group-title="ESPAÑA",Historia - D1K3VZH2IVY22K
+#EXTINF:-1 tvg-id="Historia.es" tvg-logo="https://i.ibb.co/9mV97mzC/images-q-tbn-ANd9-Gc-Sw-RB5n-O-JCDxg-YEj-Thd-Uoj-HIRi-00eg-Bn-Fy-OD2-N-u-M3vud8f-GCr-Duu-Rd-X-s-10.jpg" group-title="ESPAÑA",	Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia720.m3u8
-#EXTINF:-1 tvg-id="OndaCero.TV" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="ESPAÑA",Onda Cero - ATRES-LIVE
+#EXTINF:-1 tvg-id="OndaCero.TV" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="ESPAÑA", Onda Cero
 https://atres-live.ondacero.es/h264/live/obs/master.m3u8
 
 
 #El Salvador
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZSktjGB.png" group-title="EL SALVADOR",El Camino TV (480p) - 5D32E2B9B7EED
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZSktjGB.png" group-title="EL SALVADOR",El Camino TV (480p)
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="EL SALVADOR",Agape TV (720p) - 5FC584F3F19C9
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="EL SALVADOR",Agape TV (720p)
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="EL SALVADOR",Canal 10 (720p) - 5CA3E84A76D30
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="EL SALVADOR",Canal 10 (720p)
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/itqQEux.png" group-title="EL SALVADOR",Canal 11 TuTV (349p) - GIOSTREAMING
+#EXTINF:-1 tvg-logo="https://i.imgur.com/itqQEux.png" group-title="EL SALVADOR",Canal 11 TuTV (349p)
 https://stream.giostreaming.app/canal11/canal11.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LNWGe1D.jpg" group-title="EL SALVADOR",Josué TV (1080p) - VIDEOSERVER
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LNWGe1D.jpg" group-title="EL SALVADOR",Josué TV (1080p)
 https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/voyVP6X.png" group-title="EL SALVADOR",Megavisión Canal 19 (720p) - MGVCHANNEL19-IORIVER-CDN
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/voyVP6X.png" group-title="EL SALVADOR",Megavisión Canal 19 (720p)
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HbdYU9k.png" group-title="EL SALVADOR",Megavisión Canal 21 (720p) - MGVCHANNEL21-IORIVER-CDN
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HbdYU9k.png" group-title="EL SALVADOR",Megavisión Canal 21 (720p)
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ikq2iSf.png" group-title="EL SALVADOR",Taber TV (1080p) - 5FC584F3F19C9
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ikq2iSf.png" group-title="EL SALVADOR",Taber TV (1080p)
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
 
 
 INTERNATIONAL
-#EXTINF:-1 tvg-id="CNNInt.TV" tvg-logo="https://graph.facebook.com/cnninternational/picture?width=200&height=200" group-title="INTERNATIONAL",CNN Internacional - DS2C506OBO7M8
+#EXTINF:-1 tvg-id="CNNInt.TV" tvg-logo="https://graph.facebook.com/cnninternational/picture?width=200&height=200" group-title="INTERNATIONAL",CNN Internacional
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
-#EXTINF:-1 tvg-id="Bloom.TV" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" group-title="INTERNATIONAL",Bloomberg Europe EN - BLOOMBERG
+#EXTINF:-1 tvg-id="Bloom.TV" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" group-title="INTERNATIONAL",Bloomberg Europe EN
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/skynews/picture?width=200&height=200" group-title="INTERNATIONAL",Sky News Reino Unido EN - DQCO14BU26P3Z
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/skynews/picture?width=200&height=200" group-title="INTERNATIONAL",Sky News Reino Unido EN
 https://dqco14bu26p3z.cloudfront.net/30505/89006005/hls/master.m3u8?ads.xumo_channelId=89006005&ads.xumo_streamId=89006005
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200" group-title="INTERNATIONAL",FOX Live Now USA EN - FOX-FOXNEWSNOW-SAMSUNGUS
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200" group-title="INTERNATIONAL",FOX Live Now USA EN
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200" group-title="INTERNATIONAL",CBS News USA EN - CBSN-US
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200" group-title="INTERNATIONAL",CBS News USA EN
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" group-title="INTERNATIONAL",Bloomberg USA EN - BLOOMBERG
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" group-title="INTERNATIONAL",Bloomberg USA EN
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
 
 
@@ -57,59 +57,59 @@ https://www.bloomberg.com/media-manifest/streams/us.m3u8
 
 #TVNOW.ST CHANNELS
 #USES WORKER TO ATTACH REFERRER
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zfY38SYr/ESPN-Deportes.png" group-title="USA",ESPN DEPORTES - TVNOW-ST
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zfY38SYr/ESPN-Deportes.png" group-title="TVNOW ST CHANNELS",ESPN DEPORTES
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0nrho3t18foyt90zv7vs9/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/cbs-sports-network" group-title="USA",CBS Sports Network - TVNOW-ST
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/cbs-sports-network" group-title="TVNOW ST CHANNELS",CBS Sports Network
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/1ht5wwv045ffdr1yt1h5m/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/cbs-sports-golazo" group-title="USA",CBS Sports Golazo - TVNOW-ST
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/cbs-sports-golazo" group-title="TVNOW ST CHANNELS",CBS Sports Golazo
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0vl080s1fk68hn0xvn6n6/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/fox-soccer-plus" group-title="USA",Fox Soccer Plus - TVNOW-ST
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/fox-soccer-plus" group-title="TVNOW ST CHANNELS",Fox Soccer Plus
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0rz24u91w9fbp407eceyc/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/fox-deportes" group-title="USA",Fox Deportes - TVNOW-ST
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/fox-deportes" group-title="TVNOW ST CHANNELS",Fox Deportes
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0abl34w0f29hih0e5qgvt/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/fox-sports-1" group-title="USA",Fox Sports 1 - TVNOW-ST
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/fox-sports-1" group-title="TVNOW ST CHANNELS",Fox Sports 1
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/05aface108ill80oiq61q/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/fox-sports-2" group-title="USA",Fox Sports 2 - TVNOW-ST
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/fox-sports-2" group-title="TVNOW ST CHANNELS",Fox Sports 2
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/13r6cob1fh05tc1261qhx/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/nba-tv" group-title="USA",NBA TV - TVNOW-ST
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/nba-tv" group-title="TVNOW ST CHANNELS",NBA TV
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0urww831mcu7290iaifzl/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/nfl-redzone" group-title="USA",NFL RedZone - TVNOW-ST
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/nfl-redzone" group-title="TVNOW ST CHANNELS",NFL RedZone
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/1cbg6qo1qp8wpc0vuu0v1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/cnbc" group-title="USA",CNBC - TVNOW-ST
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/cnbc" group-title="TVNOW ST CHANNELS",CNBC
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0f06lpb0ljqelj0qrw1ol/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/telemundo" group-title="USA",Telemundo - TVNOW-ST
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/telemundo" group-title="TVNOW ST CHANNELS",Telemundo
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/09ltl4b04motoc143frk0/master.m3u8
-#EXTINF:-1 tvg-logo="https://tvnow.st/logo/univision" group-title="USA",Univision - TVNOW-ST
+#EXTINF:-1 tvg-logo="https://tvnow.st/logo/univision" group-title="TVNOW ST CHANNELS",Univision
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/1y0agop1si0do21153kpq/master.m3u8
-#EXTINF:-1 tvg-logo="https://tvnow.st/logo/hbo" group-title="USA",HBO - TVNOW-ST
+#EXTINF:-1 tvg-logo="https://tvnow.st/logo/hbo" group-title="TVNOW ST CHANNELS", HBO
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0vyvl7y1gwwplb0m12enw/master.m3u8
-#EXTINF:-1 tvg-logo="https://tvnow.st/logo/hbo-2" group-title="USA",HBO 2 - TVNOW-ST
+#EXTINF:-1 tvg-logo="https://tvnow.st/logo/hbo-2" group-title="TVNOW ST CHANNELS",HBO 2
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0bw1dc40kywxrm1y8ftlz/master.m3u8
 
 
 
 #SPORTSBITE ORG CHANNELS
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="ESPAÑA DEPORTES",DAZN LA LIGA 1 - SPORTSBITE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="SPORTSBITE CHANNELS (VPN)",DAZN LA LIGA 1
 https://sportsbite.org/247/daznlaliga
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES - SPORTSBITE
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="SPORTSBITE CHANNELS (VPN)",M+ LIGA DE CAMPEONES
 https://sportsbite.org/247/mligadecampeones
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcshs5Fw/CBS-Sports.png" group-title="USA",CBS SPORTS NETWORK - SPORTSBITE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcshs5Fw/CBS-Sports.png" group-title="SPORTSBITE CHANNELS (VPN)",CBS SPORTS NETWORK
 https://sportsbite.org/247/cbssportsnetwork
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fGqV8Smb/logo.png" group-title="UK",SKY SPORTS PREMIER LEAGUE - SPORTSBITE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fGqV8Smb/logo.png" group-title="SPORTSBITE CHANNELS (VPN)",SKY SPORTS PREMIER LEAGUE
 https://sportsbite.org/247/skysportspremierleague
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiOw3sxZxHYU3-JZ05Zbj_t1O5qo1o0KtW9P0f87IkPA&s=10" group-title="UK",PREMIER SPORTS 1 UK - SPORTSBITE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiOw3sxZxHYU3-JZ05Zbj_t1O5qo1o0KtW9P0f87IkPA&s=10" group-title="SPORTSBITE CHANNELS (VPN)",PREMIER SPORTS 1 UK
 https://sportsbite.org/247/premiersports1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiOw3sxZxHYU3-JZ05Zbj_t1O5qo1o0KtW9P0f87IkPA&s=10" group-title="IRELAND",PREMIER SPORTS 1 IE - SPORTSBITE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiOw3sxZxHYU3-JZ05Zbj_t1O5qo1o0KtW9P0f87IkPA&s=10" group-title="SPORTSBITE CHANNELS (VPN)",PREMIER SPORTS 1 IE
 https://sportsbite.org/t247/premier-sports-1-ie
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfY38SYr/ESPN-Deportes.png" group-title="USA",ESPN DEPORTES - SPORTSBITE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfY38SYr/ESPN-Deportes.png" group-title="SPORTSBITE CHANNELS (VPN)",ESPN DEPORTES
 https://sportsbite.org/247/espndeportes
-#EXTINF:-1 tvg-logo="https://psee.io/9mwdf8" group-title="USA",beIN SPORTS USA - SPORTSBITE
+#EXTINF:-1 tvg-logo="https://psee.io/9mwdf8" group-title="SPORTSBITE CHANNELS (VPN)",beIN SPORTS USA
 https://sportsbite.org/247/beinsportsus
-#EXTINF:-1 tvg-logo="https://psee.io/9mwdfh" group-title="USA",TUDN - SPORTSBITE
+#EXTINF:-1 tvg-logo="https://psee.io/9mwdfh" group-title="SPORTSBITE CHANNELS (VPN)",TUDN
 https://sportsbite.org/t247/tudn
-#EXTINF:-1 tvg-logo="https://psee.io/9mwdg5" group-title="USA",ESPN - SPORTSBITE
+#EXTINF:-1 tvg-logo="https://psee.io/9mwdg5" group-title="SPORTSBITE CHANNELS (VPN)",ESPN
 https://sportsbite.org/247/espn
-#EXTINF:-1 tvg-logo="https://psee.io/9mwdhz" group-title="FRANCE",DAZN 1 FRANCE - SPORTSBITE
+#EXTINF:-1 tvg-logo="https://psee.io/9mwdhz" group-title="SPORTSBITE CHANNELS (VPN)", DAZN 1 FRANCE
 https://sportsbite.org/247/dazn1fr
 
 
@@ -117,15 +117,15 @@ https://sportsbite.org/247/dazn1fr
 
 
 #STREAMXHD SD CHANNELS
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="ESPAÑA DEPORTES",DAZN LA LIGA SD - STREAMXHD
-https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=daznlaliga/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA DEPORTES",M+ LA LIGA 1 SD - STREAMXHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="STREAMXHD CHANNELS",M+ LA LIGA 1 SD
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=mlaliga/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 1 SD - STREAMXHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="STREAMXHD CHANNELS",DAZN LA LIGA SD
+https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=daznlaliga/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="STREAMXHD CHANNELS",M+ LIGA DE CAMPEONES 1 SD
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=mligacampeones/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zfY38SYr/ESPN-Deportes.png" group-title="USA",ESPN DEPORTES SD - STREAMXHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zfY38SYr/ESPN-Deportes.png" group-title="STREAMXHD CHANNELS",ESPN DEPORTES SD
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=espndeportes/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://psee.io/9mwdeh" group-title="ARGENTINA",DSPORTS SD - STREAMXHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://psee.io/9mwdeh" group-title="STREAMXHD CHANNELS",DSPORTS SD
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=dsports/stream.m3u8
 
 
@@ -134,40 +134,41 @@ https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.ph
 
 
 #SELF LIVE EVENTS
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 1 - TVNOW247-PLAYLIST
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 1 NEW NOW247 WORKER
 https://tvnow247-playlist.mmonterrosa970.workers.dev/?id=84
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 2 - CHUNK
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 2
 https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDQiLCJ0cyI6MTc4OTc2NTIwMDAwMH0=
 
 
 #TRIAL UPDATER WORKER CHANNELS
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="ESPAÑA DEPORTES",DAZN LA LIGA - IPTV-TRIAL
-http://iptv-trial.mmonterrosa970.workers.dev/user/pass/2889146.ts
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA DEPORTES",M+ LA LIGA 1 - IPTV-TRIAL
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="weselliptv CHANNELS",M La Liga FHD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/219559.ts
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA DEPORTES",M+ LA LIGA 1 - IPTV-TRIAL
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="weselliptv CHANNELS",MOVISTAR LALIGA FHD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388185.ts
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA DEPORTES",M+ LA LIGA 1 - IPTV-TRIAL
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="weselliptv CHANNELS",MOVISTAR LALIGA 1 FHD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388187.ts
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LA LIGA 2 - IPTV-TRIAL
+#EXTINF:-1 tvg-logo="" group-title="weselliptv CHANNELS",MOVISTAR LALIGA 2 FHD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388189.ts
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LA LIGA 3 - IPTV-TRIAL
+#EXTINF:-1 tvg-logo="" group-title="weselliptv CHANNELS",MOVISTAR LALIGA 3 HD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/1649496.ts
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 1 - IPTV-TRIAL
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="weselliptv CHANNELS",MOVISTAR LIGA DE CAMPEONES 1 HEVC
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388180.ts
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 2 - IPTV-TRIAL
+#EXTINF:-1 tvg-logo="" group-title="weselliptv CHANNELS",MOVISTAR LIGA DE CAMPEONES 2 HD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388213.ts
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 3 - IPTV-TRIAL
+#EXTINF:-1 tvg-logo="" group-title="weselliptv CHANNELS",MOVISTAR LIGA DE CAMPEONES 3 HD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388214.ts
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 4 - IPTV-TRIAL
+#EXTINF:-1 tvg-logo="" group-title="weselliptv CHANNELS",MOVISTAR LIGA DE CAMPEONES 4 HD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388215.ts
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/la1detve/picture?width=200&height=200" group-title="ESPAÑA",LA 1 - IPTV-TRIAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="weselliptv CHANNELS",DAZN Laliga
+http://iptv-trial.mmonterrosa970.workers.dev/user/pass/2889146.ts
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/la1detve/picture?width=200&height=200" group-title="weselliptv CHANNELS",LA 1 FHD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388309.ts
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA",LA 2 - IPTV-TRIAL
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="weselliptv CHANNELS",LA 2 FHD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388313.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67KsEnyfPJY2ThQCqu1KWuU0bKZIYgyQuLgGeGakqDxoC6RWxnB1Smjo&s=10" group-title="ESPAÑA",CUATRO - IPTV-TRIAL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67KsEnyfPJY2ThQCqu1KWuU0bKZIYgyQuLgGeGakqDxoC6RWxnB1Smjo&s=10" group-title="weselliptv CHANNELS",CUATRO FHD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388325.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lzk7V8rG/960px-Telecinco-svg.png" group-title="ESPAÑA",TELECINCO - IPTV-TRIAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lzk7V8rG/960px-Telecinco-svg.png" group-title="weselliptv CHANNELS",TELECINCO FHD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388329.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gLT60Ptv/SEXTA-LA.png" group-title="ESPAÑA",LA SEXTA - IPTV-TRIAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLT60Ptv/SEXTA-LA.png" group-title="weselliptv CHANNELS",LA SEXTA FHD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388333.ts
