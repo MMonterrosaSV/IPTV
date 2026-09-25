@@ -134,8 +134,8 @@ https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.ph
 
 
 #SELF LIVE EVENTS
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 1
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDQiLCJ0cyI6MTc4OTc2NTIwMDAwMH0=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 1 NEW NOW247 WORKER
+https://tvnow247-playlist.mmonterrosa970.workers.dev/?id=84
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SELF LIVE EVENTS",Event 2
 https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDQiLCJ0cyI6MTc4OTc2NTIwMDAwMH0=
 
