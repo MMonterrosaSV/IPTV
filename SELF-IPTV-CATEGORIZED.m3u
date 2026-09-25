@@ -38,43 +38,44 @@ https://d1k3vzh2ivy22k.cloudfront.net/Historia720.m3u8
 #EXTINF:-1 tvg-id="OndaCero.TV" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="ESPAÑA", Onda Cero ATRES-LIVE
 https://atres-live.ondacero.es/h264/live/obs/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="ESPAÑA",DAZN LA LIGA 1 SD STREAMXHD
+#ESPAÑA DEPORTES
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="ESPAÑA DEPORTES",DAZN LA LIGA 1 SD STREAMXHD
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=daznlaliga/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="ESPAÑA",DAZN LA LIGA 1 SPORTSBITE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="ESPAÑA DEPORTES",DAZN LA LIGA 1 SPORTSBITE
 https://sportsbite.org/247/daznlaliga
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/1/dazn-laliga-logo-png_seeklogo-490009.png" group-title="ESPAÑA",DAZN LA LIGA 1 TVNOW247-PLAYLIST
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/1/dazn-laliga-logo-png_seeklogo-490009.png" group-title="ESPAÑA DEPORTES",DAZN LA LIGA 1 TVNOW247-PLAYLIST
 https://tvnow247-playlist.mmonterrosa970.workers.dev/?id=538
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="ESPAÑA",DAZN LA LIGA 1 IPTV-TRIAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="ESPAÑA DEPORTES",DAZN LA LIGA 1 IPTV-TRIAL
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/2889146.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA",M+ LA LIGA 1 SD STREAMXHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA DEPORTES",M+ LA LIGA 1 SD STREAMXHD
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=mlaliga/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA",M+ LA LIGA 1 TVNOW247-PLAYLIST
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA DEPORTES",M+ LA LIGA 1 TVNOW247-PLAYLIST
 https://tvnow247-playlist.mmonterrosa970.workers.dev/?id=84
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA",M+ LA LIGA 1 IPTV-TRIAL
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA DEPORTES",M+ LA LIGA 1 IPTV-TRIAL
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/219559.ts
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA",M+ LA LIGA 1 IPTV-TRIAL
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA DEPORTES",M+ LA LIGA 1 IPTV-TRIAL
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388185.ts
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA",M+ LA LIGA 1 IPTV-TRIAL
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA DEPORTES",M+ LA LIGA 1 IPTV-TRIAL
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388187.ts
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",M+ LA LIGA 2 IPTV-TRIAL
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LA LIGA 2 IPTV-TRIAL
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388189.ts
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",M+ LA LIGA 3 IPTV-TRIAL
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LA LIGA 3 IPTV-TRIAL
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/1649496.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA",M+ LIGA DE CAMPEONES 1 SD STREAMXHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 1 SD STREAMXHD
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=mligacampeones/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA",M+ LIGA DE CAMPEONES 1 SPORTSBITE
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 1 SPORTSBITE
 https://sportsbite.org/247/mligadecampeones
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA",M+ LIGA DE CAMPEONES 1 TVNOW247-PLAYLIST
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 1 TVNOW247-PLAYLIST
 https://tvnow247-playlist.mmonterrosa970.workers.dev/?id=435
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA",M+ LIGA DE CAMPEONES 1 IPTV-TRIAL
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 1 IPTV-TRIAL
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388180.ts
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",M+ LIGA DE CAMPEONES 2 IPTV-TRIAL
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 2 IPTV-TRIAL
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388213.ts
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",M+ LIGA DE CAMPEONES 3 IPTV-TRIAL
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 3 IPTV-TRIAL
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388214.ts
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",M+ LIGA DE CAMPEONES 4 IPTV-TRIAL
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 4 IPTV-TRIAL
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388215.ts
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/1/deportes-por-movistar-plus-logo-png_seeklogo-492841.png" group-title="ESPAÑA",MOVISTAR DEPORTES 1 TVNOW247-PLAYLIST
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/1/deportes-por-movistar-plus-logo-png_seeklogo-492841.png" group-title="ESPAÑA DEPORTES",MOVISTAR DEPORTES 1 TVNOW247-PLAYLIST
 https://tvnow247-playlist.mmonterrosa970.workers.dev/?id=436
 
 
