@@ -7,25 +7,25 @@
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/la1detve/picture?width=200&height=200" group-title="ESPAÑA",LA 1
 https://tvnow247-playlist.mmonterrosa970.workers.dev/?id=533
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/la1detve/picture?width=200&height=200" group-title="ESPAÑA",LA 1 FHD
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/la1detve/picture?width=200&height=200" group-title="ESPAÑA",LA 1 
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388309.ts
 #EXTINF:-1 tvg-id="la 2.es" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA",La 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA",LA 2
 https://tvnow247-playlist.mmonterrosa970.workers.dev/?id=536
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA",LA 2 FHD
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA",LA 2 
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388313.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67KsEnyfPJY2ThQCqu1KWuU0bKZIYgyQuLgGeGakqDxoC6RWxnB1Smjo&s=10" group-title="ESPAÑA",CUATRO
 https://tvnow247-playlist.mmonterrosa970.workers.dev/?id=535
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67KsEnyfPJY2ThQCqu1KWuU0bKZIYgyQuLgGeGakqDxoC6RWxnB1Smjo&s=10" group-title="ESPAÑA",CUATRO FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67KsEnyfPJY2ThQCqu1KWuU0bKZIYgyQuLgGeGakqDxoC6RWxnB1Smjo&s=10" group-title="ESPAÑA",CUATRO
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388325.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lzk7V8rG/960px-Telecinco-svg.png" group-title="ESPAÑA",TELECINCO
 https://tvnow247-playlist.mmonterrosa970.workers.dev/?id=532
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lzk7V8rG/960px-Telecinco-svg.png" group-title="ESPAÑA",TELECINCO FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lzk7V8rG/960px-Telecinco-svg.png" group-title="ESPAÑA",TELECINCO
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388329.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLT60Ptv/SEXTA-LA.png" group-title="ESPAÑA",LA SEXTA
 https://tvnow247-playlist.mmonterrosa970.workers.dev/?id=534
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gLT60Ptv/SEXTA-LA.png" group-title="ESPAÑA",LA SEXTA FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLT60Ptv/SEXTA-LA.png" group-title="ESPAÑA",LA SEXTA
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388333.ts
 #EXTINF:-1 tvg-id="Canal24horas.es" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/02/IMG_20210223_202622_457.jpg" group-title="ESPAÑA",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
@@ -38,41 +38,41 @@ https://d1k3vzh2ivy22k.cloudfront.net/Historia720.m3u8
 #EXTINF:-1 tvg-id="OndaCero.TV" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="ESPAÑA", Onda Cero
 https://atres-live.ondacero.es/h264/live/obs/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="ESPAÑA",DAZN LA LIGA SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="ESPAÑA",DAZN LA LIGA 1 SD
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=daznlaliga/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="ESPAÑA",DAZN LA LIGA 1
 https://sportsbite.org/247/daznlaliga
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/1/dazn-laliga-logo-png_seeklogo-490009.png" group-title="ESPAÑA",DAZN LA LIGA 1
 https://tvnow247-playlist.mmonterrosa970.workers.dev/?id=538
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="ESPAÑA",DAZN LA LIGA 1
+http://iptv-trial.mmonterrosa970.workers.dev/user/pass/2889146.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA",M+ LA LIGA 1 SD
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=mlaliga/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="ESPAÑA",DAZN Laliga
-http://iptv-trial.mmonterrosa970.workers.dev/user/pass/2889146.ts
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA",MOVISTAR LA LIGA 1
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA",M+ LA LIGA 1
 https://tvnow247-playlist.mmonterrosa970.workers.dev/?id=84
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA",M La Liga FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA",M+ LA LIGA 1
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/219559.ts
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA",MOVISTAR LALIGA FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA",M+ LA LIGA 1
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388185.ts
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA",MOVISTAR LALIGA 1 FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA",M+ LA LIGA 1
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388187.ts
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",MOVISTAR LALIGA 2 FHD
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",M+ LA LIGA 2
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388189.ts
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",MOVISTAR LALIGA 3 HD
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",M+ LA LIGA 3
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/1649496.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA",M+ LIGA DE CAMPEONES 1 SD
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=mligacampeones/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA",M+ LIGA DE CAMPEONES
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA",M+ LIGA DE CAMPEONES 1
 https://sportsbite.org/247/mligadecampeones
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA",M+ LIGA DE CAMPEONES 1
 https://tvnow247-playlist.mmonterrosa970.workers.dev/?id=435
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA",MOVISTAR LIGA DE CAMPEONES 1 HEVC
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA",M+ LIGA DE CAMPEONES 1
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388180.ts
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",MOVISTAR LIGA DE CAMPEONES 2 HD
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",M+ LIGA DE CAMPEONES 2
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388213.ts
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",MOVISTAR LIGA DE CAMPEONES 3 HD
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",M+ LIGA DE CAMPEONES 3
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388214.ts
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",MOVISTAR LIGA DE CAMPEONES 4 HD
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",M+ LIGA DE CAMPEONES 4
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388215.ts
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/1/deportes-por-movistar-plus-logo-png_seeklogo-492841.png" group-title="ESPAÑA",MOVISTAR DEPORTES 1
 https://tvnow247-playlist.mmonterrosa970.workers.dev/?id=436
@@ -134,7 +134,7 @@ https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/09
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/1y0agop1si0do21153kpq/master.m3u8
 #EXTINF:-1 tvg-logo="https://tvnow.st/logo/hbo" group-title="USA", HBO
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0vyvl7y1gwwplb0m12enw/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-logo-png_seeklogo-65764.png" group-title="USA",HBO USA
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-logo-png_seeklogo-65764.png" group-title="USA",HBO
 https://tvnow247-playlist.mmonterrosa970.workers.dev/?id=321
 #EXTINF:-1 tvg-logo="https://tvnow.st/logo/hbo-2" group-title="USA",HBO 2
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0bw1dc40kywxrm1y8ftlz/master.m3u8
