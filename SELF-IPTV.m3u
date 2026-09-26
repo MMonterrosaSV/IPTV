@@ -140,6 +140,13 @@ https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=469&1
 https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=375&1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fGqV8Smb/logo.png" group-title="DDLIVE CHANNELS",SKY SPORTS Premier League
 https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=130&1
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/49/1/deportes-por-movistar-plus-logo-png_seeklogo-492841.png" group-title="DDLIVE CHANNELS",MOVISTAR DEPORTES 1
+https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=436&1
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/33/1/dazn-logo-png_seeklogo-337837.png" group-title="DDLIVE CHANNELS",DAZN 1 ESPAÑA
+https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=445&1
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/33/1/la-sexta-logo-png_seeklogo-335953.png" group-title="DDLIVE CHANNELS",LA SEXTA
+https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=534&1
+
 
 
 
