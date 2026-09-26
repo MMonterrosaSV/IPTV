@@ -5,18 +5,18 @@
 #ESPAÑA
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://graph.facebook.com/la1detve/picture?width=200&height=200" group-title="ESPAÑA",La 1 RTVELIVESTREAM
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/la1detve/picture?width=200&height=200" group-title="ESPAÑA",LA 1 IPTV-TRIAL
-http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388309.ts
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/la1detve/picture?width=200&height=200" group-title="ESPAÑA",LA 1 WESELLIPTV
+http://weselliptv.mmonterrosa970.workers.dev/user/pass/388309.ts
 #EXTINF:-1 tvg-id="la 2.es" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA",La 2 RTVELIVESTREAM
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA",LA 2 IPTV-TRIAL
-http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388313.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67KsEnyfPJY2ThQCqu1KWuU0bKZIYgyQuLgGeGakqDxoC6RWxnB1Smjo&s=10" group-title="ESPAÑA",CUATRO IPTV-TRIAL
-http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388325.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lzk7V8rG/960px-Telecinco-svg.png" group-title="ESPAÑA",TELECINCO IPTV-TRIAL
-http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388329.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gLT60Ptv/SEXTA-LA.png" group-title="ESPAÑA",LA SEXTA IPTV-TRIAL
-http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388333.ts
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA",LA 2 WESELLIPTV
+http://weselliptv.mmonterrosa970.workers.dev/user/pass/388313.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67KsEnyfPJY2ThQCqu1KWuU0bKZIYgyQuLgGeGakqDxoC6RWxnB1Smjo&s=10" group-title="ESPAÑA",CUATRO WESELLIPTV
+http://weselliptv.mmonterrosa970.workers.dev/user/pass/388325.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lzk7V8rG/960px-Telecinco-svg.png" group-title="ESPAÑA",TELECINCO WESELLIPTV
+http://weselliptv.mmonterrosa970.workers.dev/user/pass/388329.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLT60Ptv/SEXTA-LA.png" group-title="ESPAÑA",LA SEXTA WESELLIPTV
+http://weselliptv.mmonterrosa970.workers.dev/user/pass/388333.ts
 #EXTINF:-1 tvg-id="Canal24horas.es" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/02/IMG_20210223_202622_457.jpg" group-title="ESPAÑA",24h RTVE
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://pbs.twimg.com/media/GyIXeuoWoAAUO30.jpg" group-title="ESPAÑA",Real Madrid TV RMTV
@@ -33,32 +33,32 @@ https://atres-live.ondacero.es/h264/live/obs/master.m3u8
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=daznlaliga/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="ESPAÑA DEPORTES",DAZN LA LIGA 1 SPORTSBITE
 https://sportsbite.org/247/daznlaliga
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="ESPAÑA DEPORTES",DAZN LA LIGA 1 IPTV-TRIAL
-http://iptv-trial.mmonterrosa970.workers.dev/user/pass/2889146.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="ESPAÑA DEPORTES",DAZN LA LIGA 1 WESELLIPTV
+http://weselliptv.mmonterrosa970.workers.dev/user/pass/2889146.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA DEPORTES",M+ LA LIGA 1 SD STREAMXHD
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=mlaliga/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA DEPORTES",M+ LA LIGA 1 IPTV-TRIAL
-http://iptv-trial.mmonterrosa970.workers.dev/user/pass/219559.ts
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA DEPORTES",M+ LA LIGA 1 IPTV-TRIAL
-http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388185.ts
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA DEPORTES",M+ LA LIGA 1 IPTV-TRIAL
-http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388187.ts
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LA LIGA 2 IPTV-TRIAL
-http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388189.ts
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LA LIGA 3 IPTV-TRIAL
-http://iptv-trial.mmonterrosa970.workers.dev/user/pass/1649496.ts
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA DEPORTES",M+ LA LIGA 1 WESELLIPTV
+http://weselliptv.mmonterrosa970.workers.dev/user/pass/219559.ts
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA DEPORTES",M+ LA LIGA 1 WESELLIPTV
+http://weselliptv.mmonterrosa970.workers.dev/user/pass/388185.ts
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA DEPORTES",M+ LA LIGA 1 WESELLIPTV
+http://weselliptv.mmonterrosa970.workers.dev/user/pass/388187.ts
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LA LIGA 2 WESELLIPTV
+http://weselliptv.mmonterrosa970.workers.dev/user/pass/388189.ts
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LA LIGA 3 WESELLIPTV
+http://weselliptv.mmonterrosa970.workers.dev/user/pass/1649496.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 1 SD STREAMXHD
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=mligacampeones/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 1 SPORTSBITE
 https://sportsbite.org/247/mligadecampeones
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 1 IPTV-TRIAL
-http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388180.ts
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 2 IPTV-TRIAL
-http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388213.ts
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 3 IPTV-TRIAL
-http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388214.ts
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 4 IPTV-TRIAL
-http://iptv-trial.mmonterrosa970.workers.dev/user/pass/388215.ts
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 1 WESELLIPTV
+http://weselliptv.mmonterrosa970.workers.dev/user/pass/388180.ts
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 2 WESELLIPTV
+http://weselliptv.mmonterrosa970.workers.dev/user/pass/388213.ts
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 3 WESELLIPTV
+http://weselliptv.mmonterrosa970.workers.dev/user/pass/388214.ts
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 4 WESELLIPTV
+http://weselliptv.mmonterrosa970.workers.dev/user/pass/388215.ts
 
 
 
