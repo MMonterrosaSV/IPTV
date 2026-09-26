@@ -129,8 +129,17 @@ https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.ph
 #EXTINF:-1 tvg-id="" tvg-logo="https://psee.io/9mwdeh" group-title="STREAMXHD CHANNELS",DSPORTS SD
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=dsports/stream.m3u8
 
-
-
+#DDLIVE RESOLVER
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="DDLIVE CHANNELS",M+ LA LIGA 1
+https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=84&1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="DDLIVE CHANNELS",DAZN LA LIGA 1
+https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=538&1
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/16/1/tf1-logo-png_seeklogo-169793.png" group-title="DDLIVE CHANNELS",TF1
+https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=469&1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zfY38SYr/ESPN-Deportes.png" group-title="DDLIVE CHANNELS",ESPN DEPORTES
+https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=375&1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fGqV8Smb/logo.png" group-title="DDLIVE CHANNELS",SKY SPORTS Premier League
+https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=130&1
 
 
 
@@ -142,7 +151,6 @@ https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDQiLC
 
 
 #TRIAL UPDATER WORKER CHANNELS
-
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="weselliptv CHANNELS",M La Liga FHD
 http://iptv-trial.mmonterrosa970.workers.dev/user/pass/219559.ts
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="weselliptv CHANNELS",MOVISTAR LALIGA FHD
