@@ -3,29 +3,33 @@
 
 
 #ESPAÑA
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://graph.facebook.com/la1detve/picture?width=200&height=200" group-title="ESPAÑA",La 1 RTVELIVESTREAM
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://graph.facebook.com/la1detve/picture?width=200&height=200" group-title="ESPAÑA",La 1 - RTVELIVESTREAM
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/la1detve/picture?width=200&height=200" group-title="ESPAÑA",LA 1 WESELLIPTV
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/la1detve/picture?width=200&height=200" group-title="ESPAÑA",LA 1 - WESELLIPTV
 http://weselliptv.mmonterrosa970.workers.dev/user/pass/388309.ts
-#EXTINF:-1 tvg-id="la 2.es" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA",La 2 RTVELIVESTREAM
+#EXTINF:-1 tvg-id="la 2.es" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA",La 2 - RTVELIVESTREAM
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA",LA 2 WESELLIPTV
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA",LA 2 - WESELLIPTV
 http://weselliptv.mmonterrosa970.workers.dev/user/pass/388313.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67KsEnyfPJY2ThQCqu1KWuU0bKZIYgyQuLgGeGakqDxoC6RWxnB1Smjo&s=10" group-title="ESPAÑA",CUATRO WESELLIPTV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67KsEnyfPJY2ThQCqu1KWuU0bKZIYgyQuLgGeGakqDxoC6RWxnB1Smjo&s=10" group-title="ESPAÑA",CUATRO - WESELLIPTV
 http://weselliptv.mmonterrosa970.workers.dev/user/pass/388325.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lzk7V8rG/960px-Telecinco-svg.png" group-title="ESPAÑA",TELECINCO WESELLIPTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lzk7V8rG/960px-Telecinco-svg.png" group-title="ESPAÑA",TELECINCO - WESELLIPTV
 http://weselliptv.mmonterrosa970.workers.dev/user/pass/388329.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gLT60Ptv/SEXTA-LA.png" group-title="ESPAÑA",LA SEXTA WESELLIPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Lzk7V8rG/960px-Telecinco-svg.png" group-title="ESPAÑA",TELECINCO - DL RESOLVER
+https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=532&1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLT60Ptv/SEXTA-LA.png" group-title="ESPAÑA",LA SEXTA - WESELLIPTV
 http://weselliptv.mmonterrosa970.workers.dev/user/pass/388333.ts
-#EXTINF:-1 tvg-id="Canal24horas.es" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/02/IMG_20210223_202622_457.jpg" group-title="ESPAÑA",24h RTVE
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/33/1/la-sexta-logo-png_seeklogo-335953.png" group-title="ESPAÑA",LA SEXTA - DL RESOLVER
+https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=534&1
+#EXTINF:-1 tvg-id="Canal24horas.es" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/02/IMG_20210223_202622_457.jpg" group-title="ESPAÑA",24h - RTVE
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://pbs.twimg.com/media/GyIXeuoWoAAUO30.jpg" group-title="ESPAÑA",Real Madrid TV RMTV
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://pbs.twimg.com/media/GyIXeuoWoAAUO30.jpg" group-title="ESPAÑA",Real Madrid TV - RMTV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-id="CanalSur.es" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="ESPAÑA", Canal Sur Andalucia CLOUDFRONT
+#EXTINF:-1 tvg-id="CanalSur.es" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="ESPAÑA", Canal Sur Andalucia - CLOUDFRONT
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
-#EXTINF:-1 tvg-id="Historia.es" tvg-logo="https://i.ibb.co/9mV97mzC/images-q-tbn-ANd9-Gc-Sw-RB5n-O-JCDxg-YEj-Thd-Uoj-HIRi-00eg-Bn-Fy-OD2-N-u-M3vud8f-GCr-Duu-Rd-X-s-10.jpg" group-title="ESPAÑA",	Historia CLOUDFRONT
+#EXTINF:-1 tvg-id="Historia.es" tvg-logo="https://i.ibb.co/9mV97mzC/images-q-tbn-ANd9-Gc-Sw-RB5n-O-JCDxg-YEj-Thd-Uoj-HIRi-00eg-Bn-Fy-OD2-N-u-M3vud8f-GCr-Duu-Rd-X-s-10.jpg" group-title="ESPAÑA",	Historia - CLOUDFRONT
 https://d1k3vzh2ivy22k.cloudfront.net/Historia720.m3u8
-#EXTINF:-1 tvg-id="OndaCero.TV" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="ESPAÑA", Onda Cero ATRES-LIVE
+#EXTINF:-1 tvg-id="OndaCero.TV" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="ESPAÑA", Onda Cero - ATRES-LIVE
 https://atres-live.ondacero.es/h264/live/obs/master.m3u8
 
 #ESPAÑA DEPORTES
@@ -55,6 +59,8 @@ http://weselliptv.mmonterrosa970.workers.dev/user/pass/1649496.ts
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=mligacampeones/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 1 - SPORTSBITE
 https://sportsbite.org/247/mligadecampeones
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 1 - DL RESOLVER
+https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=435&1
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 1 - WESELLIPTV
 http://weselliptv.mmonterrosa970.workers.dev/user/pass/388180.ts
 #EXTINF:-1 tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 2 - WESELLIPTV
@@ -63,6 +69,8 @@ http://weselliptv.mmonterrosa970.workers.dev/user/pass/388213.ts
 http://weselliptv.mmonterrosa970.workers.dev/user/pass/388214.ts
 #EXTINF:-1 tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 4 - WESELLIPTV
 http://weselliptv.mmonterrosa970.workers.dev/user/pass/388215.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/49/1/deportes-por-movistar-plus-logo-png_seeklogo-492841.png" group-title="ESPAÑA DEPORTES",MOVISTAR DEPORTES 1 - DL RESOLVER
+https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=436&1
 
 
 
