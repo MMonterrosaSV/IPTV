@@ -2,14 +2,19 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="Channels",DAZN La Liga 1 (zLive)
-https://zlive.st/watch/auto-dazn-laliga parseUrl=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="Channels",DAZN La Liga 1 (zLive)
-https://zlive.st/watch/auto-dazn-laliga parseUrl=2
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="Channels",MOVISTAR LA LIGA 1 (Streamxhd) PARSEURL1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="Channels",DAZN La Liga 1
+https://ntv.st/embed?t=TUx3S3hBUzB6MloweHhRZHpveVhrK1dZcnVib1ZpY0gyaUZvWmZ1UmZtWmNKNXRGYWVva1lPU2Z0ZU5ZaUE0eg~~"parseUrl=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="Channels",DAZN La Liga 2
+https://ntv.st/embed?t=TUx3S3hBUzB6MloweHhRZHpveVhrK1dZcnVib1ZpY0gyaUZvWmZ1UmZtWXhmZzFBcS9LaGVvdXdCcTAvNmVOLw~~ parseUrl=2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="Channels",M+ LA LIGA 1 - STREAMXHD
 https://streamxhd.com/live1.php?stream=mlaliga parseUrl=1
-#EXTINF:-1 tvg-logo=https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="Channels",MOVISTAR LA LIGA 1 (Streamxhd) PARSEURL2
-https://streamxhd.com/live1.php?stream=mlaliga parseUrl=2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="Channels",M+ LA LIGA 1
+https://ntv.st/embed?t=TUx3S3hBUzB6MloweHhRZHpveVhrK1dZcnVib1ZpY0gyaUZvWmZ1UmZtWmNKNXRGYWVva1lPU2Z0ZU5ZaUE0eg~~ parseUrl=2
+#EXTINF:-1 tvg-logo=" group-title="Channels",M+ LA LIGA 2
+https://ntv.st/embed?t=TUx3S3hBUzB6MloweHhRZHpveVhrK1dZcnVib1ZpY0gyaUZvWmZ1UmZtWmNKNXRGYWVva1lPU2Z0ZU5ZaUE0eg~~ parseUrl=1
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="Channels",DAZN LA LIGA 1 (Streamxhd) PARSEURL1
 https://streamxhd.com/live1.php?stream=daznlaliga parseUrl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="Channels",DAZN LA LIGA 1 (Streamxhd) PARSEURL2
