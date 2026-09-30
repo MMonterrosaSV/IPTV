@@ -96,6 +96,8 @@ https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0u
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/1cbg6qo1qp8wpc0vuu0v1/master.m3u8
 #EXTINF:-1 tvg-id="CNBC USA HD.us" tvg-logo="https://tvnow.st/logo/cnbc" group-title="USA",CNBC - TVNOW-ST
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0f06lpb0ljqelj0qrw1ol/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/cnbc" group-title="USA",CNBC - DL RESOLVER
+https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=309&1
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/telemundo" group-title="USA",Telemundo - TVNOW-ST
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/09ltl4b04motoc143frk0/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/univision" group-title="USA",Univision - TVNOW-ST
