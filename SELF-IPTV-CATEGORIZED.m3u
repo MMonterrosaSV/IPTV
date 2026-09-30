@@ -9,8 +9,6 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://images.seeklogo.com/logo-png/31/1/cuatro-logo-png_seeklogo-315005.png" group-title="ESPAÑA",CUATRO - DL RESOLVER
 https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=535&1
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://images.seeklogo.com/logo-png/31/1/cuatro-logo-png_seeklogo-315005.png" group-title="ESPAÑA",CUATRO - NTV
-https://ntv.mmonterrosa970.workers.dev/Cuatro-ES
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://i.ibb.co/Lzk7V8rG/960px-Telecinco-svg.png" group-title="ESPAÑA",TELECINCO - DL RESOLVER
 https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=532&1
 #EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://i.ibb.co/gLT60Ptv/SEXTA-LA.png" group-title="ESPAÑA",LA SEXTA - DL RESOLVER
@@ -99,8 +97,6 @@ https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0u
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/1cbg6qo1qp8wpc0vuu0v1/master.m3u8
 #EXTINF:-1 tvg-id="CNBC USA HD.us" tvg-logo="https://tvnow.st/logo/cnbc" group-title="USA",CNBC - TVNOW-ST
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/0f06lpb0ljqelj0qrw1ol/master.m3u8
-#EXTINF:-1 tvg-id="CNBC USA HD.us" tvg-logo="https://tvnow.st/logo/cnbc" group-title="USA",CNBC - NTV
-https://ntv.mmonterrosa970.workers.dev/CNBC-US
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvnow.st/logo/telemundo" group-title="USA",Telemundo - TVNOW-ST
 https://tvnow-st.mmonterrosa970.workers.dev/?url=https://cache0.wonvt.st/live/09ltl4b04motoc143frk0/master.m3u8
 #EXTINF:-1 tvg-logo="https://tvnow.st/logo/univision" group-title="USA",Univision - TVNOW-ST
@@ -143,8 +139,6 @@ https://24hsport.mmonterrosa970.workers.dev/?url=https://yp5yhixwhg.zlyv.eu/live
 https://sportsbite.org/247/dazn1fr
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/16/1/tf1-logo-png_seeklogo-169793.png" group-title="FRANCE",TF1 - DL RESOLVER
 https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=469&1
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/16/1/tf1-logo-png_seeklogo-169793.png" group-title="FRANCE",TF1 - NTV
-https://ntv.mmonterrosa970.workers.dev/TF1-FR
 
 
 
