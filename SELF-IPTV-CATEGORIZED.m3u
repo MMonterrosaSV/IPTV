@@ -134,6 +134,8 @@ https://yp5yhixwhg.zlyv.eu/live/uk_ssepl.flv
 https://sportsbite.org/247/premiersports1
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiOw3sxZxHYU3-JZ05Zbj_t1O5qo1o0KtW9P0f87IkPA&s=10" group-title="UK",PREMIER SPORTS 1 UK - 24HSPORT
 https://yp5yhixwhg.zlyv.eu/live/uk_premiersports1.flv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",PREMIER SPORTS 2 - 24HSPORT
+https://yp5yhixwhg.zlyv.eu/live/uk_premiersports2.flv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",TNT SPORTS 1 - 24HSPORT
 https://24hsport.mmonterrosa970.workers.dev/?url=https://fukd67wzxz.zlyv.eu/live/uk_bts1.flv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",TNT SPORT 2 - 24HSPORT
@@ -142,34 +144,20 @@ https://yp5yhixwhg.zlyv.eu/live/uk_bts2.flv
 https://yp5yhixwhg.zlyv.eu/live/uk_bts3.flv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",TNT SPORT 4 - 24HSPORT
 https://yp5yhixwhg.zlyv.eu/live/uk_bts4.flv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",PREMIER SPORTS 1 - 24HSPORT
-https://yp5yhixwhg.zlyv.eu/live/uk_premiersports1.flv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",PREMIER SPORTS 2 - 24HSPORT
-https://yp5yhixwhg.zlyv.eu/live/uk_premiersports2.flv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",SKY SPORTS FOOTBALL - 24HSPORT
 https://yp5yhixwhg.zlyv.eu/live/uk_ssfb.flv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",SKY SPORTS PREMIER LEAGUE - 24HSPORT
-https://yp5yhixwhg.zlyv.eu/live/uk_ssepl.flv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",SKY SPORTS MAIN EVENT - 24HSPORT
 https://yp5yhixwhg.zlyv.eu/live/uk_ssmain.flv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",SKY SPORT + - 24HSPORT
 https://yp5yhixwhg.zlyv.eu/live/uk_ssplus.flv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",SKY SPORTS F1 - 24HSPORT
 https://yp5yhixwhg.zlyv.eu/live/uk_ssf1.flv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",SKY SPORTS CRICKET - 24HSPORT
-https://yp5yhixwhg.zlyv.eu/live/uk_sscricket.flv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",SKY SPORTS MIX - 24HSPORT
 https://yp5yhixwhg.zlyv.eu/live/uk_ssmix.flv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",SKY SPORTS NEWS - 24HSPORT
-https://yp5yhixwhg.zlyv.eu/live/uk_ssnews.flv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",SKY SPORTS GOLF - 24HSPORT
-https://yp5yhixwhg.zlyv.eu/live/uk_ssgolf.flv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",BBC ONE - 24HSPORT
 https://yp5yhixwhg.zlyv.eu/live/uk_bbc1.flv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",BBC TWO - 24HSPORT
 https://yp5yhixwhg.zlyv.eu/live/uk_bbc2.flv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",BBC THREE - 24HSPORT
-https://yp5yhixwhg.zlyv.eu/live/uk_bbc3.flv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",CHANNEL 4 - 24HSPORT
 https://yp5yhixwhg.zlyv.eu/live/uk_channel4.flv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",CHANNEL 5 - 24HSPORT
@@ -182,12 +170,6 @@ https://yp5yhixwhg.zlyv.eu/live/uk_itv2.flv
 https://yp5yhixwhg.zlyv.eu/live/uk_itv3.flv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",ITV 4 - 24HSPORT
 https://yp5yhixwhg.zlyv.eu/live/uk_itv4.flv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",BBC WORLD NEWS - 24HSPORT
-https://yp5yhixwhg.zlyv.eu/live/uk_bbcnews.flv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",MU TV - 24HSPORT
-https://yp5yhixwhg.zlyv.eu/live/uk_mutv.flv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",LFC TV - 24HSPORT
-https://yp5yhixwhg.zlyv.eu/live/uk_lfctv.flv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",SKY SPORTS ARENA - 24HSPORT
 https://yp5yhixwhg.zlyv.eu/live/uk_ssarena.flv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK",SKY SPORTS TENNIS - 24HSPORT
