@@ -3,9 +3,9 @@
 
 
 #ESPAÑA
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://graph.facebook.com/la1detve/picture?width=200&height=200" group-title="ESPAÑA",La 1 - RTVELIVESTREAM
+#EXTINF:-1 tvg-id="LA1.es" tvg-logo="https://graph.facebook.com/la1detve/picture?width=200&height=200" group-title="ESPAÑA",La 1 - RTVELIVESTREAM
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
-#EXTINF:-1 tvg-id="la 2.es" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA",La 2 - RTVELIVESTREAM
+#EXTINF:-1 tvg-id="LA2.es" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA",La 2 - RTVELIVESTREAM
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://images.seeklogo.com/logo-png/31/1/cuatro-logo-png_seeklogo-315005.png" group-title="ESPAÑA",CUATRO - DL RESOLVER
 https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=535&1
