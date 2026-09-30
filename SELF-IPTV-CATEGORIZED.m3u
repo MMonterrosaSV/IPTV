@@ -186,7 +186,10 @@ https://yp5yhixwhg.zlyv.eu/live/uk_ssracing.flv
 https://sportsbite.org/247/dazn1fr
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/16/1/tf1-logo-png_seeklogo-169793.png" group-title="FRANCE",TF1 - DL RESOLVER
 https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=469&1
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/16/1/tf1-logo-png_seeklogo-169793.png" group-title="FRANCE",TF1 - SPORTSBITE
+https://sportsbite.org/247/tf1fr
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/16/1/tf1-logo-png_seeklogo-169793.png" group-title="FRANCE",TF1 V2 - SPORTSBITE
+https://sportsbite.mmonterrosa970.workers.dev/?url=https://sportsbite.org/247/tf1fr
 
 
 #ARGENTINA
