@@ -7,6 +7,10 @@
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="la 2.es" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA",La 2 - RTVELIVESTREAM
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/31/1/cuatro-logo-png_seeklogo-315005.png" group-title="ESPAÑA",CUATRO - DL RESOLVER
+https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=535&1
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/31/1/cuatro-logo-png_seeklogo-315005.png" group-title="ESPAÑA",CUATRO - NTV
+https://ntv.mmonterrosa970.workers.dev/Cuatro-ES
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Lzk7V8rG/960px-Telecinco-svg.png" group-title="ESPAÑA",TELECINCO - DL RESOLVER
 https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=532&1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gLT60Ptv/SEXTA-LA.png" group-title="ESPAÑA",LA SEXTA - DL RESOLVER
@@ -22,6 +26,7 @@ https://d1k3vzh2ivy22k.cloudfront.net/Historia720.m3u8
 #EXTINF:-1 tvg-id="OndaCero.TV" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="ESPAÑA", Onda Cero - ATRES-LIVE
 https://atres-live.ondacero.es/h264/live/obs/master.m3u8
 
+
 #ESPAÑA DEPORTES
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="ESPAÑA DEPORTES",DAZN LA LIGA 1 SD - STREAMXHD
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=daznlaliga/stream.m3u8
@@ -29,10 +34,14 @@ https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.ph
 https://sportsbite.org/247/daznlaliga
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="ESPAÑA DEPORTES",DAZN LA LIGA 1 - DL RESOLVER
 https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=538&1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ksk5gFzM/dazn-laliga-logo-png-seeklogo-490009.png" group-title="ESPAÑA DEPORTES",DAZN LA LIGA 1 - NTV
+https://ntv.mmonterrosa970.workers.dev/DAZN-LaLiga-TV-ES
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA DEPORTES",M+ LA LIGA 1 SD - STREAMXHD
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=mlaliga/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA DEPORTES",M+ LA LIGA 1 - DL RESOLVER
 https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=84&1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/08/movistar_laliga_hdr.jpg" group-title="ESPAÑA DEPORTES",M+ LA LIGA 1 - NTV
+https://ntv.mmonterrosa970.workers.dev/M-LaLiga-TV-ES
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 1 SD - STREAMXHD
 https://streamxhd.mmonterrosa970.workers.dev/?url=https://streamxhd.com/live1.php?stream=mligacampeones/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 1 - SPORTSBITE
