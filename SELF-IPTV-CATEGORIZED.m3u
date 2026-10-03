@@ -9,8 +9,12 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://images.seeklogo.com/logo-png/31/1/cuatro-logo-png_seeklogo-315005.png" group-title="ESPAÑA",CUATRO - DL RESOLVER
 https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=535&1
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://images.seeklogo.com/logo-png/31/1/cuatro-logo-png_seeklogo-315005.png" group-title="ESPAÑA",CUATRO - SELF WORKER
+https://tdt-spain.mmonterrosa970.workers.dev/4
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://i.ibb.co/Lzk7V8rG/960px-Telecinco-svg.png" group-title="ESPAÑA",TELECINCO - DL RESOLVER
 https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=532&1
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://i.ibb.co/Lzk7V8rG/960px-Telecinco-svg.png" group-title="ESPAÑA",TELECINCO - SELF WORKER
+https://tdt-spain.mmonterrosa970.workers.dev/5
 #EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://i.ibb.co/gLT60Ptv/SEXTA-LA.png" group-title="ESPAÑA",LA SEXTA - DL RESOLVER
 https://dl-resolver.mmonterrosa970.workers.dev/resolve?channel=534&1
 #EXTINF:-1 tvg-id="Canal24horas.es" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/02/IMG_20210223_202622_457.jpg" group-title="ESPAÑA",24h - RTVE
